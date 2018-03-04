@@ -1,0 +1,372 @@
+[
+  {
+    "Text": "hikari00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari05_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari99_add",
+    "Translation": ""
+  },
+  {
+    "Text": "eff\\\\trapdmg0.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva00_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0444",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0444",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0444",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0059",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0059",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0059",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0002",
+      "#56I",
+      "地のセピス?２０００\u0001",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event\\ev202_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\evwarp.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\ev202_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "c_plac58",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00108F",
+      "#12P",
+      "ここが《領域》……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00108F",
+      "#12P",
+      "もう一つの《領域》……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00601F",
+      "#12P",
+      "一面の荒野か……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10701F",
+      "#12P",
+      "一面の荒野……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10111F",
+      "#12P",
+      "一面の荒野……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00306F",
+      "#12P",
+      "こいつはまた……\u0001",
+      "やっこさんらしい場所だな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00201F",
+      "#12P",
+      "あれは……何らかの\u0001",
+      "負のエネルギーのようですが……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10406F",
+      "#11P",
+      "──やれやれ。\u0001",
+      "ちょっとばかり彼を\u0001",
+      "侮りすぎていたみたいだ。\u0002",
+      "\u0003",
+      "#10408F",
+      "まさか只人",
+      "#4Rただびと#",
+      "の身で\u0001",
+      "ここまで“化ける”とはね……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00008F",
+      "#11P",
+      "ワジ……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10108F",
+      "#12P",
+      "……ワジ君。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10402F",
+      "#11P",
+      "──行こう。\u0001",
+      "この先にヴァルドが待っている。\u0002",
+      "\u0003",
+      "#10404F",
+      "今度こそ全身全霊を賭けて\u0001",
+      "叩きのめしてやらないとね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "hikari00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari05_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari99_add",
+    "Translation": ""
+  }
+]

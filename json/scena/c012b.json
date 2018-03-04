@@ -1,0 +1,273 @@
+[
+  {
+    "Text": "asihuki",
+    "Translation": ""
+  },
+  {
+    "Text": "asihuki",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00000F",
+      "ここはティオの部屋だ。\u0001",
+      "入るのはやめておこう。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#0000F",
+      "ここでいいかな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ロイドの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#0000F",
+      "ここでいいかな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ロイドの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "家具アイテムを入手すると\u0001",
+      "支援課メンバーの部屋に置く事ができます。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#0300F",
+      "ここでいいか。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ランディの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#0300F",
+      "ここでいいか。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ランディの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10300F",
+      "フフ、ここでいいかな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ワジの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10300F",
+      "フフ、ここでいいかな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ワジの部屋に\u0001",
+      "新しい家具が追加されました。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "ここで休憩する\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "ここで休憩する\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "ここで休憩する\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis361.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "トリスタン号がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis360.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ミニサンドバッグがある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis366.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "サーフボードがある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis367.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ジュークボックスがある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis368.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "コンフォートチェアがある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_vis369.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "ミニ・アクアリウムがある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "rhuton",
+    "Translation": ""
+  }
+]

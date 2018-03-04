@@ -1,0 +1,5426 @@
+[
+  {
+    "Text": "00sys",
+    "Translation": ""
+  },
+  {
+    "Text": "APL表示用",
+    "Translation": ""
+  },
+  {
+    "Text": "b0100",
+    "Translation": ""
+  },
+  {
+    "Text": "b0101",
+    "Translation": ""
+  },
+  {
+    "Text": "bc0100",
+    "Translation": ""
+  },
+  {
+    "Text": "bc0200",
+    "Translation": ""
+  },
+  {
+    "Text": "bc0300",
+    "Translation": ""
+  },
+  {
+    "Text": "bc0400",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1000",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1100",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1200",
+    "Translation": ""
+  },
+  {
+    "Text": "bc122b",
+    "Translation": ""
+  },
+  {
+    "Text": "bc130b",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1400",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1460",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1470",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1510",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1520",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1530",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1540",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1560",
+    "Translation": ""
+  },
+  {
+    "Text": "bc1600",
+    "Translation": ""
+  },
+  {
+    "Text": "be4800",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0100",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0101",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0200",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0220",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0300",
+    "Translation": ""
+  },
+  {
+    "Text": "bm0320",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1000",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1010",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1020",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1040",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1061",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1070",
+    "Translation": ""
+  },
+  {
+    "Text": "bm1080",
+    "Translation": ""
+  },
+  {
+    "Text": "bm2000",
+    "Translation": ""
+  },
+  {
+    "Text": "bm2020",
+    "Translation": ""
+  },
+  {
+    "Text": "bm2050",
+    "Translation": ""
+  },
+  {
+    "Text": "bm2060",
+    "Translation": ""
+  },
+  {
+    "Text": "bm2099",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4000",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4010",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4020",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4030",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4040",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4110",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4120",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4130",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4150",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4160",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4200",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4210",
+    "Translation": ""
+  },
+  {
+    "Text": "bm4250",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9000",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9010",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9020",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9030",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9039",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9040",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9041",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9049",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9050",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9059",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9060",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9069",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9070",
+    "Translation": ""
+  },
+  {
+    "Text": "bm9099",
+    "Translation": ""
+  },
+  {
+    "Text": "br0000",
+    "Translation": ""
+  },
+  {
+    "Text": "br0100",
+    "Translation": ""
+  },
+  {
+    "Text": "br0200",
+    "Translation": ""
+  },
+  {
+    "Text": "br1000",
+    "Translation": ""
+  },
+  {
+    "Text": "br1060",
+    "Translation": ""
+  },
+  {
+    "Text": "br1500",
+    "Translation": ""
+  },
+  {
+    "Text": "br1510",
+    "Translation": ""
+  },
+  {
+    "Text": "br1520",
+    "Translation": ""
+  },
+  {
+    "Text": "br1530",
+    "Translation": ""
+  },
+  {
+    "Text": "br1600",
+    "Translation": ""
+  },
+  {
+    "Text": "br2000",
+    "Translation": ""
+  },
+  {
+    "Text": "br2040",
+    "Translation": ""
+  },
+  {
+    "Text": "br2050",
+    "Translation": ""
+  },
+  {
+    "Text": "br2060",
+    "Translation": ""
+  },
+  {
+    "Text": "br2061",
+    "Translation": ""
+  },
+  {
+    "Text": "br2070",
+    "Translation": ""
+  },
+  {
+    "Text": "br2080",
+    "Translation": ""
+  },
+  {
+    "Text": "br3000",
+    "Translation": ""
+  },
+  {
+    "Text": "br4000",
+    "Translation": ""
+  },
+  {
+    "Text": "br4010",
+    "Translation": ""
+  },
+  {
+    "Text": "br4020",
+    "Translation": ""
+  },
+  {
+    "Text": "bt0000",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1010",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1020",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1030",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1110",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1300",
+    "Translation": ""
+  },
+  {
+    "Text": "bt130b",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1310",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1320",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1400",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1410",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1420",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1430",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1450",
+    "Translation": ""
+  },
+  {
+    "Text": "bt1510",
+    "Translation": ""
+  },
+  {
+    "Text": "bt2030",
+    "Translation": ""
+  },
+  {
+    "Text": "bt2500",
+    "Translation": ""
+  },
+  {
+    "Text": "BT6010",
+    "Translation": ""
+  },
+  {
+    "Text": "BT6020",
+    "Translation": ""
+  },
+  {
+    "Text": "BT6030",
+    "Translation": ""
+  },
+  {
+    "Text": "c0000",
+    "Translation": ""
+  },
+  {
+    "Text": "c000b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0010",
+    "Translation": ""
+  },
+  {
+    "Text": "c0100",
+    "Translation": ""
+  },
+  {
+    "Text": "c0100_1",
+    "Translation": ""
+  },
+  {
+    "Text": "c010b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0110",
+    "Translation": ""
+  },
+  {
+    "Text": "c011b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0120",
+    "Translation": ""
+  },
+  {
+    "Text": "c012b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0130",
+    "Translation": ""
+  },
+  {
+    "Text": "c013b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0140",
+    "Translation": ""
+  },
+  {
+    "Text": "c014b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0150",
+    "Translation": ""
+  },
+  {
+    "Text": "c015b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0170",
+    "Translation": ""
+  },
+  {
+    "Text": "c017b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0180",
+    "Translation": ""
+  },
+  {
+    "Text": "c018b",
+    "Translation": ""
+  },
+  {
+    "Text": "c018d",
+    "Translation": ""
+  },
+  {
+    "Text": "c0200",
+    "Translation": ""
+  },
+  {
+    "Text": "c020b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0210",
+    "Translation": ""
+  },
+  {
+    "Text": "c021b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0220",
+    "Translation": ""
+  },
+  {
+    "Text": "c022b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0240",
+    "Translation": ""
+  },
+  {
+    "Text": "c024b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0250",
+    "Translation": ""
+  },
+  {
+    "Text": "c025b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0300",
+    "Translation": ""
+  },
+  {
+    "Text": "c030b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0310",
+    "Translation": ""
+  },
+  {
+    "Text": "c031b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0320",
+    "Translation": ""
+  },
+  {
+    "Text": "c032b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0330",
+    "Translation": ""
+  },
+  {
+    "Text": "c033b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0340",
+    "Translation": ""
+  },
+  {
+    "Text": "c034b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0350",
+    "Translation": ""
+  },
+  {
+    "Text": "c035b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0360",
+    "Translation": ""
+  },
+  {
+    "Text": "c0400",
+    "Translation": ""
+  },
+  {
+    "Text": "c040b",
+    "Translation": ""
+  },
+  {
+    "Text": "c040d",
+    "Translation": ""
+  },
+  {
+    "Text": "c0410",
+    "Translation": ""
+  },
+  {
+    "Text": "c0420",
+    "Translation": ""
+  },
+  {
+    "Text": "c0450",
+    "Translation": ""
+  },
+  {
+    "Text": "c0470",
+    "Translation": ""
+  },
+  {
+    "Text": "c0490",
+    "Translation": ""
+  },
+  {
+    "Text": "c0500",
+    "Translation": ""
+  },
+  {
+    "Text": "c050b",
+    "Translation": ""
+  },
+  {
+    "Text": "c0510",
+    "Translation": ""
+  },
+  {
+    "Text": "c0570",
+    "Translation": ""
+  },
+  {
+    "Text": "c0580",
+    "Translation": ""
+  },
+  {
+    "Text": "c0593",
+    "Translation": ""
+  },
+  {
+    "Text": "c0597",
+    "Translation": ""
+  },
+  {
+    "Text": "c0800",
+    "Translation": ""
+  },
+  {
+    "Text": "c1000",
+    "Translation": ""
+  },
+  {
+    "Text": "c1000_1",
+    "Translation": ""
+  },
+  {
+    "Text": "c1000_2",
+    "Translation": ""
+  },
+  {
+    "Text": "c100b",
+    "Translation": ""
+  },
+  {
+    "Text": "c1010",
+    "Translation": ""
+  },
+  {
+    "Text": "c1020",
+    "Translation": ""
+  },
+  {
+    "Text": "c1030",
+    "Translation": ""
+  },
+  {
+    "Text": "c1040",
+    "Translation": ""
+  },
+  {
+    "Text": "c1050",
+    "Translation": ""
+  },
+  {
+    "Text": "c1100",
+    "Translation": ""
+  },
+  {
+    "Text": "c110b",
+    "Translation": ""
+  },
+  {
+    "Text": "c110d",
+    "Translation": ""
+  },
+  {
+    "Text": "c1110",
+    "Translation": ""
+  },
+  {
+    "Text": "c1120",
+    "Translation": ""
+  },
+  {
+    "Text": "c1130",
+    "Translation": ""
+  },
+  {
+    "Text": "c1150",
+    "Translation": ""
+  },
+  {
+    "Text": "c115d",
+    "Translation": ""
+  },
+  {
+    "Text": "c1160",
+    "Translation": ""
+  },
+  {
+    "Text": "c1170",
+    "Translation": ""
+  },
+  {
+    "Text": "c1200",
+    "Translation": ""
+  },
+  {
+    "Text": "c120b",
+    "Translation": ""
+  },
+  {
+    "Text": "c120d",
+    "Translation": ""
+  },
+  {
+    "Text": "c1210",
+    "Translation": ""
+  },
+  {
+    "Text": "c121d",
+    "Translation": ""
+  },
+  {
+    "Text": "c1220",
+    "Translation": ""
+  },
+  {
+    "Text": "c122b",
+    "Translation": ""
+  },
+  {
+    "Text": "c1300",
+    "Translation": ""
+  },
+  {
+    "Text": "c130b",
+    "Translation": ""
+  },
+  {
+    "Text": "c1310",
+    "Translation": ""
+  },
+  {
+    "Text": "c1320",
+    "Translation": ""
+  },
+  {
+    "Text": "c1330",
+    "Translation": ""
+  },
+  {
+    "Text": "c1340",
+    "Translation": ""
+  },
+  {
+    "Text": "c1400",
+    "Translation": ""
+  },
+  {
+    "Text": "c140b",
+    "Translation": ""
+  },
+  {
+    "Text": "c140d",
+    "Translation": ""
+  },
+  {
+    "Text": "c1410",
+    "Translation": ""
+  },
+  {
+    "Text": "c1420",
+    "Translation": ""
+  },
+  {
+    "Text": "c1430",
+    "Translation": ""
+  },
+  {
+    "Text": "c1440",
+    "Translation": ""
+  },
+  {
+    "Text": "c1450",
+    "Translation": ""
+  },
+  {
+    "Text": "c1460",
+    "Translation": ""
+  },
+  {
+    "Text": "c1500",
+    "Translation": ""
+  },
+  {
+    "Text": "c150b",
+    "Translation": ""
+  },
+  {
+    "Text": "c1510",
+    "Translation": ""
+  },
+  {
+    "Text": "c1520",
+    "Translation": ""
+  },
+  {
+    "Text": "c1530",
+    "Translation": ""
+  },
+  {
+    "Text": "c153b",
+    "Translation": ""
+  },
+  {
+    "Text": "c1540",
+    "Translation": ""
+  },
+  {
+    "Text": "c1550",
+    "Translation": ""
+  },
+  {
+    "Text": "c1560",
+    "Translation": ""
+  },
+  {
+    "Text": "c1580",
+    "Translation": ""
+  },
+  {
+    "Text": "c1581",
+    "Translation": ""
+  },
+  {
+    "Text": "c1582",
+    "Translation": ""
+  },
+  {
+    "Text": "c1583",
+    "Translation": ""
+  },
+  {
+    "Text": "c1584",
+    "Translation": ""
+  },
+  {
+    "Text": "c1600",
+    "Translation": ""
+  },
+  {
+    "Text": "e0010",
+    "Translation": ""
+  },
+  {
+    "Text": "e0111",
+    "Translation": ""
+  },
+  {
+    "Text": "e0410",
+    "Translation": ""
+  },
+  {
+    "Text": "e0510",
+    "Translation": ""
+  },
+  {
+    "Text": "e2010",
+    "Translation": ""
+  },
+  {
+    "Text": "e2110",
+    "Translation": ""
+  },
+  {
+    "Text": "e3000",
+    "Translation": ""
+  },
+  {
+    "Text": "e3020",
+    "Translation": ""
+  },
+  {
+    "Text": "e3020_1",
+    "Translation": ""
+  },
+  {
+    "Text": "e302b",
+    "Translation": ""
+  },
+  {
+    "Text": "e3110",
+    "Translation": ""
+  },
+  {
+    "Text": "e3210",
+    "Translation": ""
+  },
+  {
+    "Text": "e3600",
+    "Translation": ""
+  },
+  {
+    "Text": "e3800",
+    "Translation": ""
+  },
+  {
+    "Text": "e3900",
+    "Translation": ""
+  },
+  {
+    "Text": "e4000",
+    "Translation": ""
+  },
+  {
+    "Text": "e4010",
+    "Translation": ""
+  },
+  {
+    "Text": "e4020",
+    "Translation": ""
+  },
+  {
+    "Text": "e4100",
+    "Translation": ""
+  },
+  {
+    "Text": "e4101",
+    "Translation": ""
+  },
+  {
+    "Text": "e4200",
+    "Translation": ""
+  },
+  {
+    "Text": "e4201",
+    "Translation": ""
+  },
+  {
+    "Text": "e4210",
+    "Translation": ""
+  },
+  {
+    "Text": "e4211",
+    "Translation": ""
+  },
+  {
+    "Text": "e4212",
+    "Translation": ""
+  },
+  {
+    "Text": "e4213",
+    "Translation": ""
+  },
+  {
+    "Text": "e4300",
+    "Translation": ""
+  },
+  {
+    "Text": "e430b",
+    "Translation": ""
+  },
+  {
+    "Text": "e4310",
+    "Translation": ""
+  },
+  {
+    "Text": "e4320",
+    "Translation": ""
+  },
+  {
+    "Text": "e4400",
+    "Translation": ""
+  },
+  {
+    "Text": "e440b",
+    "Translation": ""
+  },
+  {
+    "Text": "e4500",
+    "Translation": ""
+  },
+  {
+    "Text": "e4600",
+    "Translation": ""
+  },
+  {
+    "Text": "e4700",
+    "Translation": ""
+  },
+  {
+    "Text": "e4800",
+    "Translation": ""
+  },
+  {
+    "Text": "e4810",
+    "Translation": ""
+  },
+  {
+    "Text": "e4820",
+    "Translation": ""
+  },
+  {
+    "Text": "e4830",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣ",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣ客Ａ",
+    "Translation": ""
+  },
+  {
+    "Text": "m0000",
+    "Translation": ""
+  },
+  {
+    "Text": "m0001",
+    "Translation": ""
+  },
+  {
+    "Text": "m0011",
+    "Translation": ""
+  },
+  {
+    "Text": "m0100",
+    "Translation": ""
+  },
+  {
+    "Text": "m0101",
+    "Translation": ""
+  },
+  {
+    "Text": "m0102",
+    "Translation": ""
+  },
+  {
+    "Text": "m0200",
+    "Translation": ""
+  },
+  {
+    "Text": "m0201",
+    "Translation": ""
+  },
+  {
+    "Text": "m0202",
+    "Translation": ""
+  },
+  {
+    "Text": "m0209",
+    "Translation": ""
+  },
+  {
+    "Text": "m0300",
+    "Translation": ""
+  },
+  {
+    "Text": "m0301",
+    "Translation": ""
+  },
+  {
+    "Text": "m0302",
+    "Translation": ""
+  },
+  {
+    "Text": "m0303",
+    "Translation": ""
+  },
+  {
+    "Text": "m0304",
+    "Translation": ""
+  },
+  {
+    "Text": "m0309",
+    "Translation": ""
+  },
+  {
+    "Text": "m0400",
+    "Translation": ""
+  },
+  {
+    "Text": "m0401",
+    "Translation": ""
+  },
+  {
+    "Text": "m1000",
+    "Translation": ""
+  },
+  {
+    "Text": "m1010",
+    "Translation": ""
+  },
+  {
+    "Text": "m1020",
+    "Translation": ""
+  },
+  {
+    "Text": "m1030",
+    "Translation": ""
+  },
+  {
+    "Text": "m1060",
+    "Translation": ""
+  },
+  {
+    "Text": "m1070",
+    "Translation": ""
+  },
+  {
+    "Text": "m1080",
+    "Translation": ""
+  },
+  {
+    "Text": "m1090",
+    "Translation": ""
+  },
+  {
+    "Text": "m1099",
+    "Translation": ""
+  },
+  {
+    "Text": "m1140",
+    "Translation": ""
+  },
+  {
+    "Text": "m1150",
+    "Translation": ""
+  },
+  {
+    "Text": "m2000",
+    "Translation": ""
+  },
+  {
+    "Text": "m2010",
+    "Translation": ""
+  },
+  {
+    "Text": "m2020",
+    "Translation": ""
+  },
+  {
+    "Text": "m2030",
+    "Translation": ""
+  },
+  {
+    "Text": "m2040",
+    "Translation": ""
+  },
+  {
+    "Text": "m2050",
+    "Translation": ""
+  },
+  {
+    "Text": "m2060",
+    "Translation": ""
+  },
+  {
+    "Text": "m2099",
+    "Translation": ""
+  },
+  {
+    "Text": "m3099",
+    "Translation": ""
+  },
+  {
+    "Text": "m4000",
+    "Translation": ""
+  },
+  {
+    "Text": "m4010",
+    "Translation": ""
+  },
+  {
+    "Text": "m4020",
+    "Translation": ""
+  },
+  {
+    "Text": "m4040",
+    "Translation": ""
+  },
+  {
+    "Text": "m4050",
+    "Translation": ""
+  },
+  {
+    "Text": "m4060",
+    "Translation": ""
+  },
+  {
+    "Text": "m4090",
+    "Translation": ""
+  },
+  {
+    "Text": "m4100",
+    "Translation": ""
+  },
+  {
+    "Text": "m4110",
+    "Translation": ""
+  },
+  {
+    "Text": "m4120",
+    "Translation": ""
+  },
+  {
+    "Text": "m4130",
+    "Translation": ""
+  },
+  {
+    "Text": "m4140",
+    "Translation": ""
+  },
+  {
+    "Text": "m4150",
+    "Translation": ""
+  },
+  {
+    "Text": "m4160",
+    "Translation": ""
+  },
+  {
+    "Text": "m4190",
+    "Translation": ""
+  },
+  {
+    "Text": "m4200",
+    "Translation": ""
+  },
+  {
+    "Text": "m4210",
+    "Translation": ""
+  },
+  {
+    "Text": "m4220",
+    "Translation": ""
+  },
+  {
+    "Text": "m4230",
+    "Translation": ""
+  },
+  {
+    "Text": "m4250",
+    "Translation": ""
+  },
+  {
+    "Text": "m4290",
+    "Translation": ""
+  },
+  {
+    "Text": "m9000",
+    "Translation": ""
+  },
+  {
+    "Text": "m9001",
+    "Translation": ""
+  },
+  {
+    "Text": "m9002",
+    "Translation": ""
+  },
+  {
+    "Text": "m9003",
+    "Translation": ""
+  },
+  {
+    "Text": "m9004",
+    "Translation": ""
+  },
+  {
+    "Text": "m9005",
+    "Translation": ""
+  },
+  {
+    "Text": "m9006",
+    "Translation": ""
+  },
+  {
+    "Text": "m9007",
+    "Translation": ""
+  },
+  {
+    "Text": "m9008",
+    "Translation": ""
+  },
+  {
+    "Text": "m9009",
+    "Translation": ""
+  },
+  {
+    "Text": "m9010",
+    "Translation": ""
+  },
+  {
+    "Text": "m9011",
+    "Translation": ""
+  },
+  {
+    "Text": "m9012",
+    "Translation": ""
+  },
+  {
+    "Text": "m9013",
+    "Translation": ""
+  },
+  {
+    "Text": "m9014",
+    "Translation": ""
+  },
+  {
+    "Text": "m9050",
+    "Translation": ""
+  },
+  {
+    "Text": "m9051",
+    "Translation": ""
+  },
+  {
+    "Text": "m9052",
+    "Translation": ""
+  },
+  {
+    "Text": "m9060",
+    "Translation": ""
+  },
+  {
+    "Text": "m9061",
+    "Translation": ""
+  },
+  {
+    "Text": "m9062",
+    "Translation": ""
+  },
+  {
+    "Text": "m9070",
+    "Translation": ""
+  },
+  {
+    "Text": "m9071",
+    "Translation": ""
+  },
+  {
+    "Text": "m9072",
+    "Translation": ""
+  },
+  {
+    "Text": "m9080",
+    "Translation": ""
+  },
+  {
+    "Text": "m9081",
+    "Translation": ""
+  },
+  {
+    "Text": "m9082",
+    "Translation": ""
+  },
+  {
+    "Text": "m9099",
+    "Translation": ""
+  },
+  {
+    "Text": "MapThread",
+    "Translation": ""
+  },
+  {
+    "Text": "ＭＷＬスタッフ",
+    "Translation": ""
+  },
+  {
+    "Text": "ＯＬ",
+    "Translation": ""
+  },
+  {
+    "Text": "r0000",
+    "Translation": ""
+  },
+  {
+    "Text": "r0000_1",
+    "Translation": ""
+  },
+  {
+    "Text": "r0020",
+    "Translation": ""
+  },
+  {
+    "Text": "r0030",
+    "Translation": ""
+  },
+  {
+    "Text": "r0040",
+    "Translation": ""
+  },
+  {
+    "Text": "r0050",
+    "Translation": ""
+  },
+  {
+    "Text": "r0100",
+    "Translation": ""
+  },
+  {
+    "Text": "r0110",
+    "Translation": ""
+  },
+  {
+    "Text": "r0120",
+    "Translation": ""
+  },
+  {
+    "Text": "r0200",
+    "Translation": ""
+  },
+  {
+    "Text": "r0210",
+    "Translation": ""
+  },
+  {
+    "Text": "r1000",
+    "Translation": ""
+  },
+  {
+    "Text": "r1010",
+    "Translation": ""
+  },
+  {
+    "Text": "r1020",
+    "Translation": ""
+  },
+  {
+    "Text": "r1030",
+    "Translation": ""
+  },
+  {
+    "Text": "r1040",
+    "Translation": ""
+  },
+  {
+    "Text": "r1050",
+    "Translation": ""
+  },
+  {
+    "Text": "r1060",
+    "Translation": ""
+  },
+  {
+    "Text": "r1070",
+    "Translation": ""
+  },
+  {
+    "Text": "r1080",
+    "Translation": ""
+  },
+  {
+    "Text": "r1500",
+    "Translation": ""
+  },
+  {
+    "Text": "r1520",
+    "Translation": ""
+  },
+  {
+    "Text": "r1530",
+    "Translation": ""
+  },
+  {
+    "Text": "r1540",
+    "Translation": ""
+  },
+  {
+    "Text": "r1580",
+    "Translation": ""
+  },
+  {
+    "Text": "r1600",
+    "Translation": ""
+  },
+  {
+    "Text": "r1610",
+    "Translation": ""
+  },
+  {
+    "Text": "r2000",
+    "Translation": ""
+  },
+  {
+    "Text": "r2010",
+    "Translation": ""
+  },
+  {
+    "Text": "r2020",
+    "Translation": ""
+  },
+  {
+    "Text": "r2030",
+    "Translation": ""
+  },
+  {
+    "Text": "r203b",
+    "Translation": ""
+  },
+  {
+    "Text": "r2040",
+    "Translation": ""
+  },
+  {
+    "Text": "r2050",
+    "Translation": ""
+  },
+  {
+    "Text": "r2060",
+    "Translation": ""
+  },
+  {
+    "Text": "r2070",
+    "Translation": ""
+  },
+  {
+    "Text": "r3000",
+    "Translation": ""
+  },
+  {
+    "Text": "r3060",
+    "Translation": ""
+  },
+  {
+    "Text": "r3070",
+    "Translation": ""
+  },
+  {
+    "Text": "r3080",
+    "Translation": ""
+  },
+  {
+    "Text": "r3100",
+    "Translation": ""
+  },
+  {
+    "Text": "r3110",
+    "Translation": ""
+  },
+  {
+    "Text": "r3120",
+    "Translation": ""
+  },
+  {
+    "Text": "r4000",
+    "Translation": ""
+  },
+  {
+    "Text": "r4010",
+    "Translation": ""
+  },
+  {
+    "Text": "r4050",
+    "Translation": ""
+  },
+  {
+    "Text": "r4060",
+    "Translation": ""
+  },
+  {
+    "Text": "r4090",
+    "Translation": ""
+  },
+  {
+    "Text": "SE制御",
+    "Translation": ""
+  },
+  {
+    "Text": "t0000",
+    "Translation": ""
+  },
+  {
+    "Text": "t0010",
+    "Translation": ""
+  },
+  {
+    "Text": "t0020",
+    "Translation": ""
+  },
+  {
+    "Text": "t0500",
+    "Translation": ""
+  },
+  {
+    "Text": "t0510",
+    "Translation": ""
+  },
+  {
+    "Text": "t0520",
+    "Translation": ""
+  },
+  {
+    "Text": "t0530",
+    "Translation": ""
+  },
+  {
+    "Text": "t0600",
+    "Translation": ""
+  },
+  {
+    "Text": "t1000",
+    "Translation": ""
+  },
+  {
+    "Text": "t100b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1010",
+    "Translation": ""
+  },
+  {
+    "Text": "t101b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1020",
+    "Translation": ""
+  },
+  {
+    "Text": "t102b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1030",
+    "Translation": ""
+  },
+  {
+    "Text": "t103b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1040",
+    "Translation": ""
+  },
+  {
+    "Text": "t104b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1050",
+    "Translation": ""
+  },
+  {
+    "Text": "t105b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1060",
+    "Translation": ""
+  },
+  {
+    "Text": "t106b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1070",
+    "Translation": ""
+  },
+  {
+    "Text": "t1080",
+    "Translation": ""
+  },
+  {
+    "Text": "t108b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1090",
+    "Translation": ""
+  },
+  {
+    "Text": "t109b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1100",
+    "Translation": ""
+  },
+  {
+    "Text": "t110b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1110",
+    "Translation": ""
+  },
+  {
+    "Text": "t113b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1300",
+    "Translation": ""
+  },
+  {
+    "Text": "t130b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1310",
+    "Translation": ""
+  },
+  {
+    "Text": "t1310_1",
+    "Translation": ""
+  },
+  {
+    "Text": "t1320",
+    "Translation": ""
+  },
+  {
+    "Text": "t1330",
+    "Translation": ""
+  },
+  {
+    "Text": "t1340",
+    "Translation": ""
+  },
+  {
+    "Text": "t1350",
+    "Translation": ""
+  },
+  {
+    "Text": "t1360",
+    "Translation": ""
+  },
+  {
+    "Text": "t1370",
+    "Translation": ""
+  },
+  {
+    "Text": "t1380",
+    "Translation": ""
+  },
+  {
+    "Text": "t1390",
+    "Translation": ""
+  },
+  {
+    "Text": "t1400",
+    "Translation": ""
+  },
+  {
+    "Text": "t1401",
+    "Translation": ""
+  },
+  {
+    "Text": "t1402",
+    "Translation": ""
+  },
+  {
+    "Text": "t1403",
+    "Translation": ""
+  },
+  {
+    "Text": "t140b",
+    "Translation": ""
+  },
+  {
+    "Text": "t1490",
+    "Translation": ""
+  },
+  {
+    "Text": "t1500",
+    "Translation": ""
+  },
+  {
+    "Text": "t1510",
+    "Translation": ""
+  },
+  {
+    "Text": "t1520",
+    "Translation": ""
+  },
+  {
+    "Text": "t1530",
+    "Translation": ""
+  },
+  {
+    "Text": "t1540",
+    "Translation": ""
+  },
+  {
+    "Text": "t1550",
+    "Translation": ""
+  },
+  {
+    "Text": "t1560",
+    "Translation": ""
+  },
+  {
+    "Text": "t1600",
+    "Translation": ""
+  },
+  {
+    "Text": "t1650",
+    "Translation": ""
+  },
+  {
+    "Text": "t2000",
+    "Translation": ""
+  },
+  {
+    "Text": "t2010",
+    "Translation": ""
+  },
+  {
+    "Text": "t2020",
+    "Translation": ""
+  },
+  {
+    "Text": "t2030",
+    "Translation": ""
+  },
+  {
+    "Text": "t2100",
+    "Translation": ""
+  },
+  {
+    "Text": "t210d",
+    "Translation": ""
+  },
+  {
+    "Text": "t2500",
+    "Translation": ""
+  },
+  {
+    "Text": "t2510",
+    "Translation": ""
+  },
+  {
+    "Text": "t2520",
+    "Translation": ""
+  },
+  {
+    "Text": "t3000",
+    "Translation": ""
+  },
+  {
+    "Text": "t3010",
+    "Translation": ""
+  },
+  {
+    "Text": "t3510",
+    "Translation": ""
+  },
+  {
+    "Text": "t3520",
+    "Translation": ""
+  },
+  {
+    "Text": "t4000",
+    "Translation": ""
+  },
+  {
+    "Text": "t4010",
+    "Translation": ""
+  },
+  {
+    "Text": "t4020",
+    "Translation": ""
+  },
+  {
+    "Text": "t4030",
+    "Translation": ""
+  },
+  {
+    "Text": "t4100",
+    "Translation": ""
+  },
+  {
+    "Text": "t5000",
+    "Translation": ""
+  },
+  {
+    "Text": "t6000",
+    "Translation": ""
+  },
+  {
+    "Text": "t6010",
+    "Translation": ""
+  },
+  {
+    "Text": "t6050",
+    "Translation": ""
+  },
+  {
+    "Text": "t6051",
+    "Translation": ""
+  },
+  {
+    "Text": "temp",
+    "Translation": ""
+  },
+  {
+    "Text": "アーシュラ主任",
+    "Translation": ""
+  },
+  {
+    "Text": "アーネスト",
+    "Translation": ""
+  },
+  {
+    "Text": "アーミーカメレオン",
+    "Translation": ""
+  },
+  {
+    "Text": "アーミーパイナポゥ",
+    "Translation": ""
+  },
+  {
+    "Text": "アーロン",
+    "Translation": ""
+  },
+  {
+    "Text": "アイオーン",
+    "Translation": ""
+  },
+  {
+    "Text": "アイオーン２",
+    "Translation": ""
+  },
+  {
+    "Text": "アイオーン３",
+    "Translation": ""
+  },
+  {
+    "Text": "アイスコンドル",
+    "Translation": ""
+  },
+  {
+    "Text": "アイリス",
+    "Translation": ""
+  },
+  {
+    "Text": "アカマダラマーダー",
+    "Translation": ""
+  },
+  {
+    "Text": "アシュリー",
+    "Translation": ""
+  },
+  {
+    "Text": "アストラルドミナ",
+    "Translation": ""
+  },
+  {
+    "Text": "アゼル",
+    "Translation": ""
+  },
+  {
+    "Text": "アッバス",
+    "Translation": ""
+  },
+  {
+    "Text": "アナザーワン",
+    "Translation": ""
+  },
+  {
+    "Text": "アバン劇団長",
+    "Translation": ""
+  },
+  {
+    "Text": "アビー",
+    "Translation": ""
+  },
+  {
+    "Text": "アビスワーム",
+    "Translation": ""
+  },
+  {
+    "Text": "アベル",
+    "Translation": ""
+  },
+  {
+    "Text": "アミー",
+    "Translation": ""
+  },
+  {
+    "Text": "アミサ",
+    "Translation": ""
+  },
+  {
+    "Text": "アリアンロード",
+    "Translation": ""
+  },
+  {
+    "Text": "アリオス",
+    "Translation": ""
+  },
+  {
+    "Text": "アリオスお供",
+    "Translation": ""
+  },
+  {
+    "Text": "アリオス家墓前の花",
+    "Translation": ""
+  },
+  {
+    "Text": "アリオス国防長官",
+    "Translation": ""
+  },
+  {
+    "Text": "アリオス長官",
+    "Translation": ""
+  },
+  {
+    "Text": "アルセイユ",
+    "Translation": ""
+  },
+  {
+    "Text": "アルバート大公",
+    "Translation": ""
+  },
+  {
+    "Text": "アルフレッド",
+    "Translation": ""
+  },
+  {
+    "Text": "アルマ茸",
+    "Translation": ""
+  },
+  {
+    "Text": "アルム",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカ古道",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカ古道方面",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカ村・タングラム門方面",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカ村方面",
+    "Translation": ""
+  },
+  {
+    "Text": "アレク",
+    "Translation": ""
+  },
+  {
+    "Text": "アレクセイ隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "アレサ",
+    "Translation": ""
+  },
+  {
+    "Text": "アンジェ",
+    "Translation": ""
+  },
+  {
+    "Text": "アンナ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "アンネ",
+    "Translation": ""
+  },
+  {
+    "Text": "アンリ",
+    "Translation": ""
+  },
+  {
+    "Text": "イアンターゲット",
+    "Translation": ""
+  },
+  {
+    "Text": "イアン弁護士",
+    "Translation": ""
+  },
+  {
+    "Text": "イーブルアイ",
+    "Translation": ""
+  },
+  {
+    "Text": "イス",
+    "Translation": ""
+  },
+  {
+    "Text": "イズリ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "イベント用",
+    "Translation": ""
+  },
+  {
+    "Text": "イベント用モンスター",
+    "Translation": ""
+  },
+  {
+    "Text": "イベント用軍用犬",
+    "Translation": ""
+  },
+  {
+    "Text": "イメルダ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "イリア",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァルジェム",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァルド",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァルドお供",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァン",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァンガード",
+    "Translation": ""
+  },
+  {
+    "Text": "ウィノナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ウーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ウェンディ",
+    "Translation": ""
+  },
+  {
+    "Text": "ウルスラ医科大学方面",
+    "Translation": ""
+  },
+  {
+    "Text": "ウルスラ間道",
+    "Translation": ""
+  },
+  {
+    "Text": "ウルスラ間道方面",
+    "Translation": ""
+  },
+  {
+    "Text": "エアリー",
+    "Translation": ""
+  },
+  {
+    "Text": "エステル",
+    "Translation": ""
+  },
+  {
+    "Text": "エッグスネイク",
+    "Translation": ""
+  },
+  {
+    "Text": "エナ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "エニグマ",
+    "Translation": ""
+  },
+  {
+    "Text": "エフェクト表示用ダミーキャラ",
+    "Translation": ""
+  },
+  {
+    "Text": "エボニードローメ",
+    "Translation": ""
+  },
+  {
+    "Text": "エマ捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "エミー",
+    "Translation": ""
+  },
+  {
+    "Text": "エラルダ大司教",
+    "Translation": ""
+  },
+  {
+    "Text": "エリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "エリーゼ",
+    "Translation": ""
+  },
+  {
+    "Text": "エリザベート",
+    "Translation": ""
+  },
+  {
+    "Text": "エリック",
+    "Translation": ""
+  },
+  {
+    "Text": "エリンデ",
+    "Translation": ""
+  },
+  {
+    "Text": "エルキン",
+    "Translation": ""
+  },
+  {
+    "Text": "エルサ",
+    "Translation": ""
+  },
+  {
+    "Text": "オーゼル",
+    "Translation": ""
+  },
+  {
+    "Text": "おじいさま",
+    "Translation": ""
+  },
+  {
+    "Text": "おじさん",
+    "Translation": ""
+  },
+  {
+    "Text": "オスカー",
+    "Translation": ""
+  },
+  {
+    "Text": "オズボーン宰相",
+    "Translation": ""
+  },
+  {
+    "Text": "オットー",
+    "Translation": ""
+  },
+  {
+    "Text": "オドロンドロ",
+    "Translation": ""
+  },
+  {
+    "Text": "オネスト老人",
+    "Translation": ""
+  },
+  {
+    "Text": "オノクジャク",
+    "Translation": ""
+  },
+  {
+    "Text": "おばあさま",
+    "Translation": ""
+  },
+  {
+    "Text": "オリヴァルト皇子",
+    "Translation": ""
+  },
+  {
+    "Text": "オリガ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "オリバー隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "オリビエ",
+    "Translation": ""
+  },
+  {
+    "Text": "オルキスタワー",
+    "Translation": ""
+  },
+  {
+    "Text": "オルゴンスパイド",
+    "Translation": ""
+  },
+  {
+    "Text": "カーター隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ガイ",
+    "Translation": ""
+  },
+  {
+    "Text": "ガイトナー",
+    "Translation": ""
+  },
+  {
+    "Text": "ガイ墓前の花",
+    "Translation": ""
+  },
+  {
+    "Text": "カエンギーヌー",
+    "Translation": ""
+  },
+  {
+    "Text": "カテリーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "カニング巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "カノン",
+    "Translation": ""
+  },
+  {
+    "Text": "カビラン",
+    "Translation": ""
+  },
+  {
+    "Text": "カミーユ",
+    "Translation": ""
+  },
+  {
+    "Text": "カメラ",
+    "Translation": ""
+  },
+  {
+    "Text": "ガルシア",
+    "Translation": ""
+  },
+  {
+    "Text": "カルロス",
+    "Translation": ""
+  },
+  {
+    "Text": "ガレッティ",
+    "Translation": ""
+  },
+  {
+    "Text": "カレリア",
+    "Translation": ""
+  },
+  {
+    "Text": "ガレリア要塞司令",
+    "Translation": ""
+  },
+  {
+    "Text": "ガンテ",
+    "Translation": ""
+  },
+  {
+    "Text": "キーア",
+    "Translation": ""
+  },
+  {
+    "Text": "キーアダミー",
+    "Translation": ""
+  },
+  {
+    "Text": "キース",
+    "Translation": ""
+  },
+  {
+    "Text": "キーンツ",
+    "Translation": ""
+  },
+  {
+    "Text": "キミィ",
+    "Translation": ""
+  },
+  {
+    "Text": "キャサル",
+    "Translation": ""
+  },
+  {
+    "Text": "キャットフード",
+    "Translation": ""
+  },
+  {
+    "Text": "ギャリソン隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "キャンベル議員",
+    "Translation": ""
+  },
+  {
+    "Text": "ギヨーム親方",
+    "Translation": ""
+  },
+  {
+    "Text": "キラーポポ",
+    "Translation": ""
+  },
+  {
+    "Text": "キリカ",
+    "Translation": ""
+  },
+  {
+    "Text": "キリカ補佐官",
+    "Translation": ""
+  },
+  {
+    "Text": "キルシュ寮長",
+    "Translation": ""
+  },
+  {
+    "Text": "キンドール",
+    "Translation": ""
+  },
+  {
+    "Text": "クイント老人",
+    "Translation": ""
+  },
+  {
+    "Text": "クーガー",
+    "Translation": ""
+  },
+  {
+    "Text": "クータ",
+    "Translation": ""
+  },
+  {
+    "Text": "クーニャ",
+    "Translation": ""
+  },
+  {
+    "Text": "グマーライ",
+    "Translation": ""
+  },
+  {
+    "Text": "クラーク事務長",
+    "Translation": ""
+  },
+  {
+    "Text": "クライド",
+    "Translation": ""
+  },
+  {
+    "Text": "グラスドローメ",
+    "Translation": ""
+  },
+  {
+    "Text": "クラリス",
+    "Translation": ""
+  },
+  {
+    "Text": "グラント一尉",
+    "Translation": ""
+  },
+  {
+    "Text": "グリッド",
+    "Translation": ""
+  },
+  {
+    "Text": "クリップ主任",
+    "Translation": ""
+  },
+  {
+    "Text": "クリドゥヴァー",
+    "Translation": ""
+  },
+  {
+    "Text": "グレイス",
+    "Translation": ""
+  },
+  {
+    "Text": "グレイスの声",
+    "Translation": ""
+  },
+  {
+    "Text": "クレイユ",
+    "Translation": ""
+  },
+  {
+    "Text": "クレス隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "クローディア姫",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル空港方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市・アルモリカ村方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市・タングラム門方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市・ベルガード門方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市・鉱山町マインツ方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル大聖堂方面",
+    "Translation": ""
+  },
+  {
+    "Text": "クロベルガ蟲",
+    "Translation": ""
+  },
+  {
+    "Text": "クロマ",
+    "Translation": ""
+  },
+  {
+    "Text": "クロンク",
+    "Translation": ""
+  },
+  {
+    "Text": "クワイン老人",
+    "Translation": ""
+  },
+  {
+    "Text": "ケイト巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "ケイト巡査長",
+    "Translation": ""
+  },
+  {
+    "Text": "ゲイリー教授",
+    "Translation": ""
+  },
+  {
+    "Text": "ケサラン",
+    "Translation": ""
+  },
+  {
+    "Text": "ケツアルコアトル",
+    "Translation": ""
+  },
+  {
+    "Text": "ゲバル",
+    "Translation": ""
+  },
+  {
+    "Text": "ケビン神父",
+    "Translation": ""
+  },
+  {
+    "Text": "ゲルマー",
+    "Translation": ""
+  },
+  {
+    "Text": "ケン",
+    "Translation": ""
+  },
+  {
+    "Text": "コウキ",
+    "Translation": ""
+  },
+  {
+    "Text": "コウケン",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴーディ・オッサー",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴーディアン",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴートヘッド",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴーファン",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴールデンアクス",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴールドスタチュー",
+    "Translation": ""
+  },
+  {
+    "Text": "ココア",
+    "Translation": ""
+  },
+  {
+    "Text": "コッペ",
+    "Translation": ""
+  },
+  {
+    "Text": "コナーズ隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "コパン",
+    "Translation": ""
+  },
+  {
+    "Text": "コリン",
+    "Translation": ""
+  },
+  {
+    "Text": "コロナ",
+    "Translation": ""
+  },
+  {
+    "Text": "コンテ老人",
+    "Translation": ""
+  },
+  {
+    "Text": "サイクス",
+    "Translation": ""
+  },
+  {
+    "Text": "ザイル",
+    "Translation": ""
+  },
+  {
+    "Text": "サザーク",
+    "Translation": ""
+  },
+  {
+    "Text": "サニータ",
+    "Translation": ""
+  },
+  {
+    "Text": "サベージホーン",
+    "Translation": ""
+  },
+  {
+    "Text": "サミィ",
+    "Translation": ""
+  },
+  {
+    "Text": "サラリーマン",
+    "Translation": ""
+  },
+  {
+    "Text": "サリー",
+    "Translation": ""
+  },
+  {
+    "Text": "サリナ",
+    "Translation": ""
+  },
+  {
+    "Text": "サンサン",
+    "Translation": ""
+  },
+  {
+    "Text": "サンドラ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジーク",
+    "Translation": ""
+  },
+  {
+    "Text": "ジージョ巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "ジーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジーナス司祭",
+    "Translation": ""
+  },
+  {
+    "Text": "シーリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジェイク",
+    "Translation": ""
+  },
+  {
+    "Text": "ジェド",
+    "Translation": ""
+  },
+  {
+    "Text": "ジェラルム・ポー",
+    "Translation": ""
+  },
+  {
+    "Text": "シグムント",
+    "Translation": ""
+  },
+  {
+    "Text": "シグムントお供",
+    "Translation": ""
+  },
+  {
+    "Text": "シグ隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "シズク",
+    "Translation": ""
+  },
+  {
+    "Text": "シスター・ジュジュ",
+    "Translation": ""
+  },
+  {
+    "Text": "シスター・ハティナ",
+    "Translation": ""
+  },
+  {
+    "Text": "シスター・マーブル",
+    "Translation": ""
+  },
+  {
+    "Text": "シスター・リース",
+    "Translation": ""
+  },
+  {
+    "Text": "シスター服の娘",
+    "Translation": ""
+  },
+  {
+    "Text": "ジゼル曹長",
+    "Translation": ""
+  },
+  {
+    "Text": "シトラス",
+    "Translation": ""
+  },
+  {
+    "Text": "シャーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "シャーリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "シャーリィお供",
+    "Translation": ""
+  },
+  {
+    "Text": "ジャック隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ジャネッタ",
+    "Translation": ""
+  },
+  {
+    "Text": "シャンデリア",
+    "Translation": ""
+  },
+  {
+    "Text": "シュリ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジョアンナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジョーイ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジョーリッジ課長",
+    "Translation": ""
+  },
+  {
+    "Text": "ジレ",
+    "Translation": ""
+  },
+  {
+    "Text": "ジロンド",
+    "Translation": ""
+  },
+  {
+    "Text": "シン",
+    "Translation": ""
+  },
+  {
+    "Text": "ジンゴ",
+    "Translation": ""
+  },
+  {
+    "Text": "シンディ",
+    "Translation": ""
+  },
+  {
+    "Text": "ズゥ",
+    "Translation": ""
+  },
+  {
+    "Text": "スーザン",
+    "Translation": ""
+  },
+  {
+    "Text": "スタービートル",
+    "Translation": ""
+  },
+  {
+    "Text": "ステファン",
+    "Translation": ""
+  },
+  {
+    "Text": "ステラ",
+    "Translation": ""
+  },
+  {
+    "Text": "スフィンキマイラ",
+    "Translation": ""
+  },
+  {
+    "Text": "スラッシュ",
+    "Translation": ""
+  },
+  {
+    "Text": "セイランド教授",
+    "Translation": ""
+  },
+  {
+    "Text": "セシル",
+    "Translation": ""
+  },
+  {
+    "Text": "セピア",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼムリアサラマンド",
+    "Translation": ""
+  },
+  {
+    "Text": "セリーヌ",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼル",
+    "Translation": ""
+  },
+  {
+    "Text": "セルゲイ",
+    "Translation": ""
+  },
+  {
+    "Text": "セルゲイ課長",
+    "Translation": ""
+  },
+  {
+    "Text": "セルダン支部長",
+    "Translation": ""
+  },
+  {
+    "Text": "セルテオ",
+    "Translation": ""
+  },
+  {
+    "Text": "ソーニャ司令",
+    "Translation": ""
+  },
+  {
+    "Text": "ソフィア",
+    "Translation": ""
+  },
+  {
+    "Text": "ソフィーユ",
+    "Translation": ""
+  },
+  {
+    "Text": "ゾルク",
+    "Translation": ""
+  },
+  {
+    "Text": "ダークブルーゾーン",
+    "Translation": ""
+  },
+  {
+    "Text": "ダイソン用務員",
+    "Translation": ""
+  },
+  {
+    "Text": "ダイナソゥ",
+    "Translation": ""
+  },
+  {
+    "Text": "ダイモン隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "タイラー",
+    "Translation": ""
+  },
+  {
+    "Text": "タイラント",
+    "Translation": ""
+  },
+  {
+    "Text": "タイレル通信記者",
+    "Translation": ""
+  },
+  {
+    "Text": "ダグラス副司令",
+    "Translation": ""
+  },
+  {
+    "Text": "タジク",
+    "Translation": ""
+  },
+  {
+    "Text": "タッパー",
+    "Translation": ""
+  },
+  {
+    "Text": "タップ",
+    "Translation": ""
+  },
+  {
+    "Text": "ダドリーカー",
+    "Translation": ""
+  },
+  {
+    "Text": "ダドリーの車",
+    "Translation": ""
+  },
+  {
+    "Text": "ダドリー捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "ダナン",
+    "Translation": ""
+  },
+  {
+    "Text": "ダミー",
+    "Translation": ""
+  },
+  {
+    "Text": "ダミーエフェクト",
+    "Translation": ""
+  },
+  {
+    "Text": "ダミーハルトマン",
+    "Translation": ""
+  },
+  {
+    "Text": "ダミー影",
+    "Translation": ""
+  },
+  {
+    "Text": "タミル",
+    "Translation": ""
+  },
+  {
+    "Text": "ダリア隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "タリーズ",
+    "Translation": ""
+  },
+  {
+    "Text": "タングラム門方面",
+    "Translation": ""
+  },
+  {
+    "Text": "タントス老人",
+    "Translation": ""
+  },
+  {
+    "Text": "チェリー",
+    "Translation": ""
+  },
+  {
+    "Text": "チャコ",
+    "Translation": ""
+  },
+  {
+    "Text": "チャンホイ",
+    "Translation": ""
+  },
+  {
+    "Text": "チルル",
+    "Translation": ""
+  },
+  {
+    "Text": "ツァイト",
+    "Translation": ""
+  },
+  {
+    "Text": "ツァオ",
+    "Translation": ""
+  },
+  {
+    "Text": "ツノガエル",
+    "Translation": ""
+  },
+  {
+    "Text": "ディーター市長",
+    "Translation": ""
+  },
+  {
+    "Text": "ディーター大統領",
+    "Translation": ""
+  },
+  {
+    "Text": "ディーノ",
+    "Translation": ""
+  },
+  {
+    "Text": "ティオ",
+    "Translation": ""
+  },
+  {
+    "Text": "ティボー巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "ティマス",
+    "Translation": ""
+  },
+  {
+    "Text": "ディンズ",
+    "Translation": ""
+  },
+  {
+    "Text": "デヴァイン・デルフ",
+    "Translation": ""
+  },
+  {
+    "Text": "テージョ",
+    "Translation": ""
+  },
+  {
+    "Text": "テーマパーク方面",
+    "Translation": ""
+  },
+  {
+    "Text": "テオドール",
+    "Translation": ""
+  },
+  {
+    "Text": "デスコローラ",
+    "Translation": ""
+  },
+  {
+    "Text": "デミウルゴス",
+    "Translation": ""
+  },
+  {
+    "Text": "デュラハーン",
+    "Translation": ""
+  },
+  {
+    "Text": "デリック",
+    "Translation": ""
+  },
+  {
+    "Text": "テロリスト",
+    "Translation": ""
+  },
+  {
+    "Text": "テロリスト・リーダー",
+    "Translation": ""
+  },
+  {
+    "Text": "ドナルド",
+    "Translation": ""
+  },
+  {
+    "Text": "ドノバン警部",
+    "Translation": ""
+  },
+  {
+    "Text": "トライアタッカーＲⅡ",
+    "Translation": ""
+  },
+  {
+    "Text": "トライアタッカーＳⅡ",
+    "Translation": ""
+  },
+  {
+    "Text": "ドリス",
+    "Translation": ""
+  },
+  {
+    "Text": "トルゾーＢ",
+    "Translation": ""
+  },
+  {
+    "Text": "トルゾーＺ",
+    "Translation": ""
+  },
+  {
+    "Text": "トルタ村長",
+    "Translation": ""
+  },
+  {
+    "Text": "ドレイク・オーナー",
+    "Translation": ""
+  },
+  {
+    "Text": "ドローナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ドロテ",
+    "Translation": ""
+  },
+  {
+    "Text": "トンファー",
+    "Translation": ""
+  },
+  {
+    "Text": "トンファーOBJ",
+    "Translation": ""
+  },
+  {
+    "Text": "ナデリア茸",
+    "Translation": ""
+  },
+  {
+    "Text": "ニールセン",
+    "Translation": ""
+  },
+  {
+    "Text": "ニコル",
+    "Translation": ""
+  },
+  {
+    "Text": "ネストン支配人",
+    "Translation": ""
+  },
+  {
+    "Text": "ネペンテスキッズ",
+    "Translation": ""
+  },
+  {
+    "Text": "ノウェ隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ノエル",
+    "Translation": ""
+  },
+  {
+    "Text": "ノエル少尉",
+    "Translation": ""
+  },
+  {
+    "Text": "ノートパソコン",
+    "Translation": ""
+  },
+  {
+    "Text": "ノーマ",
+    "Translation": ""
+  },
+  {
+    "Text": "ノックス森林道",
+    "Translation": ""
+  },
+  {
+    "Text": "ノバース",
+    "Translation": ""
+  },
+  {
+    "Text": "ノバルティス博士",
+    "Translation": ""
+  },
+  {
+    "Text": "ノンノ",
+    "Translation": ""
+  },
+  {
+    "Text": "ハース",
+    "Translation": ""
+  },
+  {
+    "Text": "パープルシャルロ",
+    "Translation": ""
+  },
+  {
+    "Text": "パーラ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "ハインツ",
+    "Translation": ""
+  },
+  {
+    "Text": "パオラ婆さん",
+    "Translation": ""
+  },
+  {
+    "Text": "ハガー支配人",
+    "Translation": ""
+  },
+  {
+    "Text": "バジリオ",
+    "Translation": ""
+  },
+  {
+    "Text": "バス",
+    "Translation": ""
+  },
+  {
+    "Text": "パズス",
+    "Translation": ""
+  },
+  {
+    "Text": "バッカス",
+    "Translation": ""
+  },
+  {
+    "Text": "パック",
+    "Translation": ""
+  },
+  {
+    "Text": "バッジョ",
+    "Translation": ""
+  },
+  {
+    "Text": "パテマテ",
+    "Translation": ""
+  },
+  {
+    "Text": "パテルマテル",
+    "Translation": ""
+  },
+  {
+    "Text": "パテルマテル影",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー1",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー2",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー２",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー3",
+    "Translation": ""
+  },
+  {
+    "Text": "パトカー３",
+    "Translation": ""
+  },
+  {
+    "Text": "バニーガール",
+    "Translation": ""
+  },
+  {
+    "Text": "ハバネリアン",
+    "Translation": ""
+  },
+  {
+    "Text": "バブーンモンチ",
+    "Translation": ""
+  },
+  {
+    "Text": "ハミル",
+    "Translation": ""
+  },
+  {
+    "Text": "ハミングゲーター",
+    "Translation": ""
+  },
+  {
+    "Text": "バリケード",
+    "Translation": ""
+  },
+  {
+    "Text": "バルサモ支配人",
+    "Translation": ""
+  },
+  {
+    "Text": "ハルトマン元議長",
+    "Translation": ""
+  },
+  {
+    "Text": "バレル隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ハロルド",
+    "Translation": ""
+  },
+  {
+    "Text": "パンセ",
+    "Translation": ""
+  },
+  {
+    "Text": "ハンソン",
+    "Translation": ""
+  },
+  {
+    "Text": "ハンマーパック",
+    "Translation": ""
+  },
+  {
+    "Text": "ピアノ奏者",
+    "Translation": ""
+  },
+  {
+    "Text": "ピート",
+    "Translation": ""
+  },
+  {
+    "Text": "ピエール副局長",
+    "Translation": ""
+  },
+  {
+    "Text": "ビクセン町長",
+    "Translation": ""
+  },
+  {
+    "Text": "ビジネスマン",
+    "Translation": ""
+  },
+  {
+    "Text": "ビショップ",
+    "Translation": ""
+  },
+  {
+    "Text": "ピットフィーンド",
+    "Translation": ""
+  },
+  {
+    "Text": "ヒューイ",
+    "Translation": ""
+  },
+  {
+    "Text": "ビヨンド",
+    "Translation": ""
+  },
+  {
+    "Text": "ビリー",
+    "Translation": ""
+  },
+  {
+    "Text": "ビリーのバン",
+    "Translation": ""
+  },
+  {
+    "Text": "ビルマ婆さん",
+    "Translation": ""
+  },
+  {
+    "Text": "ピンクマッシュルーム",
+    "Translation": ""
+  },
+  {
+    "Text": "ファイヤービートル",
+    "Translation": ""
+  },
+  {
+    "Text": "ファラ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "フィッシャー",
+    "Translation": ""
+  },
+  {
+    "Text": "フィッシャー団長",
+    "Translation": ""
+  },
+  {
+    "Text": "プーリー",
+    "Translation": ""
+  },
+  {
+    "Text": "フェアリードレイク",
+    "Translation": ""
+  },
+  {
+    "Text": "フェイ",
+    "Translation": ""
+  },
+  {
+    "Text": "フェリック",
+    "Translation": ""
+  },
+  {
+    "Text": "フェルナンド",
+    "Translation": ""
+  },
+  {
+    "Text": "フェン",
+    "Translation": ""
+  },
+  {
+    "Text": "フェンス",
+    "Translation": ""
+  },
+  {
+    "Text": "ブラウン",
+    "Translation": ""
+  },
+  {
+    "Text": "プラダ",
+    "Translation": ""
+  },
+  {
+    "Text": "フラッグトルーパー",
+    "Translation": ""
+  },
+  {
+    "Text": "ブラックハンター",
+    "Translation": ""
+  },
+  {
+    "Text": "ブラッドモナド",
+    "Translation": ""
+  },
+  {
+    "Text": "フラミー隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "フラン",
+    "Translation": ""
+  },
+  {
+    "Text": "フランツ巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "フリーザーマッシュ",
+    "Translation": ""
+  },
+  {
+    "Text": "プリエ",
+    "Translation": ""
+  },
+  {
+    "Text": "ブリジッタ",
+    "Translation": ""
+  },
+  {
+    "Text": "ブリック",
+    "Translation": ""
+  },
+  {
+    "Text": "ブルード隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "プルーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "フレイムグミ",
+    "Translation": ""
+  },
+  {
+    "Text": "ブレードファング",
+    "Translation": ""
+  },
+  {
+    "Text": "フロテ",
+    "Translation": ""
+  },
+  {
+    "Text": "ベイオウルフ",
+    "Translation": ""
+  },
+  {
+    "Text": "ベイカー",
+    "Translation": ""
+  },
+  {
+    "Text": "ペーター",
+    "Translation": ""
+  },
+  {
+    "Text": "ヘカトンケイル",
+    "Translation": ""
+  },
+  {
+    "Text": "ベッカライ",
+    "Translation": ""
+  },
+  {
+    "Text": "ベッセ",
+    "Translation": ""
+  },
+  {
+    "Text": "ベネット",
+    "Translation": ""
+  },
+  {
+    "Text": "ベルガード門方面",
+    "Translation": ""
+  },
+  {
+    "Text": "ベルガムシ",
+    "Translation": ""
+  },
+  {
+    "Text": "ヘルハウンド",
+    "Translation": ""
+  },
+  {
+    "Text": "ヘルマー",
+    "Translation": ""
+  },
+  {
+    "Text": "ペングー",
+    "Translation": ""
+  },
+  {
+    "Text": "ペントス",
+    "Translation": ""
+  },
+  {
+    "Text": "ホアン事務長",
+    "Translation": ""
+  },
+  {
+    "Text": "ホイストフ",
+    "Translation": ""
+  },
+  {
+    "Text": "ボート",
+    "Translation": ""
+  },
+  {
+    "Text": "ボール",
+    "Translation": ""
+  },
+  {
+    "Text": "ホステス",
+    "Translation": ""
+  },
+  {
+    "Text": "ホステス（Ａ）",
+    "Translation": ""
+  },
+  {
+    "Text": "ホステス（Ｂ）",
+    "Translation": ""
+  },
+  {
+    "Text": "ホテル・デルフィニア方面",
+    "Translation": ""
+  },
+  {
+    "Text": "ホラーコースター方面",
+    "Translation": ""
+  },
+  {
+    "Text": "ホリィ婆さん",
+    "Translation": ""
+  },
+  {
+    "Text": "ポリセ",
+    "Translation": ""
+  },
+  {
+    "Text": "ポンス",
+    "Translation": ""
+  },
+  {
+    "Text": "ボンド",
+    "Translation": ""
+  },
+  {
+    "Text": "マーガレット夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "マーサ師長",
+    "Translation": ""
+  },
+  {
+    "Text": "マーシー",
+    "Translation": ""
+  },
+  {
+    "Text": "マイルズ",
+    "Translation": ""
+  },
+  {
+    "Text": "マインツ鉱山",
+    "Translation": ""
+  },
+  {
+    "Text": "マインツ山道",
+    "Translation": ""
+  },
+  {
+    "Text": "マインツ山道方面",
+    "Translation": ""
+  },
+  {
+    "Text": "マクダエル議長",
+    "Translation": ""
+  },
+  {
+    "Text": "マグマドローメ",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークリオン",
+    "Translation": ""
+  },
+  {
+    "Text": "マダラマーダー",
+    "Translation": ""
+  },
+  {
+    "Text": "マッケネン",
+    "Translation": ""
+  },
+  {
+    "Text": "マッドブルーム",
+    "Translation": ""
+  },
+  {
+    "Text": "マライア",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベル",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベルフェード",
+    "Translation": ""
+  },
+  {
+    "Text": "マリー",
+    "Translation": ""
+  },
+  {
+    "Text": "マリエッタ",
+    "Translation": ""
+  },
+  {
+    "Text": "マルテ",
+    "Translation": ""
+  },
+  {
+    "Text": "マルティン巡査",
+    "Translation": ""
+  },
+  {
+    "Text": "マローネ",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇ",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇ頭",
+    "Translation": ""
+  },
+  {
+    "Text": "ミサイル目標",
+    "Translation": ""
+  },
+  {
+    "Text": "ミゼット",
+    "Translation": ""
+  },
+  {
+    "Text": "みっしぃ",
+    "Translation": ""
+  },
+  {
+    "Text": "ミハイル",
+    "Translation": ""
+  },
+  {
+    "Text": "ミミ",
+    "Translation": ""
+  },
+  {
+    "Text": "ミミナガモンチ",
+    "Translation": ""
+  },
+  {
+    "Text": "ミュシャ夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "ミュラー",
+    "Translation": ""
+  },
+  {
+    "Text": "ミュラー少佐",
+    "Translation": ""
+  },
+  {
+    "Text": "ミランダ",
+    "Translation": ""
+  },
+  {
+    "Text": "ミリア",
+    "Translation": ""
+  },
+  {
+    "Text": "ミレイユ三尉",
+    "Translation": ""
+  },
+  {
+    "Text": "ミレイユ准尉",
+    "Translation": ""
+  },
+  {
+    "Text": "ミンネス",
+    "Translation": ""
+  },
+  {
+    "Text": "メイド",
+    "Translation": ""
+  },
+  {
+    "Text": "メイリン",
+    "Translation": ""
+  },
+  {
+    "Text": "メーシェ",
+    "Translation": ""
+  },
+  {
+    "Text": "メタルソーサー",
+    "Translation": ""
+  },
+  {
+    "Text": "メデューサリザード",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバ",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバ影",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバ玖号機",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバ伍号機",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバ光学迷彩",
+    "Translation": ""
+  },
+  {
+    "Text": "メルスン",
+    "Translation": ""
+  },
+  {
+    "Text": "モブ",
+    "Translation": ""
+  },
+  {
+    "Text": "モモ",
+    "Translation": ""
+  },
+  {
+    "Text": "モルジュ",
+    "Translation": ""
+  },
+  {
+    "Text": "モルス老人",
+    "Translation": ""
+  },
+  {
+    "Text": "モレット主任",
+    "Translation": ""
+  },
+  {
+    "Text": "ユージーン",
+    "Translation": ""
+  },
+  {
+    "Text": "ユーリ",
+    "Translation": ""
+  },
+  {
+    "Text": "ユゴット",
+    "Translation": ""
+  },
+  {
+    "Text": "ユリア准佐",
+    "Translation": ""
+  },
+  {
+    "Text": "ユンクス",
+    "Translation": ""
+  },
+  {
+    "Text": "ヨシュア",
+    "Translation": ""
+  },
+  {
+    "Text": "ヨナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ヨナの声",
+    "Translation": ""
+  },
+  {
+    "Text": "ヨルグ老人",
+    "Translation": ""
+  },
+  {
+    "Text": "ラー・カイラム",
+    "Translation": ""
+  },
+  {
+    "Text": "ライアットセイバー",
+    "Translation": ""
+  },
+  {
+    "Text": "ラウ",
+    "Translation": ""
+  },
+  {
+    "Text": "ラグ",
+    "Translation": ""
+  },
+  {
+    "Text": "ラゴー教授",
+    "Translation": ""
+  },
+  {
+    "Text": "ラマンダ",
+    "Translation": ""
+  },
+  {
+    "Text": "ランス",
+    "Translation": ""
+  },
+  {
+    "Text": "ランディ",
+    "Translation": ""
+  },
+  {
+    "Text": "リーシャ",
+    "Translation": ""
+  },
+  {
+    "Text": "リース",
+    "Translation": ""
+  },
+  {
+    "Text": "リヴィングアーマー",
+    "Translation": ""
+  },
+  {
+    "Text": "リカルド",
+    "Translation": ""
+  },
+  {
+    "Text": "リジョン",
+    "Translation": ""
+  },
+  {
+    "Text": "リッケ爺さん",
+    "Translation": ""
+  },
+  {
+    "Text": "リッド",
+    "Translation": ""
+  },
+  {
+    "Text": "リナリー",
+    "Translation": ""
+  },
+  {
+    "Text": "リマ",
+    "Translation": ""
+  },
+  {
+    "Text": "リムジン",
+    "Translation": ""
+  },
+  {
+    "Text": "リャン",
+    "Translation": ""
+  },
+  {
+    "Text": "リュウ",
+    "Translation": ""
+  },
+  {
+    "Text": "リュート",
+    "Translation": ""
+  },
+  {
+    "Text": "リュッカ",
+    "Translation": ""
+  },
+  {
+    "Text": "リリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "ルーヴィック老人",
+    "Translation": ""
+  },
+  {
+    "Text": "ルーグマン",
+    "Translation": ""
+  },
+  {
+    "Text": "ルース",
+    "Translation": ""
+  },
+  {
+    "Text": "ルガノフ",
+    "Translation": ""
+  },
+  {
+    "Text": "ルゼ",
+    "Translation": ""
+  },
+  {
+    "Text": "ルノー爺さん",
+    "Translation": ""
+  },
+  {
+    "Text": "ルリエダ",
+    "Translation": ""
+  },
+  {
+    "Text": "レイクロードⅢ世",
+    "Translation": ""
+  },
+  {
+    "Text": "レイズ老人",
+    "Translation": ""
+  },
+  {
+    "Text": "レイタロッサ",
+    "Translation": ""
+  },
+  {
+    "Text": "レイテ",
+    "Translation": ""
+  },
+  {
+    "Text": "レイモンド捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "レインズ",
+    "Translation": ""
+  },
+  {
+    "Text": "レオールガンイージ",
+    "Translation": ""
+  },
+  {
+    "Text": "レオール老人",
+    "Translation": ""
+  },
+  {
+    "Text": "レクター",
+    "Translation": ""
+  },
+  {
+    "Text": "レクター書記官",
+    "Translation": ""
+  },
+  {
+    "Text": "レジー",
+    "Translation": ""
+  },
+  {
+    "Text": "レティシア支配人",
+    "Translation": ""
+  },
+  {
+    "Text": "レン",
+    "Translation": ""
+  },
+  {
+    "Text": "レントン司祭",
+    "Translation": ""
+  },
+  {
+    "Text": "ロイ",
+    "Translation": ""
+  },
+  {
+    "Text": "ロイド",
+    "Translation": ""
+  },
+  {
+    "Text": "ロイドたちの声",
+    "Translation": ""
+  },
+  {
+    "Text": "ロープ",
+    "Translation": ""
+  },
+  {
+    "Text": "ロギンス隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ロックスミス大統領",
+    "Translation": ""
+  },
+  {
+    "Text": "ロックドミナ",
+    "Translation": ""
+  },
+  {
+    "Text": "ロックラッタ",
+    "Translation": ""
+  },
+  {
+    "Text": "ロッズ",
+    "Translation": ""
+  },
+  {
+    "Text": "ロッチー",
+    "Translation": ""
+  },
+  {
+    "Text": "ロバーツ主任",
+    "Translation": ""
+  },
+  {
+    "Text": "ロバーツ主任の声",
+    "Translation": ""
+  },
+  {
+    "Text": "ロメオ隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "ロランド司祭",
+    "Translation": ""
+  },
+  {
+    "Text": "ワジ",
+    "Translation": ""
+  },
+  {
+    "Text": "ワンダーランド入口広場方面",
+    "Translation": ""
+  },
+  {
+    "Text": "悪魔",
+    "Translation": ""
+  },
+  {
+    "Text": "案内人",
+    "Translation": ""
+  },
+  {
+    "Text": "案内人バークレイ",
+    "Translation": ""
+  },
+  {
+    "Text": "案内人形",
+    "Translation": ""
+  },
+  {
+    "Text": "椅子",
+    "Translation": ""
+  },
+  {
+    "Text": "運送員",
+    "Translation": ""
+  },
+  {
+    "Text": "運送員アロン",
+    "Translation": ""
+  },
+  {
+    "Text": "運転士",
+    "Translation": ""
+  },
+  {
+    "Text": "運搬車",
+    "Translation": ""
+  },
+  {
+    "Text": "映像",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員エイム",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員シェンリー",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員マッジス",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員リサ",
+    "Translation": ""
+  },
+  {
+    "Text": "駅員ルクス",
+    "Translation": ""
+  },
+  {
+    "Text": "駅前通り",
+    "Translation": ""
+  },
+  {
+    "Text": "王室親衛隊隊士",
+    "Translation": ""
+  },
+  {
+    "Text": "音声",
+    "Translation": ""
+  },
+  {
+    "Text": "可憐な娘",
+    "Translation": ""
+  },
+  {
+    "Text": "壊れた支援課車",
+    "Translation": ""
+  },
+  {
+    "Text": "海刃シャークマン",
+    "Translation": ""
+  },
+  {
+    "Text": "外来患者",
+    "Translation": ""
+  },
+  {
+    "Text": "患者",
+    "Translation": ""
+  },
+  {
+    "Text": "歓楽街",
+    "Translation": ""
+  },
+  {
+    "Text": "監視員ウェイブ",
+    "Translation": ""
+  },
+  {
+    "Text": "看護士Ａ",
+    "Translation": ""
+  },
+  {
+    "Text": "看護士Ｂ",
+    "Translation": ""
+  },
+  {
+    "Text": "看護師エイダ",
+    "Translation": ""
+  },
+  {
+    "Text": "看護師シロン",
+    "Translation": ""
+  },
+  {
+    "Text": "看護師フィリア",
+    "Translation": ""
+  },
+  {
+    "Text": "看護師メイファ",
+    "Translation": ""
+  },
+  {
+    "Text": "看護師ラン",
+    "Translation": ""
+  },
+  {
+    "Text": "看守メルビン",
+    "Translation": ""
+  },
+  {
+    "Text": "観客",
+    "Translation": ""
+  },
+  {
+    "Text": "観光客",
+    "Translation": ""
+  },
+  {
+    "Text": "観覧車方面",
+    "Translation": ""
+  },
+  {
+    "Text": "丸椅子",
+    "Translation": ""
+  },
+  {
+    "Text": "記者",
+    "Translation": ""
+  },
+  {
+    "Text": "記者クロード",
+    "Translation": ""
+  },
+  {
+    "Text": "記者トンプソン",
+    "Translation": ""
+  },
+  {
+    "Text": "記者ノティシア",
+    "Translation": ""
+  },
+  {
+    "Text": "記者パーカー",
+    "Translation": ""
+  },
+  {
+    "Text": "騎士装束の娘",
+    "Translation": ""
+  },
+  {
+    "Text": "偽きのこ１",
+    "Translation": ""
+  },
+  {
+    "Text": "偽きのこ２",
+    "Translation": ""
+  },
+  {
+    "Text": "偽きのこ３",
+    "Translation": ""
+  },
+  {
+    "Text": "偽きのこ４",
+    "Translation": ""
+  },
+  {
+    "Text": "偽きのこ５",
+    "Translation": ""
+  },
+  {
+    "Text": "偽ブランド商",
+    "Translation": ""
+  },
+  {
+    "Text": "技師",
+    "Translation": ""
+  },
+  {
+    "Text": "議員",
+    "Translation": ""
+  },
+  {
+    "Text": "客",
+    "Translation": ""
+  },
+  {
+    "Text": "客引きビッシュ",
+    "Translation": ""
+  },
+  {
+    "Text": "客引きピム",
+    "Translation": ""
+  },
+  {
+    "Text": "弓の乙女エンネア",
+    "Translation": ""
+  },
+  {
+    "Text": "旧市街",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国バス",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国軍仕官",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国軍士官",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国軍将校",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国軍人",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国系テロリスト",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国戦車",
+    "Translation": ""
+  },
+  {
+    "Text": "共和国飛行艇",
+    "Translation": ""
+  },
+  {
+    "Text": "教官",
+    "Translation": ""
+  },
+  {
+    "Text": "鏡の城方面",
+    "Translation": ""
+  },
+  {
+    "Text": "局長？",
+    "Translation": ""
+  },
+  {
+    "Text": "金髪の青年",
+    "Translation": ""
+  },
+  {
+    "Text": "銀",
+    "Translation": ""
+  },
+  {
+    "Text": "銀鯱トリトン",
+    "Translation": ""
+  },
+  {
+    "Text": "空",
+    "Translation": ""
+  },
+  {
+    "Text": "訓練生",
+    "Translation": ""
+  },
+  {
+    "Text": "軍用犬",
+    "Translation": ""
+  },
+  {
+    "Text": "軍用魔獣",
+    "Translation": ""
+  },
+  {
+    "Text": "兄",
+    "Translation": ""
+  },
+  {
+    "Text": "警官",
+    "Translation": ""
+  },
+  {
+    "Text": "警官隊",
+    "Translation": ""
+  },
+  {
+    "Text": "警察学校",
+    "Translation": ""
+  },
+  {
+    "Text": "警察学校方面",
+    "Translation": ""
+  },
+  {
+    "Text": "警備員",
+    "Translation": ""
+  },
+  {
+    "Text": "警備員ウォング",
+    "Translation": ""
+  },
+  {
+    "Text": "警備員トニー",
+    "Translation": ""
+  },
+  {
+    "Text": "警備員ビルス",
+    "Translation": ""
+  },
+  {
+    "Text": "警備員ポール",
+    "Translation": ""
+  },
+  {
+    "Text": "警備隊",
+    "Translation": ""
+  },
+  {
+    "Text": "警備隊員",
+    "Translation": ""
+  },
+  {
+    "Text": "迎賓館方面",
+    "Translation": ""
+  },
+  {
+    "Text": "血染めのシャーリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "月の僧院方面",
+    "Translation": ""
+  },
+  {
+    "Text": "剣の乙女ジャンヌ",
+    "Translation": ""
+  },
+  {
+    "Text": "研究員クレイ",
+    "Translation": ""
+  },
+  {
+    "Text": "研究員ダビッド",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医Ａ",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医Ｂ",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医グェン",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医シャルール",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医フローラ",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医ミショー",
+    "Translation": ""
+  },
+  {
+    "Text": "研修医リットン",
+    "Translation": ""
+  },
+  {
+    "Text": "見習い",
+    "Translation": ""
+  },
+  {
+    "Text": "見舞い客",
+    "Translation": ""
+  },
+  {
+    "Text": "見舞い客Ａ",
+    "Translation": ""
+  },
+  {
+    "Text": "見舞い客Ｂ",
+    "Translation": ""
+  },
+  {
+    "Text": "見舞い客Ｃ",
+    "Translation": ""
+  },
+  {
+    "Text": "見舞い客Ｄ",
+    "Translation": ""
+  },
+  {
+    "Text": "幻獣",
+    "Translation": ""
+  },
+  {
+    "Text": "幻獣調査レポート",
+    "Translation": ""
+  },
+  {
+    "Text": "古戦場方面",
+    "Translation": ""
+  },
+  {
+    "Text": "湖水浴場方面",
+    "Translation": ""
+  },
+  {
+    "Text": "御守役",
+    "Translation": ""
+  },
+  {
+    "Text": "護送車",
+    "Translation": ""
+  },
+  {
+    "Text": "公室護衛官",
+    "Translation": ""
+  },
+  {
+    "Text": "構成員",
+    "Translation": ""
+  },
+  {
+    "Text": "港湾区",
+    "Translation": ""
+  },
+  {
+    "Text": "行政区",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱員ガンツ",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱員マックス",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱員マルロ",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱員ロージー",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱山町マインツ方面",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱山長ホフマン",
+    "Translation": ""
+  },
+  {
+    "Text": "降魔刀",
+    "Translation": ""
+  },
+  {
+    "Text": "剛毅のアイネス",
+    "Translation": ""
+  },
+  {
+    "Text": "国防軍仕官",
+    "Translation": ""
+  },
+  {
+    "Text": "国防軍隊長",
+    "Translation": ""
+  },
+  {
+    "Text": "国防軍兵士",
+    "Translation": ""
+  },
+  {
+    "Text": "国防軍兵士・女",
+    "Translation": ""
+  },
+  {
+    "Text": "国防軍兵士・男",
+    "Translation": ""
+  },
+  {
+    "Text": "黒い運搬車",
+    "Translation": ""
+  },
+  {
+    "Text": "黒月",
+    "Translation": ""
+  },
+  {
+    "Text": "黒月構成員",
+    "Translation": ""
+  },
+  {
+    "Text": "黒塗りセダン",
+    "Translation": ""
+  },
+  {
+    "Text": "黒髪の軍人",
+    "Translation": ""
+  },
+  {
+    "Text": "黒服",
+    "Translation": ""
+  },
+  {
+    "Text": "司会",
+    "Translation": ""
+  },
+  {
+    "Text": "子供",
+    "Translation": ""
+  },
+  {
+    "Text": "市民",
+    "Translation": ""
+  },
+  {
+    "Text": "市民１",
+    "Translation": ""
+  },
+  {
+    "Text": "市民２",
+    "Translation": ""
+  },
+  {
+    "Text": "市民３",
+    "Translation": ""
+  },
+  {
+    "Text": "市民４",
+    "Translation": ""
+  },
+  {
+    "Text": "市民５",
+    "Translation": ""
+  },
+  {
+    "Text": "市民６",
+    "Translation": ""
+  },
+  {
+    "Text": "市民７",
+    "Translation": ""
+  },
+  {
+    "Text": "市民８",
+    "Translation": ""
+  },
+  {
+    "Text": "市役所職員",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車",
+    "Translation": ""
+  },
+  {
+    "Text": "支配人",
+    "Translation": ""
+  },
+  {
+    "Text": "執事",
+    "Translation": ""
+  },
+  {
+    "Text": "車",
+    "Translation": ""
+  },
+  {
+    "Text": "車掌",
+    "Translation": ""
+  },
+  {
+    "Text": "守護騎士ケビン",
+    "Translation": ""
+  },
+  {
+    "Text": "守護騎士ワジ",
+    "Translation": ""
+  },
+  {
+    "Text": "手紙",
+    "Translation": ""
+  },
+  {
+    "Text": "受付カイル",
+    "Translation": ""
+  },
+  {
+    "Text": "受付トーマス",
+    "Translation": ""
+  },
+  {
+    "Text": "受付ミシェル",
+    "Translation": ""
+  },
+  {
+    "Text": "受付ローランド",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢ヴィオラ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢カルミナ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢コリンナ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢シオン",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢シンシア",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢セイラーム",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢セラ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢トリア",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢パール",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢フラン",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢マルカナ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢ランフィ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢リーリエ",
+    "Translation": ""
+  },
+  {
+    "Text": "受付嬢レベッカ",
+    "Translation": ""
+  },
+  {
+    "Text": "住宅街",
+    "Translation": ""
+  },
+  {
+    "Text": "従騎士ヴェントス",
+    "Translation": ""
+  },
+  {
+    "Text": "従騎士ジュノー",
+    "Translation": ""
+  },
+  {
+    "Text": "従騎士セサル",
+    "Translation": ""
+  },
+  {
+    "Text": "従騎士マーカス",
+    "Translation": ""
+  },
+  {
+    "Text": "従騎士リース",
+    "Translation": ""
+  },
+  {
+    "Text": "女",
+    "Translation": ""
+  },
+  {
+    "Text": "女の子",
+    "Translation": ""
+  },
+  {
+    "Text": "女性",
+    "Translation": ""
+  },
+  {
+    "Text": "女性士官",
+    "Translation": ""
+  },
+  {
+    "Text": "商人",
+    "Translation": ""
+  },
+  {
+    "Text": "少年",
+    "Translation": ""
+  },
+  {
+    "Text": "昇降機",
+    "Translation": ""
+  },
+  {
+    "Text": "乗客",
+    "Translation": ""
+  },
+  {
+    "Text": "乗組員サルサ",
+    "Translation": ""
+  },
+  {
+    "Text": "職員ハンクス",
+    "Translation": ""
+  },
+  {
+    "Text": "食器",
+    "Translation": ""
+  },
+  {
+    "Text": "新型装甲車",
+    "Translation": ""
+  },
+  {
+    "Text": "新型装甲車（Ａ）",
+    "Translation": ""
+  },
+  {
+    "Text": "新型装甲車（Ｂ）",
+    "Translation": ""
+  },
+  {
+    "Text": "神機アイオーン",
+    "Translation": ""
+  },
+  {
+    "Text": "神速のデュバリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "神狼ツァイト",
+    "Translation": ""
+  },
+  {
+    "Text": "親衛隊",
+    "Translation": ""
+  },
+  {
+    "Text": "親衛隊隊士",
+    "Translation": ""
+  },
+  {
+    "Text": "診察医ベルダイン",
+    "Translation": ""
+  },
+  {
+    "Text": "人形",
+    "Translation": ""
+  },
+  {
+    "Text": "人形工房方面",
+    "Translation": ""
+  },
+  {
+    "Text": "水狂ナルセス",
+    "Translation": ""
+  },
+  {
+    "Text": "水上バス",
+    "Translation": ""
+  },
+  {
+    "Text": "水上バスガイド",
+    "Translation": ""
+  },
+  {
+    "Text": "水着カタログ",
+    "Translation": ""
+  },
+  {
+    "Text": "水面",
+    "Translation": ""
+  },
+  {
+    "Text": "整備員",
+    "Translation": ""
+  },
+  {
+    "Text": "星見の塔方面",
+    "Translation": ""
+  },
+  {
+    "Text": "正騎士アッバス",
+    "Translation": ""
+  },
+  {
+    "Text": "声",
+    "Translation": ""
+  },
+  {
+    "Text": "西クロスベル街道",
+    "Translation": ""
+  },
+  {
+    "Text": "西通り",
+    "Translation": ""
+  },
+  {
+    "Text": "青年",
+    "Translation": ""
+  },
+  {
+    "Text": "隻眼の男",
+    "Translation": ""
+  },
+  {
+    "Text": "赤い星座の猟兵",
+    "Translation": ""
+  },
+  {
+    "Text": "赤毛の少女",
+    "Translation": ""
+  },
+  {
+    "Text": "赤毛の大男",
+    "Translation": ""
+  },
+  {
+    "Text": "占い師",
+    "Translation": ""
+  },
+  {
+    "Text": "戦鬼シグムント",
+    "Translation": ""
+  },
+  {
+    "Text": "捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "槍",
+    "Translation": ""
+  },
+  {
+    "Text": "装甲車",
+    "Translation": ""
+  },
+  {
+    "Text": "装甲車01",
+    "Translation": ""
+  },
+  {
+    "Text": "装甲車02",
+    "Translation": ""
+  },
+  {
+    "Text": "装甲車03",
+    "Translation": ""
+  },
+  {
+    "Text": "装甲車２",
+    "Translation": ""
+  },
+  {
+    "Text": "送迎用リムジン",
+    "Translation": ""
+  },
+  {
+    "Text": "足場",
+    "Translation": ""
+  },
+  {
+    "Text": "太陽の砦",
+    "Translation": ""
+  },
+  {
+    "Text": "太陽の砦方面",
+    "Translation": ""
+  },
+  {
+    "Text": "隊員の声",
+    "Translation": ""
+  },
+  {
+    "Text": "台詞表示用ダミーキャラ",
+    "Translation": ""
+  },
+  {
+    "Text": "大統領リムジン",
+    "Translation": ""
+  },
+  {
+    "Text": "短剣目標",
+    "Translation": ""
+  },
+  {
+    "Text": "男",
+    "Translation": ""
+  },
+  {
+    "Text": "男の子",
+    "Translation": ""
+  },
+  {
+    "Text": "男の声",
+    "Translation": ""
+  },
+  {
+    "Text": "男性",
+    "Translation": ""
+  },
+  {
+    "Text": "地形",
+    "Translation": ""
+  },
+  {
+    "Text": "中央広場",
+    "Translation": ""
+  },
+  {
+    "Text": "中年男性",
+    "Translation": ""
+  },
+  {
+    "Text": "通信機",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍仕官",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍士官",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍将校",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍戦車",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍戦車・壊れ",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国軍兵士",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国系テロリスト",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国時報記者",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国商人",
+    "Translation": ""
+  },
+  {
+    "Text": "帝国派議員",
+    "Translation": ""
+  },
+  {
+    "Text": "邸宅方面",
+    "Translation": ""
+  },
+  {
+    "Text": "鉄鋼ドリュー",
+    "Translation": ""
+  },
+  {
+    "Text": "店員",
+    "Translation": ""
+  },
+  {
+    "Text": "土嚢",
+    "Translation": ""
+  },
+  {
+    "Text": "倒木",
+    "Translation": ""
+  },
+  {
+    "Text": "東クロスベル街道",
+    "Translation": ""
+  },
+  {
+    "Text": "東通り",
+    "Translation": ""
+  },
+  {
+    "Text": "東方風の男",
+    "Translation": ""
+  },
+  {
+    "Text": "導力車",
+    "Translation": ""
+  },
+  {
+    "Text": "道化師カンパネルラ",
+    "Translation": ""
+  },
+  {
+    "Text": "特務支援課導力車",
+    "Translation": ""
+  },
+  {
+    "Text": "特務支援車",
+    "Translation": ""
+  },
+  {
+    "Text": "独立派議員",
+    "Translation": ""
+  },
+  {
+    "Text": "入院患者",
+    "Translation": ""
+  },
+  {
+    "Text": "猫型魔獣",
+    "Translation": ""
+  },
+  {
+    "Text": "波紋",
+    "Translation": ""
+  },
+  {
+    "Text": "背景",
+    "Translation": ""
+  },
+  {
+    "Text": "白ハヤブサ",
+    "Translation": ""
+  },
+  {
+    "Text": "白衣の男",
+    "Translation": ""
+  },
+  {
+    "Text": "汎用ダミー",
+    "Translation": ""
+  },
+  {
+    "Text": "秘書",
+    "Translation": ""
+  },
+  {
+    "Text": "飛空挺",
+    "Translation": ""
+  },
+  {
+    "Text": "飛空挺影",
+    "Translation": ""
+  },
+  {
+    "Text": "不動産業者",
+    "Translation": ""
+  },
+  {
+    "Text": "付き人",
+    "Translation": ""
+  },
+  {
+    "Text": "夫人",
+    "Translation": ""
+  },
+  {
+    "Text": "婦警",
+    "Translation": ""
+  },
+  {
+    "Text": "婦人",
+    "Translation": ""
+  },
+  {
+    "Text": "斧槍の乙女デュバリィ",
+    "Translation": ""
+  },
+  {
+    "Text": "父",
+    "Translation": ""
+  },
+  {
+    "Text": "符術",
+    "Translation": ""
+  },
+  {
+    "Text": "武器",
+    "Translation": ""
+  },
+  {
+    "Text": "風船屋",
+    "Translation": ""
+  },
+  {
+    "Text": "風呂敷",
+    "Translation": ""
+  },
+  {
+    "Text": "兵士カーター",
+    "Translation": ""
+  },
+  {
+    "Text": "兵士ダリア",
+    "Translation": ""
+  },
+  {
+    "Text": "兵士ブルード",
+    "Translation": ""
+  },
+  {
+    "Text": "兵士ロメオ",
+    "Translation": ""
+  },
+  {
+    "Text": "編集長",
+    "Translation": ""
+  },
+  {
+    "Text": "母",
+    "Translation": ""
+  },
+  {
+    "Text": "法衣姿の青年",
+    "Translation": ""
+  },
+  {
+    "Text": "暴走車",
+    "Translation": ""
+  },
+  {
+    "Text": "貿易商モルジオ",
+    "Translation": ""
+  },
+  {
+    "Text": "貿易商リゼロ",
+    "Translation": ""
+  },
+  {
+    "Text": "魔弓のエンネア",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣",
+    "Translation": ""
+  },
+  {
+    "Text": "魔人アーネスト",
+    "Translation": ""
+  },
+  {
+    "Text": "魔人ヴァルド",
+    "Translation": ""
+  },
+  {
+    "Text": "魔人ヨアヒム",
+    "Translation": ""
+  },
+  {
+    "Text": "魔導兵",
+    "Translation": ""
+  },
+  {
+    "Text": "妹",
+    "Translation": ""
+  },
+  {
+    "Text": "娘",
+    "Translation": ""
+  },
+  {
+    "Text": "遊撃士ヴェンツェル",
+    "Translation": ""
+  },
+  {
+    "Text": "遊撃士エオリア",
+    "Translation": ""
+  },
+  {
+    "Text": "遊撃士スコット",
+    "Translation": ""
+  },
+  {
+    "Text": "遊撃士リン",
+    "Translation": ""
+  },
+  {
+    "Text": "裏通り",
+    "Translation": ""
+  },
+  {
+    "Text": "竜宮カグヤ",
+    "Translation": ""
+  },
+  {
+    "Text": "旅行者",
+    "Translation": ""
+  },
+  {
+    "Text": "料理",
+    "Translation": ""
+  },
+  {
+    "Text": "猟兵",
+    "Translation": ""
+  },
+  {
+    "Text": "猟兵ガレス",
+    "Translation": ""
+  },
+  {
+    "Text": "猟兵ザックス",
+    "Translation": ""
+  },
+  {
+    "Text": "臨検官クワトロ",
+    "Translation": ""
+  },
+  {
+    "Text": "臨検官マーロウ",
+    "Translation": ""
+  },
+  {
+    "Text": "列車",
+    "Translation": ""
+  },
+  {
+    "Text": "狼",
+    "Translation": ""
+  },
+  {
+    "Text": "老人",
+    "Translation": ""
+  },
+  {
+    "Text": "老婆",
+    "Translation": ""
+  },
+  {
+    "Text": "偃月輪",
+    "Translation": ""
+  }
+]

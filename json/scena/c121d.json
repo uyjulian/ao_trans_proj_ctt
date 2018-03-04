@@ -1,0 +1,401 @@
+[
+  {
+    "Text": "bu03200.itp",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15036.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15040.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/eva01_01.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15037.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/ms00001.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr033000.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15038.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15039.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\ev307_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka01",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka02",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka03",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_mado",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_tukue",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_nuki03",
+    "Translation": ""
+  },
+  {
+    "Text": "kage03",
+    "Translation": ""
+  },
+  {
+    "Text": "kage04",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04512F",
+      "#12P",
+      "無駄だ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#10A",
+      "がっ……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "#10A",
+      "……ぐっ……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#10A",
+      "ぎゃっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "む、無念……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c12dor52:Layer1(1)",
+    "Translation": ""
+  },
+  {
+    "Text": "アニメ",
+    "Translation": ""
+  },
+  {
+    "Text": "c12dor52:Layer2(2)",
+    "Translation": ""
+  },
+  {
+    "Text": "アニメ",
+    "Translation": ""
+  },
+  {
+    "Text": "c12dor52:Layer3(3)",
+    "Translation": ""
+  },
+  {
+    "Text": "アニメ",
+    "Translation": ""
+  },
+  {
+    "Text": "c12dor52:Layer4(4)",
+    "Translation": ""
+  },
+  {
+    "Text": "アニメ",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "やれやれ、もう少し静かに\u0001",
+      "訪問していただきたい所ですが。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04504F",
+      "#6P",
+      "フフ、この後も\u0001",
+      "少々立て込んでいるんでな。\u0002",
+      "\u0003",
+      "#04500F",
+      "──しかし《白蘭竜》。\u0001",
+      "さすがと言っておいてやろう。\u0002",
+      "\u0003",
+      "この社員の少なさ……\u0001",
+      "俺たちの襲撃を読んでいたな？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03203F",
+      "#11P",
+      "ええ、一応は。\u0002",
+      "\u0003",
+      "#03200F",
+      "貴方がたのような戦争好きと\u0001",
+      "正面からぶつかるほど\u0001",
+      "無謀ではありませんので。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04502F",
+      "#6P",
+      "クク、にも関わらず\u0001",
+      "逃げもせずに待っていたとは……\u0002",
+      "\u0003",
+      "この“戦鬼",
+      "#4Rオーガ#",
+      "”の相手を\u0001",
+      "してくれるという事か？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03204F",
+      "#11P",
+      "ハハ、それこそまさか。\u0002",
+      "\u0003",
+      "貴方相手では、《銀",
+      "#2Rイン#",
+      "》どのですら\u0001",
+      "分が悪いと言わざるを得ません。\u0002",
+      "\u0003",
+      "#03210F",
+      "少々、確認したいことがあって\u0001",
+      "お待ちしていただけですよ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04505F",
+      "#6P",
+      "ほう、確認したいこと？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03209F",
+      "#11P",
+      "なに、簡単な事です。\u0002",
+      "\u0003",
+      "#03202F",
+      "──貴方がたの今の",
+      "#4R㈲　㈲#",
+      "契約者は\u0001",
+      "いったい何者なんですか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04504F",
+      "#6P",
+      "クク……ハハハ……\u0002",
+      "\u0003",
+      "#04512F",
+      "──やはり貴様は\u0001",
+      "なかなか見込みがあるようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04507F",
+      "#6P",
+      "#5S",
+      "#10A",
+      "はあああっ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03201F",
+      "#7A",
+      "はっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "mae_mado",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_mado",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04504F",
+      "#5P",
+      "フン、逃がしたか。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "声",
+    "Translation": ""
+  },
+  {
+    "Text": "──シグムント様！\u0002",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04500F",
+      "#5P",
+      "ツァオの部下は？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "申し訳ありません。\u0001",
+      "手傷は負わせましたが……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04504F",
+      "#5P",
+      "フフ、逃げられたか。\u0002",
+      "\u0003",
+      "#04500F",
+      "まあいい、せいぜい闇に潜んで\u0001",
+      "牙を研いでおくがいい。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#04502F",
+      "#11P",
+      "──よし。\u0001",
+      "“仕上げ”に入るぞ。\u0002",
+      "\u0003",
+      "ここを爆破しだい、\u0001",
+      "ＩＢＣビルに向かう。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "猟兵たち",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#4S",
+      "了解",
+      "#4Rヤ ー#",
+      "！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka01",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka02",
+    "Translation": ""
+  },
+  {
+    "Text": "kage03",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_tukue",
+    "Translation": ""
+  },
+  {
+    "Text": "hane",
+    "Translation": ""
+  },
+  {
+    "Text": "mae_tukue",
+    "Translation": ""
+  },
+  {
+    "Text": "kage02",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka03",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_nuki03",
+    "Translation": ""
+  },
+  {
+    "Text": "kage04",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_yuka02",
+    "Translation": ""
+  },
+  {
+    "Text": "ato_tukue",
+    "Translation": ""
+  },
+  {
+    "Text": "kage01",
+    "Translation": ""
+  },
+  {
+    "Text": "kage03",
+    "Translation": ""
+  },
+  {
+    "Text": "mae_isu",
+    "Translation": ""
+  }
+]

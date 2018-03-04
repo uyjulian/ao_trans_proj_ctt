@@ -1,0 +1,458 @@
+[
+  {
+    "Text": "天眼の識者",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘手帳の全情報を集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "市民のヒーロー",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての支援要請を達成した。",
+    "Translation": ""
+  },
+  {
+    "Text": "炎の料理人",
+    "Translation": ""
+  },
+  {
+    "Text": "全てのレシピを集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツコレクター",
+    "Translation": ""
+  },
+  {
+    "Text": "全てのクオーツを集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ノベルラバー",
+    "Translation": ""
+  },
+  {
+    "Text": "『陽溜まりのアニエス』を全巻集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "トレジャーハンター",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての宝箱を開いた。",
+    "Translation": ""
+  },
+  {
+    "Text": "爆釣王",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての魚を釣った。",
+    "Translation": ""
+  },
+  {
+    "Text": "三ツ星シェフ",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての大成功料理を作成した。",
+    "Translation": ""
+  },
+  {
+    "Text": "型破りシェフ",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての予想外料理を作成した。",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｄの追及者",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｄ∴Ｇ教団の端末を全て解析した。",
+    "Translation": ""
+  },
+  {
+    "Text": "コンビマスター",
+    "Translation": ""
+  },
+  {
+    "Text": "全てのコンビクラフトを修得した。",
+    "Translation": ""
+  },
+  {
+    "Text": "百万長者",
+    "Translation": ""
+  },
+  {
+    "Text": "所持金が1,000,000ミラ以上になった。",
+    "Translation": ""
+  },
+  {
+    "Text": "力戦の勇士",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘勝利回数１００回達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "奮戦の猛者",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘勝利回数５００回達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "歴戦の勝者",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘勝利回数１０００回達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "千討の志士",
+    "Translation": ""
+  },
+  {
+    "Text": "敵を２０００体以上倒した。",
+    "Translation": ""
+  },
+  {
+    "Text": "雷光一閃",
+    "Translation": ""
+  },
+  {
+    "Text": "先制攻撃発生回数１００回達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "超絶秘技",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｓブレイク発動回数１００回達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "継続の粋人",
+    "Translation": ""
+  },
+  {
+    "Text": "プレイ時間が１００時間を越えた。",
+    "Translation": ""
+  },
+  {
+    "Text": "超一流捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "上級捜査官・１ＳＴになった。",
+    "Translation": ""
+  },
+  {
+    "Text": "至高の剣",
+    "Translation": ""
+  },
+  {
+    "Text": "最強武器を作成した。",
+    "Translation": ""
+  },
+  {
+    "Text": "無双の烈士",
+    "Translation": ""
+  },
+  {
+    "Text": "ロイド、エリィ、ティオ、ランディのレベルを１２０まで上げた。",
+    "Translation": ""
+  },
+  {
+    "Text": "インテリアコレクター",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての家具とエニグマカバーを集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "カーマニア",
+    "Translation": ""
+  },
+  {
+    "Text": "全ての導力車オプションを集めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "至境の珠",
+    "Translation": ""
+  },
+  {
+    "Text": "七属性のマスターアーツを使えるようにした。",
+    "Translation": ""
+  },
+  {
+    "Text": "エニグマⅡユーザー",
+    "Translation": ""
+  },
+  {
+    "Text": "エニグマⅡが使えるようになった。",
+    "Translation": ""
+  },
+  {
+    "Text": "腕利き捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "難易度ハード以上でゲームをクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "伝説の捜査官",
+    "Translation": ""
+  },
+  {
+    "Text": "難易度ナイトメアでゲームをクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｄの残影",
+    "Translation": ""
+  },
+  {
+    "Text": "序章『Ｄの残影』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "予兆～新たなる日々",
+    "Translation": ""
+  },
+  {
+    "Text": "第１章『予兆～新たなる日々』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "西ゼムリア通商会議",
+    "Translation": ""
+  },
+  {
+    "Text": "第２章『西ゼムリア通商会議』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "束の間の休息",
+    "Translation": ""
+  },
+  {
+    "Text": "インターミッション『束の間の休息』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "胎動～獣たちの謝肉祭",
+    "Translation": ""
+  },
+  {
+    "Text": "第３章『胎動～獣たちの謝肉祭』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "運命のクロスベル",
+    "Translation": ""
+  },
+  {
+    "Text": "第４章『運命のクロスベル』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "偽りの楽土を越えて",
+    "Translation": ""
+  },
+  {
+    "Text": "断章『偽りの楽土を越えて』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "ぞれでも僕らは。",
+    "Translation": ""
+  },
+  {
+    "Text": "終章『それでも僕らは。』をクリアした。",
+    "Translation": ""
+  },
+  {
+    "Text": "ダドリーとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "ダドリーとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ノエルとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "ノエルとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ワジとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "ワジとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "リーシャとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "リーシャとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "エリィとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "エリィとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティオとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "ティオとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ランディとの絆",
+    "Translation": ""
+  },
+  {
+    "Text": "ランディとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "紅の討伐者",
+    "Translation": ""
+  },
+  {
+    "Text": "【ヴァーミリオン】を倒した。",
+    "Translation": ""
+  },
+  {
+    "Text": "鋼に届きし者",
+    "Translation": ""
+  },
+  {
+    "Text": "《鋼の聖女》アリアンロードの膝を付かせた。",
+    "Translation": ""
+  },
+  {
+    "Text": "百花迎撃",
+    "Translation": ""
+  },
+  {
+    "Text": "敵のアーツ・技の駆動を１００回阻止した。",
+    "Translation": ""
+  },
+  {
+    "Text": "絢爛攻守",
+    "Translation": ""
+  },
+  {
+    "Text": "タクティカルボーナス値?４．００以上達成。",
+    "Translation": ""
+  },
+  {
+    "Text": "連戦連破",
+    "Translation": ""
+  },
+  {
+    "Text": "３連チェインバトルに勝利した。",
+    "Translation": ""
+  },
+  {
+    "Text": "八頭撃滅",
+    "Translation": ""
+  },
+  {
+    "Text": "敵８体を同時に倒した。\u0009\u0009\u0009\u0009",
+    "Translation": ""
+  },
+  {
+    "Text": "滅絶淘汰",
+    "Translation": ""
+  },
+  {
+    "Text": "一度の戦闘で１６体の敵を倒した。",
+    "Translation": ""
+  },
+  {
+    "Text": "爆裂果敢",
+    "Translation": ""
+  },
+  {
+    "Text": "バーストを５０回発動した。",
+    "Translation": ""
+  },
+  {
+    "Text": "解き明かせし者",
+    "Translation": ""
+  },
+  {
+    "Text": "イアン弁護士が計画の首謀者の１人だと気付いた。",
+    "Translation": ""
+  },
+  {
+    "Text": "届いた想い、繋がる絆",
+    "Translation": ""
+  },
+  {
+    "Text": "キーア、フラン、セシル、イリア、シュリとの絆を深めた。",
+    "Translation": ""
+  },
+  {
+    "Text": "ポムっと！マスター",
+    "Translation": ""
+  },
+  {
+    "Text": "『ポムっと！』で全ての対戦キャラを倒した。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホラーバスター",
+    "Translation": ""
+  },
+  {
+    "Text": "ホラーコースターで４０００ポイントを獲得した。",
+    "Translation": ""
+  },
+  {
+    "Text": "七耀の賢士",
+    "Translation": ""
+  },
+  {
+    "Text": "七属性全ての最強攻撃アーツを使える状態にした。",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  }
+]

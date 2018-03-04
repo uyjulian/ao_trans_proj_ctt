@@ -1,0 +1,565 @@
+[
+  {
+    "Text": "glow02",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "off",
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_light",
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_light",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "オーブメントを回復できる装置がある。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "ここで休憩する\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座の上に宝珠が置かれている。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝珠を置く\u0001",
+      "やめておく\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_light",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座の上に宝珠を置いた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座の上に宝珠が置かれている。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝珠を置く\u0001",
+      "やめておく\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "b_bace",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in",
+    "Translation": ""
+  },
+  {
+    "Text": "b_in2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out",
+    "Translation": ""
+  },
+  {
+    "Text": "b_out2",
+    "Translation": ""
+  },
+  {
+    "Text": "b_light",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座の上に宝珠を置いた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "台座がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "すでにスイッチは押されている。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "スイッチがある。\u0001",
+      "操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "move",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "move",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "すでにスイッチは押されている。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "スイッチがある。\u0001",
+      "操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "move",
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "move",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "すでに鍵は外されてる。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "扉に鍵が掛けられている。\u0001",
+      "外しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "root",
+    "Translation": ""
+  },
+  {
+    "Text": "move",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "扉は固く閉ざされている。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "c_plac29",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00005F",
+      "#6P",
+      "あれは……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00208F",
+      "#6P",
+      "やはり何らかの術によって\u0001",
+      "封印されているようですが……\u0002",
+      "\u0003",
+      "#00201F",
+      "幾つか種類があるみたいですね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00108F",
+      "#6P",
+      "両脇の扉を封じているのは\u0001",
+      "《結社》のものみたいだけど……\u0002",
+      "\u0003",
+      "#00101F",
+      "隠し扉を封じているのは\u0001",
+      "《教団》の目の紋章みたいね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00013F",
+      "#6P",
+      "ああ……\u0001",
+      "一体どういうつもりだ？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10101F",
+      "#6P",
+      "とにかく探索を始めるしか\u0001",
+      "ありませんね……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10701F",
+      "#6P",
+      "とにかく探索を\u0001",
+      "始めるしかなさそうです。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10400F",
+      "#6P",
+      "それじゃあ行こうか。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10701F",
+      "#6P",
+      "ええ、行きましょう。\u0002"
+    ],
+    "Translation": ""
+  }
+]

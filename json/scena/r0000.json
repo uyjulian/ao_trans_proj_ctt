@@ -1,0 +1,379 @@
+[
+  {
+    "Text": "map/mprain00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "obj_shadow0",
+    "Translation": ""
+  },
+  {
+    "Text": "obj_shadow0",
+    "Translation": ""
+  },
+  {
+    "Text": "eff\\\\trapdmg2.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva00_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01F9",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01F9",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01F9",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0043",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0043",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0043",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva07_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "\u0006\u0018何かが埋まっているようだ。\u0001",
+      "掘り出しますか？",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は  い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva07_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "\u0006\u0018何かが埋まっているようだ。\u0001",
+      "掘り出しますか？",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は  い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "\u0006\u0018バス停がある。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "\u0006\u0018",
+      "#1K",
+      "バス停がある。\u0001",
+      "バスで移動しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "アルモリカ村\u0001",
+      "タングラム門\u0001",
+      "停留所（三叉路）\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "メルカバに乗り込む",
+    "Translation": ""
+  },
+  {
+    "Text": "やめる",
+    "Translation": ""
+  },
+  {
+    "Text": "導力車で移動する",
+    "Translation": ""
+  },
+  {
+    "Text": "導力車で休憩する",
+    "Translation": ""
+  },
+  {
+    "Text": "やめる",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "導力バスは運行を見合わせているようだ。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "bu00600.itp",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#3463V",
+      "#30W",
+      "──こちらダドリー。\u0001",
+      "《結界》の消滅を確認した。\u0002",
+      "\u0003",
+      "#3464V",
+      "これより教会艇",
+      "#6Rメ ル カ バ#",
+      "へのコンタクトを試みる。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "battle/btgun00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/sp003000.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/ms00000.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15036.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "来たか……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "──迎撃を開始する。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "相手は白兵戦の達人どもだ。\u0001",
+      "クーガーを出して距離を保て。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "猟兵たち",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5S",
+      "了解",
+      "#4Rヤ ー#",
+      "！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03209F",
+      "#11P",
+      "フフ……\u0001",
+      "血湧き肉踊る展開ですね。\u0002",
+      "\u0003",
+      "#03210F",
+      "では、始めるとしましょうか。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "かしこまりました。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "──獣どもを駆逐しつつ、\u0001",
+      "敵猟兵団を翻弄する。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "狙撃に気をつけながら\u0001",
+      "懐を喰い破れ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "拳士たち",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5S",
+      "は！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "西・クロスベル市\u0001",
+      "東・アルモリカ村　２７４セルジュ\u0001",
+      "　　タングラム門　２０６セルジュ\u0002"
+    ],
+    "Translation": ""
+  }
+]

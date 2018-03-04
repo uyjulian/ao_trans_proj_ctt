@@ -1,0 +1,482 @@
+[
+  {
+    "Text": "序章",
+    "Translation": ""
+  },
+  {
+    "Text": "第１章",
+    "Translation": ""
+  },
+  {
+    "Text": "第２章",
+    "Translation": ""
+  },
+  {
+    "Text": "インターミッション",
+    "Translation": ""
+  },
+  {
+    "Text": "第３章",
+    "Translation": ""
+  },
+  {
+    "Text": "第４章",
+    "Translation": ""
+  },
+  {
+    "Text": "断章",
+    "Translation": ""
+  },
+  {
+    "Text": "終章",
+    "Translation": ""
+  },
+  {
+    "Text": "マニュアル",
+    "Translation": ""
+  },
+  {
+    "Text": "リスト",
+    "Translation": ""
+  },
+  {
+    "Text": "導力器1",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　2",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　3",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　4",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　5",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　6",
+    "Translation": ""
+  },
+  {
+    "Text": "クラフト1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　3",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　4",
+    "Translation": ""
+  },
+  {
+    "Text": "エンカウント",
+    "Translation": ""
+  },
+  {
+    "Text": "属性有効率",
+    "Translation": ""
+  },
+  {
+    "Text": "ATボーナス",
+    "Translation": ""
+  },
+  {
+    "Text": "バースト",
+    "Translation": ""
+  },
+  {
+    "Text": "パラメータ1",
+    "Translation": ""
+  },
+  {
+    "Text": "　───　2",
+    "Translation": ""
+  },
+  {
+    "Text": "状態異常1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　3",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘評価1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　3",
+    "Translation": ""
+  },
+  {
+    "Text": "昇級特典1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "各種手帳",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘記録1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "料理作成1",
+    "Translation": ""
+  },
+  {
+    "Text": "　──　2",
+    "Translation": ""
+  },
+  {
+    "Text": "魚釣り1",
+    "Translation": ""
+  },
+  {
+    "Text": "　─　2",
+    "Translation": ""
+  },
+  {
+    "Text": "プレイ実績",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/地Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/地Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/水Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/水Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/火Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/火Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/風Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/風Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/時Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/時Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/空Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/空Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/幻Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力魔法/幻Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "マスターアーツⅠ",
+    "Translation": ""
+  },
+  {
+    "Text": "マスターアーツⅡ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/地Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/地Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/水Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/水Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/火Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/火Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/風Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/風Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/時Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/時Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/空Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/空Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/幻Ⅰ",
+    "Translation": ""
+  },
+  {
+    "Text": "クオーツ/幻Ⅱ",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ地",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ水",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ火",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ風",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ時",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ空",
+    "Translation": ""
+  },
+  {
+    "Text": "マスタークオーツ幻",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "【捜査官心得】",
+    "Translation": ""
+  },
+  {
+    "Text": "一、気高き法の番人となりて",
+    "Translation": ""
+  },
+  {
+    "Text": "　　その使命を全うせよ。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、正義を誤るべからず。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、真実は探求せし者のみが",
+    "Translation": ""
+  },
+  {
+    "Text": "　　手にできると知れ。",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "【料理人心得】",
+    "Translation": ""
+  },
+  {
+    "Text": "一、料理は誠意。人に、食材に、",
+    "Translation": ""
+  },
+  {
+    "Text": "　　道具に感謝せよ。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、料理は情熱。新風を恐れず、",
+    "Translation": ""
+  },
+  {
+    "Text": "　　日々研鑽を怠るな。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、料理は愛情。真心に敵う",
+    "Translation": ""
+  },
+  {
+    "Text": "　　調味料なし。",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "【団員心得】",
+    "Translation": ""
+  },
+  {
+    "Text": "一、明鏡止水――",
+    "Translation": ""
+  },
+  {
+    "Text": "　　何事にも動ずるなかれ。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、不撓不屈――",
+    "Translation": ""
+  },
+  {
+    "Text": "　　挫折は傍らに置け。",
+    "Translation": ""
+  },
+  {
+    "Text": "一、悠々自適――",
+    "Translation": ""
+  },
+  {
+    "Text": "　　いつも心にゆとりと華を。",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  }
+]

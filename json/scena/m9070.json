@@ -1,0 +1,910 @@
+[
+  {
+    "Text": "point16_add",
+    "Translation": ""
+  },
+  {
+    "Text": "hikari99_add",
+    "Translation": ""
+  },
+  {
+    "Text": "fire00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "fire02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "eff\\\\trapdmg1.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop1",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop1",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop2",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop2",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop3",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop3",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop4",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop4",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop1",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop2",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop3",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop4",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0002",
+      "#58I",
+      "火のセピス?２０００\u0001",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u05F2",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u05F2",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u05F2",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u00C3",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u00C3",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u00C3",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01FA",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0057",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0057",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0057",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0430",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0430",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0430",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01F7",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01F7",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01F7",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event\\ev202_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\evwarp.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "もう反応しないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "クリスタルがある。\u0001",
+      "触れますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop1",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "もう反応しないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "クリスタルがある。\u0001",
+      "触れますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop2",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "もう反応しないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "クリスタルがある。\u0001",
+      "触れますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop3",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "もう反応しないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "クリスタルがある。\u0001",
+      "触れますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop4",
+    "Translation": ""
+  },
+  {
+    "Text": "c_plac60",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00011F",
+      "#12P",
+      "……これは……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00108F",
+      "#6P",
+      "なんて光景……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00206F",
+      "#12P",
+      "……とんでもないです……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10108F",
+      "#12P",
+      "ここは……地獄……？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10403F",
+      "#12P",
+      "煉獄の炎もかくや、だね……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10708F",
+      "#12P",
+      "これが《戦鬼》の内面……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00606F",
+      "#12P",
+      "まさに“業”だな……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00304F",
+      "#11P",
+      "#30W",
+      "クク……参ったな。\u0002",
+      "\u0003",
+      "#00312F",
+      "この光景……俺にもどこか\u0001",
+      "懐かしいものを感じるぜ……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00108F",
+      "#6P",
+      "……ランディ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00208F",
+      "#12P",
+      "ランディさん……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00003F",
+      "#12P",
+      "でも……それもまた、\u0001",
+      "ランディの一部なんだろう？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00306F",
+      "#11P",
+      "#30W",
+      "ああ……そうだ。\u0002",
+      "\u0003",
+      "#00308F",
+      "２年前、俺はこんな光景から\u0001",
+      "目を逸らすために逃げた……\u0002",
+      "\u0003",
+      "#00311F",
+      "だがいい加減、自分の“業",
+      "#2Rごう#",
+      "”と\u0001",
+      "向き合う時が来たみてぇだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00303F",
+      "#5P",
+      "──全てを打ち砕く化物、\u0001",
+      "《赤の戦鬼",
+      "#8Rオーガ・ロッソ#",
+      "》の“戦場”だ。\u0002",
+      "\u0003",
+      "#00307F",
+      "呑みこまれないよう、\u0001",
+      "腹を括って突き進むぞ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "メンバーたち",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#4S",
+      "おおっ……！\u0002"
+    ],
+    "Translation": ""
+  }
+]

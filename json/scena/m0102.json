@@ -1,0 +1,41 @@
+[
+  {
+    "Text": "sign01",
+    "Translation": ""
+  },
+  {
+    "Text": "light01",
+    "Translation": ""
+  },
+  {
+    "Text": "eff\\mgm03_02.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#0000F",
+      "ここなら釣れそうだな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "釣りをしますか？",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "釣りをする\u0001",
+      "やめる\u0001"
+    ],
+    "Translation": ""
+  }
+]

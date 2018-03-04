@@ -1,0 +1,299 @@
+[
+  {
+    "Text": "Null_onoff",
+    "Translation": ""
+  },
+  {
+    "Text": "on",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva00_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u00A0",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u00A0",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u00A0",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01F6",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01F6",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01F6",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "リフトの制御パネルがある。\u0001",
+      "操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "リフトの制御パネルがある。\u0001",
+      "操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_color2",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "#00013F",
+      "なんだ！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "#10110F",
+      "これは……\u0001",
+      "導力爆弾の起爆音！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00307F",
+      "その先だ、行ってみるぞ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10308F",
+      "ここは……\u0001",
+      "地下の貨物路線かな？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "#00101F",
+      "ええ、オルキスタワー方面に\u0001",
+      "資材と貨物を運んでいるのだけど……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00201F",
+      "#6P",
+      "皆さん、あれを……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10107F",
+      "#11P",
+      "これは……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00301F",
+      "#11P",
+      "チッ……\u0001",
+      "追撃を振り切るつもりか！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#00007F",
+      "他にルートはないか\u0001",
+      "調べてみるぞ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "Null_onoff",
+    "Translation": ""
+  },
+  {
+    "Text": "off_",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_onoff",
+    "Translation": ""
+  },
+  {
+    "Text": "on_",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10100F",
+      "あ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00302F",
+      "よっしゃ、回りこめたか！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10304F",
+      "フフ、連中はこちらを\u0001",
+      "撒",
+      "#2Rま#",
+      "けたと思っているだろうね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00000F",
+      "#11P",
+      "ああ……\u0001",
+      "追いつくチャンスだ！\u0002"
+    ],
+    "Translation": ""
+  }
+]

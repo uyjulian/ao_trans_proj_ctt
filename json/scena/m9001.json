@@ -1,0 +1,230 @@
+[
+  {
+    "Text": "CA_stop",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "night",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u01FD",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0334",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0334",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0334",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0002",
+      "#56I",
+      "地のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#57I",
+      "水のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#58I",
+      "火のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#59I",
+      "風のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#60I",
+      "時のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#61I",
+      "空のセピス?２００\u0001",
+      "\u0007\u0002",
+      "#62I",
+      "幻のセピス?２００\u0001",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "もう反応しないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "クリスタルがある。\u0001",
+      "触れますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "to_d",
+    "Translation": ""
+  },
+  {
+    "Text": "black_add",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "blue",
+    "Translation": ""
+  },
+  {
+    "Text": "day",
+    "Translation": ""
+  },
+  {
+    "Text": "CA_stop",
+    "Translation": ""
+  }
+]

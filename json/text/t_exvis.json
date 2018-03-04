@@ -1,0 +1,488 @@
+[
+  {
+    "Text": "visual/c_vis229",
+    "Translation": ""
+  },
+  {
+    "Text": "『支援課の写真』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis266",
+    "Translation": ""
+  },
+  {
+    "Text": "『ランディの回想１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis267",
+    "Translation": ""
+  },
+  {
+    "Text": "『ランディの回想２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis268",
+    "Translation": ""
+  },
+  {
+    "Text": "『ランディの回想３』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis303",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis304",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis305",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想３』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis330",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想４』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis331",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想５』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis306",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想６』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis307",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想７』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis308",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想８』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis309",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想９』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis320",
+    "Translation": ""
+  },
+  {
+    "Text": "『アリオスの回想10』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis295",
+    "Translation": ""
+  },
+  {
+    "Text": "『悪夢１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis333",
+    "Translation": ""
+  },
+  {
+    "Text": "『悪夢２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis334",
+    "Translation": ""
+  },
+  {
+    "Text": "『悪夢３』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis346",
+    "Translation": ""
+  },
+  {
+    "Text": "『悪夢４』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis272",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『幻の至宝(デミウルゴス)１』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis273",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『幻の至宝(デミウルゴス)２』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis274",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『幻の至宝(デミウルゴス)３』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis275",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『幻の至宝(デミウルゴス)４』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis312",
+    "Translation": ""
+  },
+  {
+    "Text": "『赤い星座の紋章』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis251",
+    "Translation": ""
+  },
+  {
+    "Text": "『身喰らう蛇の紋章』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis256",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『蛇の使徒（アンギス）』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis418",
+    "Translation": ""
+  },
+  {
+    "Text": "『クロスベル解放』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis321",
+    "Translation": ""
+  },
+  {
+    "Text": "『リーシャの回想１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis322",
+    "Translation": ""
+  },
+  {
+    "Text": "『リーシャの回想２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis323",
+    "Translation": ""
+  },
+  {
+    "Text": "『リーシャの回想３』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis324",
+    "Translation": ""
+  },
+  {
+    "Text": "『リーシャの回想４』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis325",
+    "Translation": ""
+  },
+  {
+    "Text": "『ワジの回想１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis327",
+    "Translation": ""
+  },
+  {
+    "Text": "『ワジの回想２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis349",
+    "Translation": ""
+  },
+  {
+    "Text": "『ワジの回想３』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis230",
+    "Translation": ""
+  },
+  {
+    "Text": "『エニグマⅡ』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis011",
+    "Translation": ""
+  },
+  {
+    "Text": "『捜査手帳』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis244",
+    "Translation": ""
+  },
+  {
+    "Text": "『ジークのメモ』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis348",
+    "Translation": ""
+  },
+  {
+    "Text": "『怪盗Ｂのカード』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis252",
+    "Translation": ""
+  },
+  {
+    "Text": "『プレロマ草１』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis253",
+    "Translation": ""
+  },
+  {
+    "Text": "『プレロマ草２』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis336",
+    "Translation": ""
+  },
+  {
+    "Text": "『ガイのトンファー』を見る？",
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis378",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『マスタークオーツ１』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis379",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『マスタークオーツ２』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis380",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『マスタークオーツ３』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis381",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『マスタークオーツ４』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis350",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ロイドのエニグマカバー1』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis351",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ロイドのエニグマカバー2』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis352",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『エリィのエニグマカバー1』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis353",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『エリィのエニグマカバー2』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis354",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ティオのエニグマカバー1』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis355",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ティオのエニグマカバー2』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis356",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ランディのエニグマカバー1』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis357",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ランディのエニグマカバー2』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "visual/c_vis358",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "『ワジのエニグマカバー』\u000A",
+      "を見る？"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  }
+]

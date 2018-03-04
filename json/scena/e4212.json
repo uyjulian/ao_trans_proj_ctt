@@ -1,0 +1,559 @@
+[
+  {
+    "Text": "mae00",
+    "Translation": ""
+  },
+  {
+    "Text": "mae01",
+    "Translation": ""
+  },
+  {
+    "Text": "mae02",
+    "Translation": ""
+  },
+  {
+    "Text": "maewood",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa00",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa01",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa02",
+    "Translation": ""
+  },
+  {
+    "Text": "maekage",
+    "Translation": ""
+  },
+  {
+    "Text": "ato00",
+    "Translation": ""
+  },
+  {
+    "Text": "ato01",
+    "Translation": ""
+  },
+  {
+    "Text": "ato02",
+    "Translation": ""
+  },
+  {
+    "Text": "ato03",
+    "Translation": ""
+  },
+  {
+    "Text": "atokizu_add",
+    "Translation": ""
+  },
+  {
+    "Text": "atokumo_add",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva00_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u020C",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u020C",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u020C",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u05EE",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u05EE",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u05EE",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev600_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev600_01.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev10018.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/eva01_01.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17045.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17043.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17040.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17041.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/mgaria0.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17063.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15040.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17044.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00807F",
+      "#12P",
+      "ハアハア……\u0001",
+      "なんてヤツなの……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00901F",
+      "#6P",
+      "《至宝》から無限のエネルギーを\u0001",
+      "供給されているのか……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03301F",
+      "#6P",
+      "負けない……あなたなんかに、\u0001",
+      "《パテル＝マテル》は……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03307F",
+      "#6P",
+      "#4S",
+      "レンも、エステルとヨシュアだって\u0001",
+      "負けないんだからああっ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03305F",
+      "#6P",
+      "#N",
+      "#8A",
+      "あ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00813F",
+      "#12P",
+      "#6A",
+      "くっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00907F",
+      "#6P",
+      "#6A",
+      "おおおっ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "Null_eyes(76)",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00807F",
+      "#6P",
+      "ああっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03311F",
+      "#N",
+      "#6P",
+      "《パテル＝マテル》！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03307F",
+      "#6P",
+      "#5S",
+      "このおおおおっ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00813F",
+      "#6P",
+      "レン、駄目よ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00907F",
+      "#12P",
+      "１人で前に出たら……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03310F",
+      "#11P",
+      "#8A",
+      "あうっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00806F",
+      "#11P",
+      "きゃあっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00907F",
+      "#12P",
+      "しまった……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03305F",
+      "#5P",
+      "#30W",
+      "………ぁ…………\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00907F",
+      "#6P",
+      "#N",
+      "駄目だ、この距離じゃ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00813F",
+      "#6P",
+      "#N",
+      "#4S",
+      "#12A",
+      "レ────ンッ！！！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03310F",
+      "#6P",
+      "#13A",
+      "きゃあっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03311F",
+      "#12P",
+      "え───\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03316F",
+      "#12P",
+      "#30W",
+      "《パテル＝マテル》……\u0001",
+      "な、なにを言ってるの……？\u0002",
+      "\u0003",
+      "#03307F",
+      "#30W",
+      "……ダメよ……\u0001",
+      "ダメに決まってるじゃない……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03310F",
+      "#12P",
+      "#4S",
+      "#20A",
+      "ダメえええええええッ！！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "ato00",
+    "Translation": ""
+  },
+  {
+    "Text": "ato01",
+    "Translation": ""
+  },
+  {
+    "Text": "ato02",
+    "Translation": ""
+  },
+  {
+    "Text": "ato03",
+    "Translation": ""
+  },
+  {
+    "Text": "atokizu_add",
+    "Translation": ""
+  },
+  {
+    "Text": "atokumo_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mae00",
+    "Translation": ""
+  },
+  {
+    "Text": "mae01",
+    "Translation": ""
+  },
+  {
+    "Text": "mae02",
+    "Translation": ""
+  },
+  {
+    "Text": "maewood",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa00",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa01",
+    "Translation": ""
+  },
+  {
+    "Text": "maekusa02",
+    "Translation": ""
+  },
+  {
+    "Text": "maekage",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_r(67)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_l(68)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_r(67)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_l(68)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_r(67)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_b_cannon_l(68)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r0(63)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r2(64)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l0(66)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l2(65)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r1(61)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l1(62)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_r(53)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_l(54)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r0(63)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r2(64)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l0(66)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l2(65)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r1(61)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l1(62)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_r(53)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_l(54)",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0394",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  }
+]

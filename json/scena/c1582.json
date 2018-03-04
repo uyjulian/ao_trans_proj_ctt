@@ -1,0 +1,546 @@
+[
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01d_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01d_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01d_add",
+    "Translation": ""
+  },
+  {
+    "Text": "suikomi_add",
+    "Translation": ""
+  },
+  {
+    "Text": "rai00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "eff\\\\trapdmg0.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event\\eva00_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "魔獣が現れた！",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u001F\u0086",
+      "\u0007\u0000",
+      "を手に入れた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "宝箱には",
+      "\u001F\u0086",
+      "\u0007\u0000",
+      "が入っている。\u0001",
+      "持ち物が一杯なので、",
+      "\u001F\u0086",
+      "\u0007\u0000",
+      "をあきらめた。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0006",
+      "\u0007\u0005",
+      "宝箱には何も入っていない。",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "今は動かないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "エレベーターの操作盤がある。\u0001",
+      "遠隔操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "monita01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "今は動かないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "エレベーターの操作盤がある。\u0001",
+      "操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "a_add",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "今は動かないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "エレベーターの操作盤がある。\u0001",
+      "遠隔操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "monita03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "monita02b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "b_add",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "今は動かないようだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "エレベーターの操作盤がある。\u0001",
+      "遠隔操作しますか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "は　い\u0001",
+      "いいえ\u0001"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "monita04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01d_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01d_add",
+    "Translation": ""
+  },
+  {
+    "Text": "mahou01c_add",
+    "Translation": ""
+  },
+  {
+    "Text": "c_add",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10111F",
+      "#N",
+      "凄い……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10712F",
+      "#N",
+      "……この光は……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00306F",
+      "#N",
+      "おいおい、こりゃまた\u0001",
+      "とんでもない場所に出たな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00101F",
+      "#N",
+      "これは……\u0001",
+      "七耀の霊子エネルギー？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10406F",
+      "#N",
+      "ああ、間違いないだろうね。\u0002",
+      "\u0003",
+      "#10401F",
+      "四属性のジオフロントを通って\u0001",
+      "純化されているみたいだ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00203F",
+      "#N",
+      "どうやら上層に向けて\u0001",
+      "吸い上げているようです。\u0002",
+      "\u0003",
+      "#00201F",
+      "あの光に直接当たると\u0001",
+      "エニグマなどの導力器",
+      "#6Rオーブメント#",
+      "にも\u0001",
+      "影響があるかもしれません。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00606F",
+      "#N",
+      "チッ、厄介だな……\u0002",
+      "\u0003",
+      "#00610F",
+      "見たところ、上層に抜けるには\u0001",
+      "光の流れる場所を通るしかない……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00013F",
+      "#N",
+      "通る時は一気に駆け抜けるしか\u0001",
+      "方法は無さそうですね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00006F",
+      "#N",
+      "見たところ、上層に抜けるには\u0001",
+      "光の流れる場所を通るしかない……\u0002",
+      "\u0003",
+      "#00013F",
+      "通る時は一気に駆け抜けるしか\u0001",
+      "方法は無さそうだな。\u0002"
+    ],
+    "Translation": ""
+  }
+]

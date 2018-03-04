@@ -1,0 +1,379 @@
+[
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "……北口と東口では\u0001",
+      "戦闘が始まったみたいだな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "なあ……ヤバくないか？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "これでソーニャ司令の部隊が\u0001",
+      "こっちに攻めてきたら……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "だ、大丈夫だろう。\u0001",
+      "政治的な問題が決着するまで\u0001",
+      "静観するって話みたいだし。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "とにかく、ケリが付くまで\u0001",
+      "俺たちはただ待ってりゃいいさ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "少女の声",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "#1P",
+      "#N",
+      "うふふ……\u0001",
+      "そんな日和見さんな考えで\u0001",
+      "いいのかしら？",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "な、なんだ……？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "この音……どこかで……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15059.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev10018.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev600_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev601_01.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev14003.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/mgaria0.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17064.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17063.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/eva01_01.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17038.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17039.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr006300.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr007100.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev10017.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev17107.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_ren(52)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r0(63)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r2(64)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l0(66)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l2(65)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_r1(61)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_S_jet_l1(62)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_r(53)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_kata_jet_l(54)",
+    "Translation": ""
+  },
+  {
+    "Text": "bu03300.itp",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#4S",
+      "なああああっ！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#4S",
+      "赤い《神機",
+      "#4Rアイオーン#",
+      "》……！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "クスクス……御機嫌よう。\u0002",
+      "\u0003",
+      "でも、この《パテル＝マテル》を\u0001",
+      "あんな人形さんたちと一緒にしないで。\u0002",
+      "\u0003",
+      "遥かに格好よくって、アタマがよくて、\u0001",
+      "頼りになるんだから。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "ま、まさか……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "て、敵なのか……！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03304F",
+      "#5P",
+      "うふふ、兵士さんたちは\u0001",
+      "どうでもいいけど。\u0002",
+      "\u0003",
+      "#03300F",
+      "踏み潰されたくなかったら\u0001",
+      "下がっているといいわ。\u0002",
+      "\u0003",
+      "#03302F",
+      "──ほら、来たわよ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "え……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "#4S",
+      "うわあっ！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "#4S",
+      "青色の《神機",
+      "#4Rアイオーン#",
+      "》……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03302F",
+      "#5P",
+      "うふふ……来たわね。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00807F",
+      "#12P",
+      "あなたたち！\u0001",
+      "いいから下がりなさい！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00907F",
+      "#6P",
+      "その程度の戦力で\u0001",
+      "介入できる勝負じゃない！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "ううっ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "て、鉄橋まで下がるぞ！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00808F",
+      "#6P",
+      "レン……無茶しないで。\u0002",
+      "\u0003",
+      "#00801F",
+      "あたしたちも全力で援護するから。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00903F",
+      "#12P",
+      "パテル＝マテルも強化されたけど\u0001",
+      "それでもパワーはあちらが上だ。\u0002",
+      "\u0003",
+      "#00901F",
+      "翻弄しつつ勝機を見出すしかない！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#03303F",
+      "#5P",
+      "うん、分かってる。\u0002",
+      "\u0003",
+      "#03308F",
+      "──これ以上、\u0001",
+      "あの人たちが暮らす地を\u0001",
+      "勝手にはさせない……\u0002",
+      "\u0003",
+      "#03307F",
+      "行きましょう！\u0001",
+      "エステル、ヨシュア！\u0001",
+      "《パテル＝マテル》！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "Null_eyes(76)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_hand_l(66)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_hand_r(65)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_hand_l(66)",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_hand_r(65)",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "Null_eyes(74)",
+    "Translation": ""
+  }
+]

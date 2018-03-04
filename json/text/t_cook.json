@@ -1,0 +1,102 @@
+[
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": " HP30％回復 CP+50\\n\\n HP10％回復 CP+25\\n\\n“CP+100”または“瀕死”\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP75％回復 EP75％回復\\n CP+75\\n HP40％回復 EP40％回復\\n CP+40\\n“CP+200”\\n または“CP0＆瀕死”\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP15％回復\\n「戦闘不能」解除\\n HP5％回復\\n「戦闘不能」解除\\n HP5％回復\\n「能力低下」解除\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP40％回復 STR+50％\\n\\n HP20％回復 STR+50％\\n\\n HP10％回復\\n「物理完全防御」効果\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP30％回復\\n「全状態異常」解除\\n HP10％回復\\n「全状態異常」解除\\n HP15％回復 EP15％回復\\n CP+15\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP60％回復\\n「石化」解除\\n HP30％回復\\n\\n HP10％回復\\n「石化・凍結」解除\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP60％回復\\n「炎傷」解除\\n HP25％回復\\n「炎傷」解除\\n HP10％回復\\n「毒・暗闇・炎傷」解除\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP10％回復 SPD+50％\\n\\n HP5％回復 SPD+25％\\n\\n 攻撃：威力300 直線\\n 25％で戦闘不能\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP60％回復 CP+30\\n\\n HP40％回復 CP+20\\n\\n 攻撃：威力350 大円\\n 80％で炎傷\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP50％回復\\n「封技・封魔」解除\\n HP25％回復\\n「封技」解除\\n 攻撃：威力450 中円\\n 100％で気絶\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP30％回復 CP+30\\n\\n HP15％回復 CP+15\\n\\n HP5％回復 CP+40\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP75％回復 CP+60\\n\\n HP50％回復 CP+30\\n\\n HP5％回復 CP+95\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP15％回復 STR+25％\\n\\n HP15％回復\\n\\n HP5％回復 DEF+50％\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP80％回復\\n「全状態異常」解除\\n HP40％回復\\n「全状態異常」解除\\n 攻撃：威力500 大円\\n 100％でランダム状態異常\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP15％回復\\n ATS+50％\\n HP10％回復\\n ATS+25％\\n HP5％回復\\n ATS+25％ ADF+25％\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP40％回復 EP40％回復\\n ATS+25％\\n HP20％回復 EP20％回復\\n\\n HP10％回復 EP10％回復\\n ATS+50％\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP60％回復\\n ATS+50％ ADF+50％\\n HP30％回復\\n ATS+25％ ADF+25％\\n EP50％回復\\n「魔法反射」効果\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP30％回復 回避率+30％\\n\\n HP15％回復 回避率+15％\\n\\n HP5％回復 回避率+50％\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP40％回復 EP20％回復\\n\\n HP20％回復 EP10％回復\\n\\n HP10％回復 EP10％回復\\n「戦闘不能」解除\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP30％回復\\n SPD+25％ MOV+5\\n HP30％回復\\n MOV+3\\n HP20％回復\\n「ステルス」効果\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP40％回復\\n「戦闘不能」解除\\n HP20％回復\\n「戦闘不能」解除\\n CP+10\\n「能力低下」解除\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP60％回復 命中率+50％\\n\\n HP30％回復 命中率+50％\\n\\n EP30％回復\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP20％回復\\n「睡眠・混乱・気絶」解除\\n HP10％回復\\n「睡眠」解除\\n EP20％回復\\n\\n",
+    "Translation": ""
+  },
+  {
+    "Text": " HP100％回復\\n「戦闘不能」解除\\n HP50％回復\\n「戦闘不能」解除\\n EP全回復\\n\\n",
+    "Translation": ""
+  }
+]

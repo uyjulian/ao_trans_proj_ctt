@@ -1,0 +1,153 @@
+[
+  {
+    "Text": "battle/btgun00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev606_00.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/sp003000.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/ms00001.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15027.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr024100.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "event/ev15042.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr024401.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "battle/cr024000.eff",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "patlight",
+    "Translation": ""
+  },
+  {
+    "Text": "highspd",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "patlight",
+    "Translation": ""
+  },
+  {
+    "Text": "highspd",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "patlight",
+    "Translation": ""
+  },
+  {
+    "Text": "highspd",
+    "Translation": ""
+  },
+  {
+    "Text": "light",
+    "Translation": ""
+  },
+  {
+    "Text": "patlight",
+    "Translation": ""
+  },
+  {
+    "Text": "highspd",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00607F",
+      "#5P",
+      "くっ……！\u0001",
+      "いつの間にこんな場所まで……\u0002",
+      "\u0003",
+      "一体どこから現れたんだ！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#01410F",
+      "#5P",
+      "恐らく、飛行艇を使っている\u0001",
+      "可能性が高いかもしれんな……\u0002",
+      "\u0003",
+      "山道から消えた部隊も\u0001",
+      "その飛行艇が回収したのだろう。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00610F",
+      "#11P",
+      "バカな……！\u0001",
+      "ならば対空レーダー網が\u0001",
+      "反応しているはずだ！\u0002",
+      "\u0003",
+      "レーダーに気づかれずに\u0001",
+      "自治州を行き来するなど──\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00607F",
+      "#11P",
+      "まさか……リベールの異変で\u0001",
+      "《結社》が使ったという！？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#01403F",
+      "#5P",
+      "《ステルス機能》……\u0001",
+      "それを搭載した飛行艇が\u0001",
+      "使われているのかもしれん。\u0002",
+      "\u0003",
+      "#01407F",
+      "だが──\u0001",
+      "今は確かめている暇はない！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00610F",
+      "#5P",
+      "くっ……そのようだ！\u0002"
+    ],
+    "Translation": ""
+  }
+]

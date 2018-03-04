@@ -1,0 +1,4474 @@
+[
+  {
+    "Text": " ",
+    "Translation": ""
+  },
+  {
+    "Text": "０１２３４５６７８９1011121314151617181920212223242526",
+    "Translation": ""
+  },
+  {
+    "Text": "捜査手帳",
+    "Translation": ""
+  },
+  {
+    "Text": "警察官の身分を証明する、警察紋が入った黒革の手帳。\\n捜査状況の記録と確認、および各種情報が参照できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "料理手帳",
+    "Translation": ""
+  },
+  {
+    "Text": "料理のレシピを記録しておくための手帳。\\n材料があれば、いつでも料理を作ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "釣り手帳",
+    "Translation": ""
+  },
+  {
+    "Text": "釣った魚の情報を記録しておくための手帳。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦闘手帳",
+    "Translation": ""
+  },
+  {
+    "Text": "遭遇した敵の情報を記録しておくための手帳。",
+    "Translation": ""
+  },
+  {
+    "Text": "自治州の地図",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル自治州の地図。\\n現在地を確認することができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の地図",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市内を網羅した、観光客向けの地図。\\n市内散策の頼れる味方。",
+    "Translation": ""
+  },
+  {
+    "Text": "練習用武器",
+    "Translation": ""
+  },
+  {
+    "Text": "攻撃力は期待できないが、ないよりマシ？",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・撃",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nロイドとワジが『ストライクヘヴン』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・十",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nエリィとノエルが『サザンクロス』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・蒼",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nノエルとワジが『ブルーブレイカー』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・襲",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nランディとノエルが『ハウリングレイド』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・虚",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nエリィとワジが『アカシックスター』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・爆",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nティオとノエルが『ブラストハンマー』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・裏",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nランディとワジが『ラストリベリオン』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "戦術書・昇",
+    "Translation": ""
+  },
+  {
+    "Text": "強力な連携技の会得法が記された謎の古文書。\\nティオとワジが『Σアセンション』を習得する。",
+    "Translation": ""
+  },
+  {
+    "Text": "プライマリロッド",
+    "Translation": ""
+  },
+  {
+    "Text": "扱いやすく調整された汎用タックル。\\nこれ一本で淡水での釣りを存分に楽しめる。",
+    "Translation": ""
+  },
+  {
+    "Text": "リトルシューター",
+    "Translation": ""
+  },
+  {
+    "Text": "かすかな当たりも確実に感じとれる軽量タックル。\\n小型～中型相手に最適な釣具。",
+    "Translation": ""
+  },
+  {
+    "Text": "竹竿",
+    "Translation": ""
+  },
+  {
+    "Text": "竿の先端に直接ラインを結んだシンプルなタックル。\\n大物釣りもこなす頼れる釣具。",
+    "Translation": ""
+  },
+  {
+    "Text": "剛竿バイキング",
+    "Translation": ""
+  },
+  {
+    "Text": "狙いを大物に絞った生餌専用タックル。\\nどんな巨大魚が相手でも力負けすることはない。",
+    "Translation": ""
+  },
+  {
+    "Text": "アクアルーラー",
+    "Translation": ""
+  },
+  {
+    "Text": "伝説の釣師が残したという奇跡のタックル。\\nあらゆるエサを使いこなすことができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "コーラルリング＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+15 「封技」無効化】\\n　深海の珍しい珊瑚をあしらった指輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "マーブルリング＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【ATS+15 「封魔」無効化】\\n　大理石模様が美しい艶やかな指輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "ルミナスグラス＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+50％ 「暗闇」無効化】\\n　淡い輝きを放ち続ける半月形のメガネ。",
+    "Translation": ""
+  },
+  {
+    "Text": "クールネックレス＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【ADF+30 「炎傷」無効化】\\n　水のセピスを散りばめた涼やかな首飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "フレイムジッポー＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+10 「凍結」無効化】\\n　登山者が欠かさず持っていく寒さを防ぐお守り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミスティストール＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【回避率+15％ 「石化」無効化】\\n　七色に煌く不思議な糸で編んだストール。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティンクルピアス＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【MOV+2 SPD+5 「睡眠」無効化】\\n　耳元に涼やかな音色を運ぶ鈴付きピアス。",
+    "Translation": ""
+  },
+  {
+    "Text": "スティールリスト＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+10 ATS+10 「気絶」無効化】\\n　手首をきつく締め付ける鋼鉄製の腕輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "フローラルボトル＋",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+10％ 回避率+10％ 「混乱」無効化】\\n　心安らぐ香りのするアロマボトルのお守り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ハードジャーキー",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+10 ツァイト専用アクセサリ】\\n　クロスベルの子供たちからもらった犬用おやつ。噛み応え抜群。",
+    "Translation": ""
+  },
+  {
+    "Text": "海刃のメダル",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+25 DEF+25 回避率-100％】\\n　釣り勝負に勝って手に入れた、豪快なメダル。",
+    "Translation": ""
+  },
+  {
+    "Text": "水狂のメダル",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+10 MOV-2】\\n　釣り勝負に勝って手に入れた、エレガントなメダル。",
+    "Translation": ""
+  },
+  {
+    "Text": "竜宮のメダル",
+    "Translation": ""
+  },
+  {
+    "Text": "【ATS+25 ADF+25 命中率-10％】\\n　釣り勝負に勝って手に入れた、優美なメダル。",
+    "Translation": ""
+  },
+  {
+    "Text": "銀鯱のメダル",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+25 ADF+25 「能力低下」無効化】\\n　釣り勝負に勝って手に入れた、泰然としたメダル。",
+    "Translation": ""
+  },
+  {
+    "Text": "釣皇のメダル",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+50％ SPD+5 「全状態異常」無効化】\\n　釣り勝負に勝って手に入れた、細やかに煌くメダル。",
+    "Translation": ""
+  },
+  {
+    "Text": "スナイパーバレル",
+    "Translation": ""
+  },
+  {
+    "Text": "【RNG+2 命中率+10％】\\n　導力銃の射程を延ばす、非常に精密なアタッチメント。",
+    "Translation": ""
+  },
+  {
+    "Text": "カゲマル頭巾",
+    "Translation": ""
+  },
+  {
+    "Text": "【MOV+1 SPD+2】\\n　キュートなねこみみ付きの頭巾。押すとブニューと鳴くギミック付き。",
+    "Translation": ""
+  },
+  {
+    "Text": "みっしぃテイル",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+5 回避率+5％】\\n　みっしぃのキュートな付け尻尾。みししっ☆",
+    "Translation": ""
+  },
+  {
+    "Text": "みっしぃキャップ",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+10 回避率+15％】\\n　みっしぃのキュートな顔付き帽子。これで君もみっしぃだっ！",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇハンド",
+    "Translation": ""
+  },
+  {
+    "Text": "【RNG+3 命中率+30％】\\n　みーしぇのチャーミーな猫の手グローブ。みーしぇ気分を味わえる。",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇリボン",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+10 アイテム取得+30％】\\n　みーしぇのチャーミーなイエローリボン。きゃっ、見つかっちゃった☆",
+    "Translation": ""
+  },
+  {
+    "Text": "進撃の刻印",
+    "Translation": ""
+  },
+  {
+    "Text": "【CP増加率アップ 一斉攻撃発生率アップ】\\n　謎のルーンが刻まれたエンブレム。持ち主に強い意志を授ける。",
+    "Translation": ""
+  },
+  {
+    "Text": "超・必勝ハチマキ",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+25 DEF-25 CP増加率アップ】\\n　超覚悟が決まるハチマキ。戦闘中のCP増加率が上がる。",
+    "Translation": ""
+  },
+  {
+    "Text": "超・闘魂ベルト",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+50 DEF-50 戦闘中CPが自動上昇】\\n　超気合の入るベルト。戦闘中、CPが自然に上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "正義の徽章",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR/DEF/ATS/ADF+100 SPD/MOV+5 命中率/回避率+10％】\\n　正義を貫く者に贈られる最上位徽章。着けると強い闘志が湧く。",
+    "Translation": ""
+  },
+  {
+    "Text": "幸運の刻印",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+50％ 「一撃での戦闘不能」無効化 アイテム取得+30％】\\n　美しい装飾が施されたエンブレム。持ち主に強い幸運をもたらす。",
+    "Translation": ""
+  },
+  {
+    "Text": "光暁の冠",
+    "Translation": ""
+  },
+  {
+    "Text": "【「全状態異常・能力低下・遅延効果」無効化】\\n　神秘の力が宿った冠。持ち主をあらゆる困難から守護する。",
+    "Translation": ""
+  },
+  {
+    "Text": "盤古の冠",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR/DEF/ATS/ADF+200 SPD/MOV+10 命中率/回避率+20％】\\n　神秘の力が宿った冠。持ち主にあらゆる力の加護を与える。",
+    "Translation": ""
+  },
+  {
+    "Text": "リッチフレグランス",
+    "Translation": ""
+  },
+  {
+    "Text": "【回避率+10％ ツァイト専用アクセサリ】\\n　ちょっと高価なトリートメントウォーター。毛並みがふさふさになる。",
+    "Translation": ""
+  },
+  {
+    "Text": "シルバーブローチ",
+    "Translation": ""
+  },
+  {
+    "Text": "【「毒」無効化】\\n　女神エイドスの聖なる力で清められた銀のブローチ。",
+    "Translation": ""
+  },
+  {
+    "Text": "コーラルリング",
+    "Translation": ""
+  },
+  {
+    "Text": "【「封技」無効化】\\n　深海の珍しい珊瑚をあしらった指輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "マーブルリング",
+    "Translation": ""
+  },
+  {
+    "Text": "【「封魔」無効化】\\n　大理石模様が美しい艶やかな指輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "ルミナスグラス",
+    "Translation": ""
+  },
+  {
+    "Text": "【「暗闇」無効化】\\n　淡い輝きを放ち続ける半月形のメガネ。",
+    "Translation": ""
+  },
+  {
+    "Text": "クールネックレス",
+    "Translation": ""
+  },
+  {
+    "Text": "【「炎傷」無効化】\\n　水のセピスを散りばめた涼やかな首飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "フレイムジッポー",
+    "Translation": ""
+  },
+  {
+    "Text": "【「凍結」無効化】\\n　登山者が欠かさず持っていく寒さを防ぐお守り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミスティストール",
+    "Translation": ""
+  },
+  {
+    "Text": "【「石化」無効化】\\n　七色に煌く不思議な糸で編んだストール。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティンクルピアス",
+    "Translation": ""
+  },
+  {
+    "Text": "【「睡眠」無効化】\\n　耳元に涼やかな音色を運ぶ鈴付きピアス。",
+    "Translation": ""
+  },
+  {
+    "Text": "スティールリスト",
+    "Translation": ""
+  },
+  {
+    "Text": "【「気絶」無効化】\\n　手首をきつく締め付ける鋼鉄製の腕輪。",
+    "Translation": ""
+  },
+  {
+    "Text": "フローラルボトル",
+    "Translation": ""
+  },
+  {
+    "Text": "【「混乱」無効化】\\n　心安らぐ香りのするアロマボトルのお守り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホーリーチェイン",
+    "Translation": ""
+  },
+  {
+    "Text": "【「一撃での戦闘不能」無効化】\\n　聖なる祈りが込められた金の鎖。",
+    "Translation": ""
+  },
+  {
+    "Text": "メーガドゥータ",
+    "Translation": ""
+  },
+  {
+    "Text": "【「封技・封魔」無効化】\\n　東方から伝わった宝具。封印を破る力を宿している。",
+    "Translation": ""
+  },
+  {
+    "Text": "ルナーペンデュラム",
+    "Translation": ""
+  },
+  {
+    "Text": "【「毒・暗闇・炎傷」無効化】\\n　月の象徴が刻まれた、振り子を象った装飾品。",
+    "Translation": ""
+  },
+  {
+    "Text": "サニーペンデュラム",
+    "Translation": ""
+  },
+  {
+    "Text": "【「凍結・石化」無効化】\\n　太陽の象徴が刻まれた、振り子を象った装飾品。",
+    "Translation": ""
+  },
+  {
+    "Text": "スターペンデュラム",
+    "Translation": ""
+  },
+  {
+    "Text": "【「気絶・睡眠・混乱」無効化】\\n　星の象徴が刻まれた、振り子を象った装飾品。",
+    "Translation": ""
+  },
+  {
+    "Text": "ロングバレル",
+    "Translation": ""
+  },
+  {
+    "Text": "【RNG+1】\\n　導力銃の射程を延ばすアタッチメント。",
+    "Translation": ""
+  },
+  {
+    "Text": "規律の徽章",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+5 「遅延効果」を防止】\\n　捜査官の功績を讃える徽章。着けると気が引き締まる。",
+    "Translation": ""
+  },
+  {
+    "Text": "勇気の徽章",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+10 一斉攻撃発生率アップ】\\n　勇気ある捜査官に贈られる徽章。着けるとチームワークが上がる。",
+    "Translation": ""
+  },
+  {
+    "Text": "閃光の徽章",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+15】\\n　目覚しい功績に対し贈られる上位徽章。着けると迷いがなくなる。",
+    "Translation": ""
+  },
+  {
+    "Text": "必勝ハチマキ",
+    "Translation": ""
+  },
+  {
+    "Text": "【CP増加率アップ】\\n　覚悟が決まるハチマキ。戦闘中のCP増加率が上がる。",
+    "Translation": ""
+  },
+  {
+    "Text": "闘魂ベルト",
+    "Translation": ""
+  },
+  {
+    "Text": "【戦闘中CPが自動上昇】\\n　気合の入るベルト。戦闘中、CPが自然に上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "グラールロケット",
+    "Translation": ""
+  },
+  {
+    "Text": "【「全状態異常」無効化】\\n　七耀教会に伝わる《アーティファクト》を象った装飾品。",
+    "Translation": ""
+  },
+  {
+    "Text": "シルバーチェイン",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+30 「毒」無効化】\\n　女神エイドスの聖なる力で清められた銀の編み鎖。",
+    "Translation": ""
+  },
+  {
+    "Text": "月霊玉",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+10 ATS+10 「封技・封魔」無効化】\\n　月の文様が刻まれた宝玉。封印を破る力を宿している。",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇストラップ",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+50％】\\n　みっしぃの妹『みーしぇ』の人形が付いた、愛らしすぎるストラップ。",
+    "Translation": ""
+  },
+  {
+    "Text": "土壇場マペット",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」時に一回だけHP・EP・CP全回復で復活】\\n　「戦闘不能」時に完全状態で復活できるが、壊れてしまう。",
+    "Translation": ""
+  },
+  {
+    "Text": "サイレンスブルー",
+    "Translation": ""
+  },
+  {
+    "Text": "【ATS+100 SPD+5 「毒・暗闇・炎傷」無効化】\\n　純度の高い蒼耀石を加工した、静かなる蒼の輝きを持つ宝石。",
+    "Translation": ""
+  },
+  {
+    "Text": "パシオンルージュ",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+100 SPD+5 「凍結・石化」無効化】\\n　純度の高い紅耀石を加工した、鮮やかなる紅の輝きを持つ宝石。",
+    "Translation": ""
+  },
+  {
+    "Text": "エヴァーグリーン",
+    "Translation": ""
+  },
+  {
+    "Text": "【命中率+20％ 回避率+20％ SPD+10 「気絶・睡眠・混乱」無効化】\\n　純度の高い翠耀石を加工した、常世なる翠の輝きを持つ宝石。",
+    "Translation": ""
+  },
+  {
+    "Text": "ディープオーカー",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+100 ADF+100 SPD+10 「封技・封魔」無効化】\\n　純度の高い琥耀石を加工した、深き琥珀の輝きを持つ宝石。",
+    "Translation": ""
+  },
+  {
+    "Text": "麦わら帽子",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+5】\\n　わらを編み込んだ手作りの帽子。とっても軽い。",
+    "Translation": ""
+  },
+  {
+    "Text": "安全ヘルメット",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+15】\\n　安全マークの付いたヘルメット。めっぽう頑丈。",
+    "Translation": ""
+  },
+  {
+    "Text": "オペ用手袋",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+3 命中率+10％】\\n　繊細な指先を保護する医療用の手袋。",
+    "Translation": ""
+  },
+  {
+    "Text": "眠り猫のコイン",
+    "Translation": ""
+  },
+  {
+    "Text": "【ADF+15】\\n　丸まったネコが彫られた記念コイン。",
+    "Translation": ""
+  },
+  {
+    "Text": "跳び蛙のコイン",
+    "Translation": ""
+  },
+  {
+    "Text": "【ADF+20 MOV+2】\\n　ジャンプするカエルが彫られた記念コイン。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホーリーロケット",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+20 ADF+20 「一撃での戦闘不能」無効化】\\n　《法術》によって祝福された、持ち主を守護するロケット。",
+    "Translation": ""
+  },
+  {
+    "Text": "カラフル風車",
+    "Translation": ""
+  },
+  {
+    "Text": "【回避率+5％】\\n　風を受けてくるくる回る東方伝来のおもちゃ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＨＰ１",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXHP+10％",
+    "Translation": ""
+  },
+  {
+    "Text": "ＨＰ２",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXHP+15％",
+    "Translation": ""
+  },
+  {
+    "Text": "ＨＰ３",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXHP+20％",
+    "Translation": ""
+  },
+  {
+    "Text": "水耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXHP+25％",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰ１",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXEP+10％",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰ２",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXEP+15％",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰ３",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXEP+20％",
+    "Translation": ""
+  },
+  {
+    "Text": "銀耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　MAXEP+25％",
+    "Translation": ""
+  },
+  {
+    "Text": "攻撃１",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR+6％ DEF-3％",
+    "Translation": ""
+  },
+  {
+    "Text": "攻撃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR+9％ DEF-5％",
+    "Translation": ""
+  },
+  {
+    "Text": "攻撃３",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR+12％ DEF-7％",
+    "Translation": ""
+  },
+  {
+    "Text": "紅耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR+15％ DEF-9％",
+    "Translation": ""
+  },
+  {
+    "Text": "防御１",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF+6％ STR-3％",
+    "Translation": ""
+  },
+  {
+    "Text": "防御２",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF+9％ STR-5％",
+    "Translation": ""
+  },
+  {
+    "Text": "防御３",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF+12％ STR-7％",
+    "Translation": ""
+  },
+  {
+    "Text": "琥耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF+15％ STR-9％",
+    "Translation": ""
+  },
+  {
+    "Text": "精神１",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS+6％ ADF-3％",
+    "Translation": ""
+  },
+  {
+    "Text": "精神２",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS+9％ ADF-5％",
+    "Translation": ""
+  },
+  {
+    "Text": "精神３",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS+12％ ADF-7％",
+    "Translation": ""
+  },
+  {
+    "Text": "白耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS+15％ ADF-9％",
+    "Translation": ""
+  },
+  {
+    "Text": "魔防１",
+    "Translation": ""
+  },
+  {
+    "Text": "　ADF+6％ ATS-3％",
+    "Translation": ""
+  },
+  {
+    "Text": "魔防２",
+    "Translation": ""
+  },
+  {
+    "Text": "　ADF+9％ ATS-5％",
+    "Translation": ""
+  },
+  {
+    "Text": "魔防３",
+    "Translation": ""
+  },
+  {
+    "Text": "　ADF+12％ ATS-7％",
+    "Translation": ""
+  },
+  {
+    "Text": "蒼耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　ADF+15％ ATS-9％",
+    "Translation": ""
+  },
+  {
+    "Text": "命中１",
+    "Translation": ""
+  },
+  {
+    "Text": "　命中率+20％",
+    "Translation": ""
+  },
+  {
+    "Text": "命中２",
+    "Translation": ""
+  },
+  {
+    "Text": "　命中率+30％",
+    "Translation": ""
+  },
+  {
+    "Text": "命中３",
+    "Translation": ""
+  },
+  {
+    "Text": "　命中率+40％",
+    "Translation": ""
+  },
+  {
+    "Text": "光耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　命中率+50％",
+    "Translation": ""
+  },
+  {
+    "Text": "回避１",
+    "Translation": ""
+  },
+  {
+    "Text": "　回避率+10％ DEF-1％",
+    "Translation": ""
+  },
+  {
+    "Text": "回避２",
+    "Translation": ""
+  },
+  {
+    "Text": "　回避率+15％ DEF-3％",
+    "Translation": ""
+  },
+  {
+    "Text": "回避３",
+    "Translation": ""
+  },
+  {
+    "Text": "　回避率+20％ DEF-5％",
+    "Translation": ""
+  },
+  {
+    "Text": "翠耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　回避率+25％ DEF-7％",
+    "Translation": ""
+  },
+  {
+    "Text": "移動１",
+    "Translation": ""
+  },
+  {
+    "Text": "　MOV+1",
+    "Translation": ""
+  },
+  {
+    "Text": "移動２",
+    "Translation": ""
+  },
+  {
+    "Text": "　MOV+2",
+    "Translation": ""
+  },
+  {
+    "Text": "風耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　MOV+3",
+    "Translation": ""
+  },
+  {
+    "Text": "-----",
+    "Translation": ""
+  },
+  {
+    "Text": " ",
+    "Translation": ""
+  },
+  {
+    "Text": "行動力１",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD+10％",
+    "Translation": ""
+  },
+  {
+    "Text": "行動力２",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD+15％",
+    "Translation": ""
+  },
+  {
+    "Text": "行動力３",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD+20％ MOV-1",
+    "Translation": ""
+  },
+  {
+    "Text": "黒耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD+25％ MOV-2",
+    "Translation": ""
+  },
+  {
+    "Text": "妨害１",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率30％で敵が駆動中の技とアーツを解除。",
+    "Translation": ""
+  },
+  {
+    "Text": "妨害２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率60％で敵が駆動中の技とアーツを解除。",
+    "Translation": ""
+  },
+  {
+    "Text": "絶耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率90％で敵が駆動中の技とアーツを解除。",
+    "Translation": ""
+  },
+  {
+    "Text": "駆動１",
+    "Translation": ""
+  },
+  {
+    "Text": "　アーツの駆動時間が３／４になる。",
+    "Translation": ""
+  },
+  {
+    "Text": "駆動２",
+    "Translation": ""
+  },
+  {
+    "Text": "　アーツの駆動時間が２／３になる。",
+    "Translation": ""
+  },
+  {
+    "Text": "刻耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　アーツの駆動時間が１／２になる。",
+    "Translation": ""
+  },
+  {
+    "Text": "省ＥＰ１",
+    "Translation": ""
+  },
+  {
+    "Text": "　消費EP-10％",
+    "Translation": ""
+  },
+  {
+    "Text": "省ＥＰ２",
+    "Translation": ""
+  },
+  {
+    "Text": "　消費EP-15％",
+    "Translation": ""
+  },
+  {
+    "Text": "省ＥＰ３",
+    "Translation": ""
+  },
+  {
+    "Text": "　消費EP-20％",
+    "Translation": ""
+  },
+  {
+    "Text": "金耀珠",
+    "Translation": ""
+  },
+  {
+    "Text": "　消費EP-25％",
+    "Translation": ""
+  },
+  {
+    "Text": "毒の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「毒」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "石化の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「石化」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "封魔の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「封魔」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "凍結の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「凍結」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "封技の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「封技」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "炎傷の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「炎傷」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "暗闇の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「暗闇」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "睡眠の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「睡眠」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "混乱の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率10％で敵を「混乱」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "破剣の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のSTRを25％下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "破盾の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のDEFを25％下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "破言の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のATSを25％下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "破霊の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のADFを25％下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "破迅の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のSPDを25％下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "破脚の牙",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率15％で敵のMOVを3下げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "鎮星鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　地属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "辰星鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　水属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "焔星鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　火属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "歳星鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　風属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "冥王鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　時属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "天王鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　空属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "明王鈴",
+    "Translation": ""
+  },
+  {
+    "Text": "　幻属性アーツを発動後、すぐに行動できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "耀脈",
+    "Translation": ""
+  },
+  {
+    "Text": "　敵の落とすセピスが、属性毎に１～２個増える。",
+    "Translation": ""
+  },
+  {
+    "Text": "機功",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールドで少しづつEPが回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "治癒",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールドで少しずつHPが回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "丹精",
+    "Translation": ""
+  },
+  {
+    "Text": "　「大成功」料理を作る確率が上がる。",
+    "Translation": ""
+  },
+  {
+    "Text": "練気",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールドで敵を攻撃する度にCPが上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "龍眼",
+    "Translation": ""
+  },
+  {
+    "Text": "　倒した敵の詳細情報を全て解析する。",
+    "Translation": ""
+  },
+  {
+    "Text": "悪戯",
+    "Translation": ""
+  },
+  {
+    "Text": "　「予想外」料理を作る確率が上がる。",
+    "Translation": ""
+  },
+  {
+    "Text": "脱兎",
+    "Translation": ""
+  },
+  {
+    "Text": "　退却の成功確率が50％上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "虎威",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールド上で敵が逃げやすくなる。（パーティの先頭時のみ効果）",
+    "Translation": ""
+  },
+  {
+    "Text": "美臭",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールド上で敵に発見されやすくなる。（パーティ全体に効果）",
+    "Translation": ""
+  },
+  {
+    "Text": "幸運",
+    "Translation": ""
+  },
+  {
+    "Text": "　敵のアイテムを落とす確率が100％上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "鷹目",
+    "Translation": ""
+  },
+  {
+    "Text": "　敵の姿がミニマップに表示される。（パーティ全体に効果）",
+    "Translation": ""
+  },
+  {
+    "Text": "天眼",
+    "Translation": ""
+  },
+  {
+    "Text": "　鷹目と情報の機能を併せ持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "範囲",
+    "Translation": ""
+  },
+  {
+    "Text": "　アーツ効果範囲＋１",
+    "Translation": ""
+  },
+  {
+    "Text": "情報",
+    "Translation": ""
+  },
+  {
+    "Text": "　解析していない敵の詳細情報が見られる。",
+    "Translation": ""
+  },
+  {
+    "Text": "探知",
+    "Translation": ""
+  },
+  {
+    "Text": "　宝箱の位置をミニマップに表示する。（パーティ全体に効果）",
+    "Translation": ""
+  },
+  {
+    "Text": "縛魔",
+    "Translation": ""
+  },
+  {
+    "Text": "　フィールドで攻撃した敵の動きが鈍くなる。",
+    "Translation": ""
+  },
+  {
+    "Text": "幻朧",
+    "Translation": ""
+  },
+  {
+    "Text": "　敵に気付かれにくくなる。（パーティ全体に効果）",
+    "Translation": ""
+  },
+  {
+    "Text": "毒の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「毒」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "石化の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「石化」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "封魔の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「封魔」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "凍結の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「凍結」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "封技の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「封技」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "炎傷の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「炎傷」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "暗闇の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「暗闇」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "睡眠の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「睡眠」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "混乱の刃２",
+    "Translation": ""
+  },
+  {
+    "Text": "　確率20％で敵を「混乱」状態にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": "100毒の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100石化の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100封魔の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100凍結の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100封技の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100炎傷の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100暗闇の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100睡眠の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100混乱の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "100即死の刃",
+    "Translation": ""
+  },
+  {
+    "Text": "　",
+    "Translation": ""
+  },
+  {
+    "Text": "フォース",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR強化型のマスタークオーツ。強力なSTRアップ効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "シールド",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF/ADF強化型のマスタークオーツ。強力なDEF/ADFアップ効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "ピクシィ",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS強化型のマスタークオーツ。強力なATSアップ効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "クロウ",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD強化型のマスタークオーツ。強力なSPDアップ効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "プラチナ",
+    "Translation": ""
+  },
+  {
+    "Text": "　HP/ADF強化型のマスタークオーツ。敵に止めを刺すとHPが回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミラージュ",
+    "Translation": ""
+  },
+  {
+    "Text": "　EP/ATS強化型のマスタークオーツ。敵に止めを刺すとEPが回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "アックス",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR/HP強化型のマスタークオーツ。クリティカルの発生確率を上げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "カノン",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS強化型のマスタークオーツ。HP回復魔法の効果を上げる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ウィング",
+    "Translation": ""
+  },
+  {
+    "Text": "　ADF/SPD強化型のマスタークオーツ。「全状態異常／能力低下」を防止。",
+    "Translation": ""
+  },
+  {
+    "Text": "イージス",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF/ADF強化型のマスタークオーツ。特定条件で「完全防御」を発動。",
+    "Translation": ""
+  },
+  {
+    "Text": "セプター",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR/ATS強化型のマスタークオーツ。攻撃毎にセピスを入手する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ファントム",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD強化型のマスタークオーツ。STR/ATS/SPDアップの効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "キーパー",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF/ADF強化型のマスタークオーツ。戦闘中「起死回生」効果を得る。",
+    "Translation": ""
+  },
+  {
+    "Text": "メビウス",
+    "Translation": ""
+  },
+  {
+    "Text": "　SPD強化型のマスタークオーツ。使用したアイテムの効果を上昇させる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ジャグラー",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR/ATS強化型のマスタークオーツ。攻撃に「ランダム状態異常」付加。",
+    "Translation": ""
+  },
+  {
+    "Text": "クリミナル",
+    "Translation": ""
+  },
+  {
+    "Text": "　EP強化型のマスタークオーツ。攻撃魔法に「クリティカル」を付加。",
+    "Translation": ""
+  },
+  {
+    "Text": "クサナギ",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR/ATS強化型のマスタークオーツ。攻撃毎にHP/EPを回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "エンブレム",
+    "Translation": ""
+  },
+  {
+    "Text": "　DEF/ADF/SPD強化型のマスタークオーツ。フィールドでHP/EP/CPを回復。",
+    "Translation": ""
+  },
+  {
+    "Text": "カッツェ",
+    "Translation": ""
+  },
+  {
+    "Text": "　ATS/ADF/SPD強化型のマスタークオーツ。属性魔法攻撃を吸収する。",
+    "Translation": ""
+  },
+  {
+    "Text": "シュバリエ",
+    "Translation": ""
+  },
+  {
+    "Text": "　万能型のマスタークオーツ。HPが少ないほど物理攻撃を強化する。",
+    "Translation": ""
+  },
+  {
+    "Text": "マギウス",
+    "Translation": ""
+  },
+  {
+    "Text": "　万能型のマスタークオーツ。HPが少ないほど魔法攻撃を強化する。",
+    "Translation": ""
+  },
+  {
+    "Text": "クサナギ",
+    "Translation": ""
+  },
+  {
+    "Text": "　STR/ATS強化型のマスタークオーツ。攻撃毎にHP/EPを回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の獣肉",
+    "Translation": ""
+  },
+  {
+    "Text": "野性が詰まった骨付きのお肉。\\n噛めば噛むほど力が湧いてくる。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の魚肉",
+    "Translation": ""
+  },
+  {
+    "Text": "ピクピクうごめく魚の切り身。\\n切り身になってもまだまだ元気。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の殻",
+    "Translation": ""
+  },
+  {
+    "Text": "滋養の詰まった魔獣の甲殻。\\n煮ると芳醇な出汁が湧き出てくる。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の卵",
+    "Translation": ""
+  },
+  {
+    "Text": "生命力の詰まったまんまる卵。\\n黄身も白身も栄養抜群。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の羽",
+    "Translation": ""
+  },
+  {
+    "Text": "キラキラ透き通った膜状の薄羽。\\n粉末にすると色々な味付けに利用できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣の種",
+    "Translation": ""
+  },
+  {
+    "Text": "堅い皮に包まれた魔獣の種子。\\n皮を剥くとツヤツヤした仁果が入っている。",
+    "Translation": ""
+  },
+  {
+    "Text": "魔獣のゼラチン",
+    "Translation": ""
+  },
+  {
+    "Text": "プルプル震える不気味な粘液。\\n見た目はアレだが口どけは滑らか。",
+    "Translation": ""
+  },
+  {
+    "Text": "発芽玄米",
+    "Translation": ""
+  },
+  {
+    "Text": "ミネラルたっぷりの発芽玄米。\\n美味しいだけでなく体にも良い。",
+    "Translation": ""
+  },
+  {
+    "Text": "五穀味噌",
+    "Translation": ""
+  },
+  {
+    "Text": "５種類の穀物を使った発酵調味料。\\n使うとどんな料理も美味しくしてくれる。",
+    "Translation": ""
+  },
+  {
+    "Text": "百薬精酒",
+    "Translation": ""
+  },
+  {
+    "Text": "優しい飲み口の醸造酒。\\n心も体も癒してくれるが飲みすぎには注意。",
+    "Translation": ""
+  },
+  {
+    "Text": "朝摘みリーフ",
+    "Translation": ""
+  },
+  {
+    "Text": "朝露がきらめくシャキシャキした葉野菜。\\n煎じればお茶としても利用できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "グリーンハーブ",
+    "Translation": ""
+  },
+  {
+    "Text": "清々しい匂いを放つ緑の香草。\\nちょっとクセがあるが慣れるとやみつきに。",
+    "Translation": ""
+  },
+  {
+    "Text": "粒コショウ",
+    "Translation": ""
+  },
+  {
+    "Text": "粒のままの黒コショウ。\\nピリリとした風味がギュッと詰まっている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホットペッパー",
+    "Translation": ""
+  },
+  {
+    "Text": "辛さ爆発の真っ赤な香辛料。\\n食べると体をポカポカ温めてくれる。",
+    "Translation": ""
+  },
+  {
+    "Text": "セサミオイル",
+    "Translation": ""
+  },
+  {
+    "Text": "胡麻から作られた食用油。\\nサッパリした風味で体にもヘルシー。",
+    "Translation": ""
+  },
+  {
+    "Text": "ハニーシロップ",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカで作られた良質な蜂蜜。\\n爽やかな味わいが各地で大人気。",
+    "Translation": ""
+  },
+  {
+    "Text": "粗挽き岩塩",
+    "Translation": ""
+  },
+  {
+    "Text": "岩塩を砕いて作られた粗塩。\\n舌に乗せるとピリリと塩辛さが弾ける。",
+    "Translation": ""
+  },
+  {
+    "Text": "挽きたて小麦粉",
+    "Translation": ""
+  },
+  {
+    "Text": "挽いたばかりの香ばしい小麦粉。\\nパン・麺・お菓子の材料に大活躍。",
+    "Translation": ""
+  },
+  {
+    "Text": "新鮮ミルク",
+    "Translation": ""
+  },
+  {
+    "Text": "搾ったばかりの新鮮ミルク。\\n健康と成長のために一日一杯。",
+    "Translation": ""
+  },
+  {
+    "Text": "できたてチーズ",
+    "Translation": ""
+  },
+  {
+    "Text": "丁寧に作られたフレッシュチーズ。\\nとろける軟らかさに思わず舌鼓。",
+    "Translation": ""
+  },
+  {
+    "Text": "とれたて卵",
+    "Translation": ""
+  },
+  {
+    "Text": "朝に産まれたばかりの生卵。\\n好事家はゴハンにそのままかけて食べるとか。",
+    "Translation": ""
+  },
+  {
+    "Text": "ベルベリー",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル原産のすっぱい野苺。\\n独特の形から鈴イチゴとも呼ばれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "暗闇茸",
+    "Translation": ""
+  },
+  {
+    "Text": "キコキコした食感が楽しい真っ黒なキノコ。\\n搾ったエキスには独特の味わいがある。",
+    "Translation": ""
+  },
+  {
+    "Text": "七彩豆",
+    "Translation": ""
+  },
+  {
+    "Text": "七色にきらめく不思議なお豆。\\n調理の仕方を変えるだけで色々な味わいが楽しめる。",
+    "Translation": ""
+  },
+  {
+    "Text": "王様ポテト",
+    "Translation": ""
+  },
+  {
+    "Text": "風味抜群のホクホクお芋。\\nあまりの美味しさに独り占めしたくなる一品。",
+    "Translation": ""
+  },
+  {
+    "Text": "万能ネギ",
+    "Translation": ""
+  },
+  {
+    "Text": "素直な風味でどんな料理にも合う野菜。\\n煮物焼き物なんでもござれ。",
+    "Translation": ""
+  },
+  {
+    "Text": "プチキャロット",
+    "Translation": ""
+  },
+  {
+    "Text": "果物みたいに甘い小型のニンジン。\\n料理だけでなくデザートの材料としても大人気。",
+    "Translation": ""
+  },
+  {
+    "Text": "にがトマト",
+    "Translation": ""
+  },
+  {
+    "Text": "リベール王国原産の新種のトマト。\\nひどく苦いが、なぜかクセになる味わい。",
+    "Translation": ""
+  },
+  {
+    "Text": "霜降りヒレ肉",
+    "Translation": ""
+  },
+  {
+    "Text": "脂が適度に乗った高級お肉。\\n軽く炙るだけでジューシーな肉汁があふれてくる。",
+    "Translation": ""
+  },
+  {
+    "Text": "プリプリ白身",
+    "Translation": ""
+  },
+  {
+    "Text": "ぷりぷり弾ける新鮮な切り身。\\n口に入れるだけで自然と笑顔になってしまう。",
+    "Translation": ""
+  },
+  {
+    "Text": "ファイタ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　美しいヒレが特徴の小魚。シックな色合いで高級感ある外見を持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "スノーシュラブ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：○】\\n　雪のように白い小ガニ。生餌にも使うことができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "エーゼル",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　青と白の縞模様が美しい小魚。観賞魚として人気がある。",
+    "Translation": ""
+  },
+  {
+    "Text": "カサギン",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：○】\\n　白金の鱗を持つ小魚。生餌としても重宝されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "アルモリカブナ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　アルモリカ地方でよく釣れる小魚。緑がかった体が特徴。",
+    "Translation": ""
+  },
+  {
+    "Text": "トタス",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　金色の甲羅を持つ小型のカメ。地上では鈍いが水中での動きは素早い。",
+    "Translation": ""
+  },
+  {
+    "Text": "オロショ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　緋色の斑紋が美しい中型魚。しばしば体内から紅耀石が見つかる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ロック",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　警戒心の強い中型魚。普段は岩陰にその身を潜めている。",
+    "Translation": ""
+  },
+  {
+    "Text": "レインボウ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　セピスが好物の中型魚。そのため表皮に虹色の斑紋が浮き出ている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ピラーニャ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　外見の美しい肉食魚。水面の鳥すら餌食とする凶暴性を持っている。",
+    "Translation": ""
+  },
+  {
+    "Text": "カルプ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：○】\\n　長寿で有名な淡水魚。大物釣りの生餌としても役に立つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "グラトンバス",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　貪欲な性質の肉食魚。口に入るものならなんでも食べてしまう。",
+    "Translation": ""
+  },
+  {
+    "Text": "トラード",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　引き締まった魚体を持つ中型魚。オスとメスで異なった食性を持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "グラディエタ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　美しいヒレが特徴の中型魚。外見は優雅だが気性はかなり荒い。",
+    "Translation": ""
+  },
+  {
+    "Text": "レイニー",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　冷水域を好む中型魚。産卵後、降海する性質を持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "サンショ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　止水域に生息する両生類。不気味な外見だが食べると美味しいらしい。",
+    "Translation": ""
+  },
+  {
+    "Text": "サモーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　産卵期に川をさかのぼって来る回遊魚。体内からイクラが採取できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "アローナ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　朱金色の体が特徴の中型魚。水面を跳ねる姿に惹かれる者が多い。",
+    "Translation": ""
+  },
+  {
+    "Text": "イール",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　蛇のような姿をした珍魚。精気回復の薬効を持つといわれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "アダマンタス",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　頑強な甲羅を持つ大型のカメ。人が上に乗ってもビクともしない。",
+    "Translation": ""
+  },
+  {
+    "Text": "クインシザー",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　鋭いハサミを持つ大型のカニ。全身が淡いピンク色に染まっている。",
+    "Translation": ""
+  },
+  {
+    "Text": "パルルク",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　雄大な姿をした大型魚。釣り人なら誰もが釣りたいと憧れる一匹。",
+    "Translation": ""
+  },
+  {
+    "Text": "タイタン",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　泥底を住処とする大型魚。長いヒゲを使って周辺の状況を察知する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴルドサモーナ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　黄金の魚体を誇る希少魚。幸運と富貴の象徴と言われている。",
+    "Translation": ""
+  },
+  {
+    "Text": "オオザンショ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　弾力のある体を持つ大型両生類。常に表皮が青白く輝いている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ノーブルカルプ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　紅白模様が美しい希少魚。優雅さと高貴さを併せ持っている。",
+    "Translation": ""
+  },
+  {
+    "Text": "エメロド",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　宝玉のような翡翠色が美しい巨大魚。クロスベルに棲むヌシの一体。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティガロック",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　精悍な琥珀色の縞模様を持つ巨大魚。クロスベルに棲むヌシの一体。",
+    "Translation": ""
+  },
+  {
+    "Text": "クリムゾンイータ",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　炎のような紅蓮の体が特徴の巨大魚。クロスベルに棲むヌシの一体。",
+    "Translation": ""
+  },
+  {
+    "Text": "ブルドラゴン",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　蒼穹のような紺碧の体を持つ巨大魚。クロスベルに棲むヌシの一体。",
+    "Translation": ""
+  },
+  {
+    "Text": "ギガルーク",
+    "Translation": ""
+  },
+  {
+    "Text": "【釣りエサ使用：?】\\n　規格外の巨体を誇る超巨大魚。クロスベルの水界を統べる魚の王。",
+    "Translation": ""
+  },
+  {
+    "Text": "イクラ",
+    "Translation": ""
+  },
+  {
+    "Text": "真っ赤にきらめくサモーナの卵。\\nトラードやロックの仲間がよく釣れる。",
+    "Translation": ""
+  },
+  {
+    "Text": "練り団子",
+    "Translation": ""
+  },
+  {
+    "Text": "色々な粉末を練り固めた団子。\\nカルプのような植物性のエサを好む魚がよく釣れる。",
+    "Translation": ""
+  },
+  {
+    "Text": "アカムシ",
+    "Translation": ""
+  },
+  {
+    "Text": "成長すると羽虫になる赤い幼虫。\\nカサギンやエーゼルなど、小魚を釣るときの定番エサ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミミズ",
+    "Translation": ""
+  },
+  {
+    "Text": "土の中に棲むニョロニョロした生物。\\n見た目を嫌う人は多いが、多くの魚に大人気。",
+    "Translation": ""
+  },
+  {
+    "Text": "練り団子ＤＸ",
+    "Translation": ""
+  },
+  {
+    "Text": "《釣公師団》が開発した特製釣りエサ。\\n特殊な配合によって、幅広い魚種を釣ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "虹玉ＥＸ",
+    "Translation": ""
+  },
+  {
+    "Text": "《釣公師団》が開発した究極の釣りエサ。\\n原料のせいで高価だが、様々な大物を狙うことができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "釣りエサセット",
+    "Translation": ""
+  },
+  {
+    "Text": "釣りエサが揃ったお得なセット。\\nミミズ・練り団子・練り団子ＤＸ・イクラ・アカムシ各１個。",
+    "Translation": ""
+  },
+  {
+    "Text": "天上麺≪日輪≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 CP+50】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　真紅のスープが煌々と輝く絶品坦々麺。",
+    "Translation": ""
+  },
+  {
+    "Text": "ピリ苦坦々麺",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 CP+25】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　ほのかな苦味がクセになる、港湾区の名物坦々麺。",
+    "Translation": ""
+  },
+  {
+    "Text": "極苦麺≪断頭≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【“CP+100”または“瀕死”】\u0009\u0009\u0009\u0009\u0009\\n　極めて危険な坦々麺。当たり外れは食べてみないと判らない。",
+    "Translation": ""
+  },
+  {
+    "Text": "神仙麻婆≪麒麟≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP75％回復 EP75％回復 CP+75】\u0009\u0009\u0009\u0009\\n　東方の神秘。医食同源の精髄ともいえる究極の麻婆豆腐。",
+    "Translation": ""
+  },
+  {
+    "Text": "薬膳麻婆豆腐",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 EP40％回復 CP+40】\u0009\u0009\u0009\u0009\\n　薬効を考えて作られた、厳選素材による麻婆豆腐。",
+    "Translation": ""
+  },
+  {
+    "Text": "煉獄麻婆≪閻魔≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【“CP+200”または“CP0＆瀕死”】\u0009\u0009\u0009\u0009\\n　グツグツ煮えたぎる危険な麻婆豆腐。食べた結果は運しだい。",
+    "Translation": ""
+  },
+  {
+    "Text": "天下一炒飯",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　単純食材で極上の旨み。一級の料理人による絶品炒飯。",
+    "Translation": ""
+  },
+  {
+    "Text": "龍老炒飯",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　早くて安くて美味い。最も親しまれている東方料理。",
+    "Translation": ""
+  },
+  {
+    "Text": "まだら焦げ飯",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 「能力低下」解除】\u0009\u0009\u0009\u0009\\n　火の入れすぎで見た目が悪くなった炒飯。味は悪くない。",
+    "Translation": ""
+  },
+  {
+    "Text": "極上ステーキ≪剛≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 STR+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　肉の持つ旨みを極限まで引き出した最上級のステーキ。",
+    "Translation": ""
+  },
+  {
+    "Text": "スタミナステーキ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 STR+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　パワー不足も吹っ飛ぶ食べごたえたっぷりのステーキ。",
+    "Translation": ""
+  },
+  {
+    "Text": "頑固肉≪巌≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 「物理完全防御」効果】\u0009\u0009\u0009\\n　ガチガチに固まった、歯ごたえがありすぎるお肉。",
+    "Translation": ""
+  },
+  {
+    "Text": "三日煮込みシチュー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 「全状態異常」解除】\u0009\u0009\u0009\u0009\\n　三昼夜かけてトロトロに煮込まれた極上のシチュー。",
+    "Translation": ""
+  },
+  {
+    "Text": "煮込みシチュー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 「全状態異常」解除】\u0009\u0009\u0009\u0009\\n　食材をじっくり煮込んだ栄養満点のシチュー。",
+    "Translation": ""
+  },
+  {
+    "Text": "混沌煮込み≪濁≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 EP15％回復 CP+15】\u0009\u0009\u0009\u0009\\n　煮込みすぎて具が全部溶けてしまったシチュー。",
+    "Translation": ""
+  },
+  {
+    "Text": "大地鍋≪爛漫≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP60％回復 「石化」解除】\u0009\u0009\u0009\u0009\u0009\\n　あらゆる山の幸が詰め込まれた、美味さ爆発の高級鍋料理。",
+    "Translation": ""
+  },
+  {
+    "Text": "満腹寄せ鍋",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　山の幸をぞんぶんに味わえるボリュームたっぷりの鍋料理。",
+    "Translation": ""
+  },
+  {
+    "Text": "男料理≪山≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 「石化・凍結」解除】\u0009\u0009\u0009\u0009\\n　山の幸で作られた男の手料理。味を気にしてはいけない。",
+    "Translation": ""
+  },
+  {
+    "Text": "天河鍋≪瑞雲≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP60％回復 「炎傷」解除】\u0009\u0009\u0009\u0009\u0009\\n　湖や川の恵みがギュッと凝縮された、感涙ものの極上鍋料理。",
+    "Translation": ""
+  },
+  {
+    "Text": "芳醇潮鍋",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP25％回復 「炎傷」解除】\u0009\u0009\u0009\u0009\u0009\\n　湖や川の幸をぞんぶんに味わえる、風味豊かな鍋料理。",
+    "Translation": ""
+  },
+  {
+    "Text": "男料理≪川≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 「毒・暗闇・炎傷」解除】\u0009\u0009\u0009\\n　川の幸で作られた男の手料理。見た目を気にしてはいけない。",
+    "Translation": ""
+  },
+  {
+    "Text": "特急フライ≪疾≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 SPD+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　あまりの軽快感に動きが素早くなってしまう絶品フライ。",
+    "Translation": ""
+  },
+  {
+    "Text": "フライドフィッシュ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 SPD+25％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　サクサクした軽い食感を持つフィッシュフライ。",
+    "Translation": ""
+  },
+  {
+    "Text": "フィッシュアロー",
+    "Translation": ""
+  },
+  {
+    "Text": "【攻撃：威力300 直線（貫通） 25％で戦闘不能】\u0009\\n　何かの間違いで投げ矢のようになってしまった魚の揚げ物。",
+    "Translation": ""
+  },
+  {
+    "Text": "メガ盛オムライス",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP60％回復 CP+30】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　サービスで味も量も５割り増しになった極上オムライス。",
+    "Translation": ""
+  },
+  {
+    "Text": "匠風オムライス",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 CP+20】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　職人の技が活きているアルモリカ名物のオムライス。",
+    "Translation": ""
+  },
+  {
+    "Text": "激辛ボムライス",
+    "Translation": ""
+  },
+  {
+    "Text": "【攻撃：威力350 大円 80％で炎傷】\u0009\u0009\u0009\u0009\\n　謎の化学変化で爆発するようになった危険なオムライス。",
+    "Translation": ""
+  },
+  {
+    "Text": "翠玉麺≪癒し≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP50％回復 「封技・封魔」解除】\u0009\u0009\u0009\u0009\\n　爽やかな味わいに身も心も洗われる最上級のパスタ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ハーブパスタ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP25％回復 「封技」解除】\u0009\u0009\u0009\u0009\u0009\\n　ハーブの風味が効いている見た目にも涼やかなパスタ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ニードルパスタ",
+    "Translation": ""
+  },
+  {
+    "Text": "【攻撃：威力450 中円 100％で気絶】\u0009\u0009\u0009\\n　不思議現象で尖った危険物に生まれ変わった珍品パスタ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ダブルバーガー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 CP+30】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　味も効果も通常の二倍の大満足ハンバーガー。",
+    "Translation": ""
+  },
+  {
+    "Text": "ライトバーガー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 CP+15】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　ハンバーグをパンではさんだファストフードの定番メニュー。",
+    "Translation": ""
+  },
+  {
+    "Text": "ビターバーガー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 CP+40】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　苦味が効いている大人専用のハンバーガー。",
+    "Translation": ""
+  },
+  {
+    "Text": "クワトロチーズピザ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP75％回復 CP+60】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　たっぷりの具と四種のチーズを味わえる最上級の贅沢ピザ。",
+    "Translation": ""
+  },
+  {
+    "Text": "あつあつチーズピザ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP50％回復 CP+30】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　あつあつのチーズがとろける具沢山のピザ。",
+    "Translation": ""
+  },
+  {
+    "Text": "クワトロトマトピザ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 CP+95】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　トマトの、トマトによる、トマトのためのトマトピザ。",
+    "Translation": ""
+  },
+  {
+    "Text": "パワフルサンド",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 STR+25％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　生ハムを贅沢に挟んだ、食べ応え抜群のサンドイッチ。",
+    "Translation": ""
+  },
+  {
+    "Text": "フレッシュサンド",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　小腹がすいた時に食べたい、手軽に作れるサンドイッチ。",
+    "Translation": ""
+  },
+  {
+    "Text": "プロテクサンド",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 DEF+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　耐久力が向上する、歯ごたえ十分なサンドイッチ。",
+    "Translation": ""
+  },
+  {
+    "Text": "真心弁当≪誠≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP80％回復 「全状態異常」解除】\u0009\u0009\u0009\u0009\\n　作り手の真心がギュギュッと込められた究極のお弁当。",
+    "Translation": ""
+  },
+  {
+    "Text": "行楽ランチボックス",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 「全状態異常」解除】\u0009\u0009\u0009\u0009\\n　多彩な食材を丁寧に料理した、彩り豊かなランチボックス。",
+    "Translation": ""
+  },
+  {
+    "Text": "不思議弁当≪仰天≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【攻撃：威力500 大円 100％でランダム状態異常】\\n　大宇宙の神秘でビックリ箱に生まれ変わったお弁当。",
+    "Translation": ""
+  },
+  {
+    "Text": "ブリリアントスープ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 ATS+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　飲むと心が研ぎ澄まされる滋養に満ちた贅沢スープ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミルクポタージュ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 ATS+25％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　飲むとホッとする栄養一杯のポタージュスープ。",
+    "Translation": ""
+  },
+  {
+    "Text": "マジカスープ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 ATS+25％ ADF+25％】\u0009\u0009\u0009\u0009\\n　飲むと頭がスッとする、一風変わった冷製スープ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ワンダーキャンディ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 EP40％回復 ATS+25％】\u0009\u0009\u0009\\n　キラキラした光を放つ、夢の詰まった不思議キャンディ。",
+    "Translation": ""
+  },
+  {
+    "Text": "七色わたあめ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 EP20％回復】\u0009\u0009\u0009\u0009\u0009\u0009\\n　ミシュラムで人気の、色々な味が楽しめるわたあめ。",
+    "Translation": ""
+  },
+  {
+    "Text": "エニグマキャンディ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 EP10％回復 ATS+50％】\u0009\u0009\u0009\\n　あまりの酸っぱさに脳が覚醒する、通に人気の限定わたあめ。",
+    "Translation": ""
+  },
+  {
+    "Text": "天菓≪夜月≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP60％回復 ATS+50％ ADF+50％】\u0009\u0009\u0009\u0009\\n　素敵な思い出を呼び覚ます、大人の味の贅沢ショコラ。",
+    "Translation": ""
+  },
+  {
+    "Text": "スイートショコラ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 ATS+25％ ADF+25％】\u0009\u0009\u0009\u0009\\n　恋人と一緒に食べたい、口溶け滑らかな甘口ショコラ。",
+    "Translation": ""
+  },
+  {
+    "Text": "リフレクショコラ",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP50％回復 「魔法反射」効果】\u0009\u0009\u0009\u0009\\n　表面がピカピカに磨かれた、鏡面仕上げの限定ショコラ。",
+    "Translation": ""
+  },
+  {
+    "Text": "宝菓≪白雪≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 回避率+30％】\u0009\u0009\u0009\u0009\u0009\\n　新雪の美しさと淡雪のような口溶けを持つ高級プリン。",
+    "Translation": ""
+  },
+  {
+    "Text": "つるつる杏仁豆腐",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15％回復 回避率+15％】\u0009\u0009\u0009\u0009\u0009\\n　のどごし抜群で、いくらでも食べたくなる杏仁豆腐。",
+    "Translation": ""
+  },
+  {
+    "Text": "プルプルプリン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5％回復 回避率+50％】\u0009\u0009\u0009\u0009\u0009\u0009\\n　弾力がありすぎてちょっと食べづらい限定プリン。",
+    "Translation": ""
+  },
+  {
+    "Text": "氷菓≪七彩≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 EP20％回復】\u0009\u0009\u0009\u0009\u0009\u0009\\n　多彩な味と芸術的な見た目が堪能できる絶品ジェラート。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミックスジェラート",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 EP10％回復】\u0009\u0009\u0009\u0009\u0009\u0009\\n　味が一つじゃ満足できない人向けの欲張りジェラート。",
+    "Translation": ""
+  },
+  {
+    "Text": "リカバリアイス",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 EP10％回復 「戦闘不能」解除】\u0009\\n　あまりの冷気に目が醒める、超低温ジェラート。",
+    "Translation": ""
+  },
+  {
+    "Text": "絶菓≪瞬動≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 SPD+25％ MOV+5】\u0009\u0009\u0009\u0009\u0009\\n　食べると元気がわきだし運動したくなる極上スナック。",
+    "Translation": ""
+  },
+  {
+    "Text": "軽快ポップコーン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 MOV+3】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　食べると心が浮き立つ、軽い食感のポップコーン。",
+    "Translation": ""
+  },
+  {
+    "Text": "隠密ポップコーン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 「ステルス」効果】\u0009\u0009\u0009\u0009\\n　食感の軽さが、食べた人の存在感まで軽くする不思議スナック。",
+    "Translation": ""
+  },
+  {
+    "Text": "玉露≪緑風≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP40％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　上品な渋味の中にほのかな甘さが際立つ、最高級の厳選抹茶。",
+    "Translation": ""
+  },
+  {
+    "Text": "こだわり抹茶ラテ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　素材一つ一つにこだわった、味わい豊かな抹茶ラテ。",
+    "Translation": ""
+  },
+  {
+    "Text": "良薬≪熊笹≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【CP+10 「能力低下」解除】\u0009\u0009\u0009\u0009\u0009\\n　味は渋いが体には良い、薬効成分重視の健康緑茶。",
+    "Translation": ""
+  },
+  {
+    "Text": "甘露≪紫紺≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP60％回復 命中率+50％】\u0009\u0009\u0009\u0009\u0009\\n　厳選素材から作られた、至高の味わいを持つフルーツジュース。",
+    "Translation": ""
+  },
+  {
+    "Text": "ベルベリージュース",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP30％回復 命中率+50％】\u0009\u0009\u0009\u0009\u0009\\n　ほどよい酸味が美味しい、果汁100％のフルーツジュース。",
+    "Translation": ""
+  },
+  {
+    "Text": "パープルリキッド",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP30％回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　間違っても口には入れたくない、ドロリとした紫色の粘液。",
+    "Translation": ""
+  },
+  {
+    "Text": "黒茶≪夢魔殺し≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP20％回復 「睡眠・混乱・気絶」解除】\u0009\u0009\\n　飲めばたちまち正気に戻る、極上の香りのカプチーノ。",
+    "Translation": ""
+  },
+  {
+    "Text": "濃厚カプチーノ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10％回復 「睡眠」解除】\u0009\u0009\u0009\u0009\u0009\\n　眠気覚ましに最適な、濃い目に入れたカプチーノ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ブラウンリキッド",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP20％回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　間違っても素手では触れたくない、ベタリとした茶色の粘液。",
+    "Translation": ""
+  },
+  {
+    "Text": "秘水≪桃源郷≫",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP100％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　飲めば誰もが楽園気分に浸れる、至高の味わいの絶品カクテル。",
+    "Translation": ""
+  },
+  {
+    "Text": "ピンキーローズ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP50％回復 「戦闘不能」解除】\u0009\u0009\u0009\u0009\\n　裏通りで人気の、ジャズバー≪ガランテ≫の定番カクテル。",
+    "Translation": ""
+  },
+  {
+    "Text": "ももいろリキッド",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP全回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　不思議と飲んでみたくなる、ジュルリとした桃色の粘液。",
+    "Translation": ""
+  },
+  {
+    "Text": "失敗作《戒め》",
+    "Translation": ""
+  },
+  {
+    "Text": "【CP+1】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　今日がなければ明日はなし。責任を持って食すべし。",
+    "Translation": ""
+  },
+  {
+    "Text": "ねこまんま",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP1回復】\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\\n　ねこちゃんの大好物。ただし“野良”限定。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティアの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP2000回復】\\n　七耀教会で調合された回復薬。HPを2000回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティアラの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5000回復】\\n　七耀教会で調合された回復薬。HPを5000回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティアラルの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP10000回復】\\n　七耀教会で調合された回復薬。HPを10000回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ティア・オルの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP完全回復】\\n　七耀教会で調合された回復薬。HPを完全回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰチャージⅠ",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP100回復】\\n　導力を充填したカプセル。EPを100回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰチャージⅡ",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP300回復】\\n　導力を充填した改良型カプセル。EPを300回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰチャージⅢ",
+    "Translation": ""
+  },
+  {
+    "Text": "【EP500回復】\\n　導力を充填した改良型カプセル。EPを500回復する。",
+    "Translation": ""
+  },
+  {
+    "Text": "セラスの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」解除 HP1000回復】\\n　戦闘不能状態を解除し、さらにHPを1000回復する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "アセラスの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」解除 HP5000回復】\\n　戦闘不能状態を解除し、さらにHPを5000回復する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "アセラスの薬・改",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」解除 HP10000回復】\\n　戦闘不能状態を解除し、さらにHPを10000回復する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼラムパウダー",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」解除 HP完全回復 CP+100】\\n　戦闘不能状態を解除し、CPを100、HPを完全回復する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼラムカプセル",
+    "Translation": ""
+  },
+  {
+    "Text": "【「戦闘不能」解除 HP完全回復 CP+200】\\n　戦闘不能状態を解除し、さらにHPとCPを完全回復する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "解毒薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「毒」解除】\\n　ウルスラ病院で調合された毒を中和する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "軟化リキッド",
+    "Translation": ""
+  },
+  {
+    "Text": "【「石化」解除】\\n　塗布することで石化部位を治癒できる液体軟膏。",
+    "Translation": ""
+  },
+  {
+    "Text": "絶縁テープ",
+    "Translation": ""
+  },
+  {
+    "Text": "【「封魔」解除】\\n　オーブメントの導力障害を解除する応急処置用テープ。",
+    "Translation": ""
+  },
+  {
+    "Text": "解凍カイロ",
+    "Translation": ""
+  },
+  {
+    "Text": "【「凍結」解除】\\n　凍え固まった肉体を身体の芯から温めてくれるカイロ。",
+    "Translation": ""
+  },
+  {
+    "Text": "弛緩ジェル",
+    "Translation": ""
+  },
+  {
+    "Text": "【「封技」解除】\\n　手足の痺れを取るゼリー状の液体。",
+    "Translation": ""
+  },
+  {
+    "Text": "冷却スプレー",
+    "Translation": ""
+  },
+  {
+    "Text": "【「炎傷」解除】\\n　冷たい粉末を吹き付けて炎傷を急速に冷やすスプレー。",
+    "Translation": ""
+  },
+  {
+    "Text": "目薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「暗闇」解除】\\n　突発的な視覚障害を回復する薬液。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミントドロップ",
+    "Translation": ""
+  },
+  {
+    "Text": "【「睡眠」解除】\\n　なめるとスカッと眠気が吹き飛ぶミント味の飴玉。",
+    "Translation": ""
+  },
+  {
+    "Text": "気付け薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「気絶」解除】\\n　失った意識を取り戻す七耀教会の秘薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "鎮静薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「混乱」解除】\\n　混乱した精神を平常な状態に戻す七耀教会の秘薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｓ－タブレット",
+    "Translation": ""
+  },
+  {
+    "Text": "【「能力低下」解除】\\n　低下した能力値を正常な値に回復する錠剤。",
+    "Translation": ""
+  },
+  {
+    "Text": "キュリアの薬",
+    "Translation": ""
+  },
+  {
+    "Text": "【「全状態異常」解除】\\n　戦闘不能以外のすべての状態異常を解除する薬。",
+    "Translation": ""
+  },
+  {
+    "Text": "バーストオーブ",
+    "Translation": ""
+  },
+  {
+    "Text": "【バーストゲージ上昇】\\n不思議な力に満ちた宝玉。バーストゲージが少し上昇する。",
+    "Translation": ""
+  },
+  {
+    "Text": "煙り玉",
+    "Translation": ""
+  },
+  {
+    "Text": "【退却】\\n　戦闘から退却することができる（一部の戦闘を除く）。",
+    "Translation": ""
+  },
+  {
+    "Text": "バトルスコープ",
+    "Translation": ""
+  },
+  {
+    "Text": "【情報解析】\\n　未解析の敵の情報を調べることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "メイプルマフィン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP2500回復】\\n　キーアの作ったフワフワマフィン。上品な甘みが疲れを癒す。",
+    "Translation": ""
+  },
+  {
+    "Text": "お月見マフィン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP1000回復】\\n　オスカーの新作パン。挟んだ目玉焼きの半熟具合がポイント。",
+    "Translation": ""
+  },
+  {
+    "Text": "クリームメロンパン",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP3000回復】\\n　オスカーの新作パン。中にたっぷりクリームが詰まっている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ベネットワンダフル",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP7500回復】\\n　ベネットの新作パン。可愛らしさを追求した会心の一作。",
+    "Translation": ""
+  },
+  {
+    "Text": "極厚カツサンド",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP15000回復】\\n　オスカーの新作パン。ジューシーな濃厚カツが絶妙な味わい。",
+    "Translation": ""
+  },
+  {
+    "Text": "ラストハイキング",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP25000回復】\\n　オスカーの新作パン。さまざまな具材を生かした究極ブレッド。",
+    "Translation": ""
+  },
+  {
+    "Text": "みっしぃ饅頭",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP500回復 EP50回復】\\n　ミシュラムの名物マスコットをあしらった餡饅頭。",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇ団子",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP1500回復 EP150回復】\\n　ミシュラムのレアマスコットをあしらった桜色の団子。",
+    "Translation": ""
+  },
+  {
+    "Text": "缶ジュース",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP800回復 CP+5】\\n　果汁控えめの清涼飲料。ほどよい甘さでのど越しスッキリ。",
+    "Translation": ""
+  },
+  {
+    "Text": "缶コーヒー",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP200回復 CP+10】\\n　深い味わいの微糖コーヒー。疲れた体にホッと一息。",
+    "Translation": ""
+  },
+  {
+    "Text": "強壮にがトマ豚汁",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP3000回復 CP+30】\\n　炊き出しで振舞われた豚汁。腹の底から力が湧いてくる。",
+    "Translation": ""
+  },
+  {
+    "Text": "あったか豚汁",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP2500回復】\\n　炊き出しで振舞われた豚汁。心も身体も温まる。",
+    "Translation": ""
+  },
+  {
+    "Text": "スポリタンＸ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP2000回復 EP+250】\\n　いざという時頼れる一本。疲れた体にパワー充填。",
+    "Translation": ""
+  },
+  {
+    "Text": "にがトマトソーダ",
+    "Translation": ""
+  },
+  {
+    "Text": "【HP5000回復 CP+20】\\n　エグイ苦味が一部で人気。弱炭酸系清涼飲料。",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ①",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第１号【都市計画第五期プランが発表】\\n　　第五期プランが発表　気になる景気の動向は",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ②",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第２号【特集！　警備隊公開演習】\\n　　警備隊の今と将来　噂の新装備について聞く",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ③",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第３号【自治州創立記念祭迫る！】\\n　　来月に迫る７０周年創立記念祭を総力特集！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ号外",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度号外　【スクープ！　アルカンシェルプレ公演！】\\n　　市長暗殺未遂！　プレ公演の舞台裏で起こった驚愕の事件！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ④",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第４号【創立記念祭、始まる！】\\n　　歓声に沸くクロスベル市　今年の見所は！？",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑤",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第５号【記念祭特別号！】\\n　　盛り上がる記念祭の模様を余すことなくお届け！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑥",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第６号【ＩＢＣ、中間決算を発表】\\n　　今年も総資産額大陸一を達成！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑦",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第７号【予算議会、そして市長選へ】\\n　　議会は大荒れ　４ヶ月後の市長選は",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑧",
+    "Translation": ""
+  },
+  {
+    "Text": "０４年度第８号【黒月貿易公司襲撃事件に迫る！】\\n　　独占インタビュー敢行！　事件の裏側に迫る！",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　１巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第１回　闇医者」\\n　クロスベル自治州で出版された大衆娯楽小説の第１巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　２巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第２回　依頼」\\n　クロスベル自治州で出版された大衆娯楽小説の第２巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　３巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第３回　患者」\\n　クロスベル自治州で出版された大衆娯楽小説の第３巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　４巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第４回　結晶病」\\n　クロスベル自治州で出版された大衆娯楽小説の第４巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　５巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第５回　ルーファス」\\n　クロスベル自治州で出版された大衆娯楽小説の第５巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　６巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第６回　カタリナ」\\n　クロスベル自治州で出版された大衆娯楽小説の第６巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　７巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第７回　衝突」\\n　クロスベル自治州で出版された大衆娯楽小説の第７巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　８巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第８回　苛立ち」\\n　クロスベル自治州で出版された大衆娯楽小説の第８巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　９巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第９回　シェリー」\\n　クロスベル自治州で出版された大衆娯楽小説の第９巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　10巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第10回　希望」\\n　クロスベル自治州で出版された大衆娯楽小説の第10巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　11巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第11回　覚悟」\\n　クロスベル自治州で出版された大衆娯楽小説の第11巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　12巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第12回　手術」\\n　クロスベル自治州で出版された大衆娯楽小説の第12巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　13巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第13回　祈り」\\n　クロスベル自治州で出版された大衆娯楽小説の第13巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "闇医者グレン　14巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「最終回　グレン」\\n　クロスベル自治州で出版された大衆娯楽小説の最終巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "鉄道マニアのススメ",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\n鉄道好きの、鉄道好きによる、鉄道好きのための本。",
+    "Translation": ""
+  },
+  {
+    "Text": "マルクと深き森の魔女・上",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\n３冊セットの上巻で、中・下巻も刊行予定。",
+    "Translation": ""
+  },
+  {
+    "Text": "大陸を動かした美人たち",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\n大陸の歴史に多大な影響を与えた女性たちの記録が記されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "余った５分の有効な使い方",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\n時間を有効に使うための方法論が書かれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル怪奇全集",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\n本当にあった怪奇エピソード（※著者談）を集めている。",
+    "Translation": ""
+  },
+  {
+    "Text": "アルカンシェル・ＦＢ",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベル市の図書館から貸し出された書物。\\nアルカンシェルのファンが集まって出版した非公式ファンブック。",
+    "Translation": ""
+  },
+  {
+    "Text": "マルクと深き森の魔女・中",
+    "Translation": ""
+  },
+  {
+    "Text": "★図書館用★　アイテムには入らない",
+    "Translation": ""
+  },
+  {
+    "Text": "マルクと深き森の魔女・下",
+    "Translation": ""
+  },
+  {
+    "Text": "★図書館用★　アイテムには入らない",
+    "Translation": ""
+  },
+  {
+    "Text": "聖女と白い狼・上",
+    "Translation": ""
+  },
+  {
+    "Text": "★図書館用★　アイテムには入らない",
+    "Translation": ""
+  },
+  {
+    "Text": "聖女と白い狼・下",
+    "Translation": ""
+  },
+  {
+    "Text": "★図書館用★　アイテムには入らない",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ①",
+    "Translation": ""
+  },
+  {
+    "Text": "第１号【'05年度・経済指標予測が発表！】\\n　　通商会議近づく！　クロスベルの政治と経済への影響は",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ②",
+    "Translation": ""
+  },
+  {
+    "Text": "第２号【通商会議、始まる！】\\n　　ついに明日開催！　参加する各国首脳をチェック！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ③",
+    "Translation": ""
+  },
+  {
+    "Text": "第３号【速報、通商会議開催！】\\n　　首脳の動向と初日の様子をいち早くお届け！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ④",
+    "Translation": ""
+  },
+  {
+    "Text": "第４号【警察、テロ事件の概要を発表】\\n　　明かされた事件の過程　そして独立提唱の余波に迫る！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑤",
+    "Translation": ""
+  },
+  {
+    "Text": "第５号【特集　クロスベルは国家となるべきか】\\n　　迫る投票日　果たして国家独立の意義とは！？",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑥",
+    "Translation": ""
+  },
+  {
+    "Text": "第６号【速報！　警備隊、襲撃される！】\\n　　犠牲者多数！　マインツ住民の安否気遣われる！！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑦",
+    "Translation": ""
+  },
+  {
+    "Text": "第７号【戦慄！　謎の武装集団が市を襲撃！】\\n　　スクープ写真報道　無残にのこされた傷跡の数々！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑧",
+    "Translation": ""
+  },
+  {
+    "Text": "第８号【続報、クロスベル市襲撃事件】\\n　　市長、混乱収拾に全力　気遣われる犠牲者の容態は",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑨",
+    "Translation": ""
+  },
+  {
+    "Text": "第９号【クロスベル自治州、国家独立を宣言！！】\\n　　開票結果速報！　市長は独立宣言を断行！",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ号外",
+    "Translation": ""
+  },
+  {
+    "Text": "号外　【各国資産凍結宣言なされる！！】\\n　　ディーター市長、緊急会見！　他",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑩",
+    "Translation": ""
+  },
+  {
+    "Text": "第10号【特集　クロスベル独立国成立】\\n　　独立国体制から一ヶ月を振り返る　内外の反応は",
+    "Translation": ""
+  },
+  {
+    "Text": "クロスベルタイムズ⑪",
+    "Translation": ""
+  },
+  {
+    "Text": "第11号【ディーター大統領、身柄拘束！！】\\n　　緊急速報　大統領拘束の驚愕の背景！！",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　１巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第１回　クリーム色の少女」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第１巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　２巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第２回　イートン通信社にて」\\nクロスベル自治州で出版された大衆娯楽小説の第２巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　３巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第３回　金の瞳」\u0009\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第３巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　４巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第４回　正義の叫び」\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第４巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　５巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第５回　下り坂に風は吹く」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第５巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　６巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第６回　亀裂」\u0009\u0009\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第６巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　７巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第７回　エドウィンの正義」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第７巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　８巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第８回　２２枚の運命Ⅰ」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第８巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　９巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第９回　２２枚の運命Ⅱ」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第９巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　10巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第10回　女教皇の道」\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第10巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　11巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第11回　もう叫ぶしかない」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第11巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　12巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第12回　丘の上の蝕」\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第12巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　13巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「第13回　魔法使い」\u0009\u0009\u0009\\nクロスベル自治州で出版された大衆娯楽小説の第13巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "陽溜りのアニエス　14巻",
+    "Translation": ""
+  },
+  {
+    "Text": "「最終回　陽溜りのアニエス」\u0009\\nクロスベル自治州で出版された大衆娯楽小説の最終巻。",
+    "Translation": ""
+  },
+  {
+    "Text": "幻獣調査報告書",
+    "Translation": ""
+  },
+  {
+    "Text": "《幻獣》に関する警備隊による調査報告書。",
+    "Translation": ""
+  },
+  {
+    "Text": "傷付いた警察徽章",
+    "Translation": ""
+  },
+  {
+    "Text": "ロイドの兄、ガイ・バニングスのものと思われるバッジ。\\n表面に刃物で抉ったような傷が付いている。",
+    "Translation": ""
+  },
+  {
+    "Text": "メゾン・イメルダの鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "イメルダ夫人から受け取った古びた鍵。\\n旧市街のアパート『メゾン・イメルダ』に入ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ジオフロントＢの鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "ジオフロントＢ区画の扉を開けるための鍵。",
+    "Translation": ""
+  },
+  {
+    "Text": "旧鉱山の鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "鉱山町マインツのビクセン町長に借りた鍵。\\n旧鉱山に入ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣ認証カード",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣのエレベーターを使えるようになる認証用のカード。",
+    "Translation": ""
+  },
+  {
+    "Text": "メイリンの傘",
+    "Translation": ""
+  },
+  {
+    "Text": "『めいりん』という名前の書かれたピンク色の傘。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣプライマリカード",
+    "Translation": ""
+  },
+  {
+    "Text": "ＩＢＣの特別優待会員であることを示すカード。\\n窓口で高レートのセピス換金サービスを利用できる。",
+    "Translation": ""
+  },
+  {
+    "Text": "廃材",
+    "Translation": ""
+  },
+  {
+    "Text": "原型を失った、何かしらの部品や素材の成れの果て。\\n金属片を含んでいる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホワイトストーン",
+    "Translation": ""
+  },
+  {
+    "Text": "丸くて艶やかな、綺麗な白い石。\\n手のひらにちょうど収まる位の大きさ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホワイトストーン",
+    "Translation": ""
+  },
+  {
+    "Text": "丸くて艶やかな、綺麗な白い石。\\n指で摘めるほど小ぶりな大きさ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ホワイトストーン",
+    "Translation": ""
+  },
+  {
+    "Text": "丸くて艶やかな、綺麗な白い石。\\n片手では持ちきれないほどの大きさ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ニコルの問診表",
+    "Translation": ""
+  },
+  {
+    "Text": "ニコルから受け取った問診表。\\n処置後の体調変化について記載されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ディーノの問診表",
+    "Translation": ""
+  },
+  {
+    "Text": "ディーノから受け取った問診表。\\n処置後の体調変化について記載されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "クレス隊員の問診表",
+    "Translation": ""
+  },
+  {
+    "Text": "クレス隊員から受け取った問診表。\\n処置後の体調変化について記載されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "重い荷物",
+    "Translation": ""
+  },
+  {
+    "Text": "《赤レンガ亭》に誤配された重い荷物。\\n本来の宛先はウルスラ病院。",
+    "Translation": ""
+  },
+  {
+    "Text": "ワレモノの小包",
+    "Translation": ""
+  },
+  {
+    "Text": "《赤レンガ亭》に配達するはずだったワレモノ入りの小包。",
+    "Translation": ""
+  },
+  {
+    "Text": "住宅街の届け先の伝票",
+    "Translation": ""
+  },
+  {
+    "Text": "間違って他の荷物に貼り付けられてしまった伝票。\\n宛先は住宅街の民家。",
+    "Translation": ""
+  },
+  {
+    "Text": "蒼い花",
+    "Translation": ""
+  },
+  {
+    "Text": "街道に咲いていた正体不明の蒼い花。\\n纏っていた光は失われている。",
+    "Translation": ""
+  },
+  {
+    "Text": "フラグメント",
+    "Translation": ""
+  },
+  {
+    "Text": "淡い光を反射する結晶のカケラ。\\n特定の記憶結晶を修復することができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ローゼンベルク人形・Ｃ",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベル嬢が所有するローゼンベルク人形。\\n名前は『カナン』というらしい。",
+    "Translation": ""
+  },
+  {
+    "Text": "ローゼンベルク人形・Ｒ",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベル嬢が所有するローゼンベルク人形。\\n名前は『リエーテ』というらしい。",
+    "Translation": ""
+  },
+  {
+    "Text": "ローゼンベルク人形・Ｍ",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベル嬢が所有するローゼンベルク人形。\\n名前は『ミステル』というらしい。",
+    "Translation": ""
+  },
+  {
+    "Text": "ローゼンベルク人形・Ｓ",
+    "Translation": ""
+  },
+  {
+    "Text": "マリアベル嬢が所有するローゼンベルク人形。\\n名前は『シャロン』というらしい。",
+    "Translation": ""
+  },
+  {
+    "Text": "ポムっと！β版",
+    "Translation": ""
+  },
+  {
+    "Text": "『ポムっと！β版』のデータが入った記憶結晶。\\n端末にインストールすることでゲームが遊べる。",
+    "Translation": ""
+  },
+  {
+    "Text": "小さなトランク",
+    "Translation": ""
+  },
+  {
+    "Text": "ウルスラ病院に誤配された小さなトランク。\\n本来の宛先は住宅街の民家。",
+    "Translation": ""
+  },
+  {
+    "Text": "月の宝珠",
+    "Translation": ""
+  },
+  {
+    "Text": "月の僧院で手に入れた、ずっしりと重い宝珠。\\n",
+    "Translation": ""
+  },
+  {
+    "Text": "星の光玉",
+    "Translation": ""
+  },
+  {
+    "Text": "星見の塔で手に入れた、淡く輝く光玉。\\n",
+    "Translation": ""
+  },
+  {
+    "Text": "にがトマトペースト",
+    "Translation": ""
+  },
+  {
+    "Text": "にがトマトのエキスがたっぷり詰まったペースト。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミスコン特別賞記念盾",
+    "Translation": ""
+  },
+  {
+    "Text": "ミス・クロスベルコンテストで手に入れた審査員特別賞記念盾。\\nエリィの名前が刻まれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミスコン特別賞記念盾",
+    "Translation": ""
+  },
+  {
+    "Text": "ミス・クロスベルコンテストで手に入れた審査員特別賞記念盾。\\nティオの名前が刻まれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミスコン特別賞記念盾",
+    "Translation": ""
+  },
+  {
+    "Text": "ミス・クロスベルコンテストで手に入れた審査員特別賞記念盾。\\nノエルの名前が刻まれている。",
+    "Translation": ""
+  },
+  {
+    "Text": "紺碧のロッド",
+    "Translation": ""
+  },
+  {
+    "Text": "ブルドラゴンが吐き出した、伝説の釣具パーツの１つ。\\nしなやかさと強靭さが絶妙なバランスで共存している。",
+    "Translation": ""
+  },
+  {
+    "Text": "琥珀のリール",
+    "Translation": ""
+  },
+  {
+    "Text": "ティガロックが吐き出した、伝説の釣具パーツの１つ。\\n精密さと堅牢さが極限のレベルで両立されている。",
+    "Translation": ""
+  },
+  {
+    "Text": "翡翠のライン",
+    "Translation": ""
+  },
+  {
+    "Text": "エメロドが吐き出した、伝説の釣具パーツの１つ。\\n髪の毛のような細さでワイヤーにも勝る強靭さを持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "紅蓮のフック",
+    "Translation": ""
+  },
+  {
+    "Text": "クリムゾンイータが吐き出した、伝説の釣具パーツの１つ。\\n鋭い先端がどんな相手でも確実にフッキングする。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミニサンドバッグ",
+    "Translation": ""
+  },
+  {
+    "Text": "手軽にパンチワークが楽しめるミニサンドバッグ。\\nロイドの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "トリスタン号",
+    "Translation": ""
+  },
+  {
+    "Text": "架空の飛行機械を模した本格的な模型。\\nロイドの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "瀟洒な姿見",
+    "Translation": ""
+  },
+  {
+    "Text": "気品の漂う装飾が施された姿見。\\nエリィの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "オルゴール",
+    "Translation": ""
+  },
+  {
+    "Text": "開くと美しい音色を奏でる年代物のオルゴール。\\nエリィの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "カゲマル貯金箱",
+    "Translation": ""
+  },
+  {
+    "Text": "人気の小説に登場する黒猫をあしらった貯金箱。\\nティオの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "みーしぇぐるみ",
+    "Translation": ""
+  },
+  {
+    "Text": "ミシュラムの限定隠しマスコットをあしらったぬいぐるみ。\\nティオの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "サーフボード",
+    "Translation": ""
+  },
+  {
+    "Text": "炎のエンブレムをプリントしたサーフボード。\\nランディの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ジュークボックス",
+    "Translation": ""
+  },
+  {
+    "Text": "コインを入れると曲を奏でる、ややレトロな導力蓄音機。\\nランディの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "レース用フラッグ",
+    "Translation": ""
+  },
+  {
+    "Text": "導力車レースで盛んに振られる専用のフラッグ。\\nノエルの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミニベロ自転車",
+    "Translation": ""
+  },
+  {
+    "Text": "気軽に乗れる小型の自転車。\\nノエルの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "コンフォートチェア",
+    "Translation": ""
+  },
+  {
+    "Text": "リクライニングのできる座り心地満点の安楽椅子。\\nワジの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ミニ・アクアリウム",
+    "Translation": ""
+  },
+  {
+    "Text": "熱帯魚を飼育できる小型の水槽セット。\\nワジの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "変なクッション",
+    "Translation": ""
+  },
+  {
+    "Text": "謎のキャラクタをあしらった手作りのクッション。\\nキーアの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ポムクッション",
+    "Translation": ""
+  },
+  {
+    "Text": "可愛らしいポムをあしらったフワフワのクッション。\\nキーアの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "黒テディベア",
+    "Translation": ""
+  },
+  {
+    "Text": "ちょっとしたブランド物のテディベア。\\nキーアの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "にがとまとにあん",
+    "Translation": ""
+  },
+  {
+    "Text": "製造元不明の妙に気を引くぬいぐるみ。\\nキーアの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＺＷＥＩ２ペンギン",
+    "Translation": ""
+  },
+  {
+    "Text": "バケツを被った謎のペンギンの着ぐるみ。\\nキーアの自室に飾ることができる。",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のキー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課に支給された新型導力車のキー。",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｍ・Ｗ・Ｌチケット",
+    "Translation": ""
+  },
+  {
+    "Text": "ミシュラム・ワンダーランドのアトラクションが自由に遊べるチケット。",
+    "Translation": ""
+  },
+  {
+    "Text": "一時認証カード",
+    "Translation": ""
+  },
+  {
+    "Text": "オルキスタワーのエレベーターを使えるようになる認証用のカード。",
+    "Translation": ""
+  },
+  {
+    "Text": "オーバーフェンダー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n泥よけを追加し、より快適な走行を可能にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "サイドステップ",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\nアルミ製のサイドステップで乗り降りを快適にする。",
+    "Translation": ""
+  },
+  {
+    "Text": "リアスポイラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n大きな後方翼により車体の振動を吸収する。",
+    "Translation": ""
+  },
+  {
+    "Text": "フロントバンパー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n頑強なバンパーにより安全性を向上させる。",
+    "Translation": ""
+  },
+  {
+    "Text": "パトランプ",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\nクロスベル警察標準のパトランプを追加する。",
+    "Translation": ""
+  },
+  {
+    "Text": "強化ホイール",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n専用のアルミホイールで足回りを強化する。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＨＰチャージャー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n車内でＨＰの回復機能が使えるようになる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＥＰチャージャー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n車内でＥＰの回復機能が使えるようになる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＣＰチャージャー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のカスタムパーツ。\\n車内でＣＰの回復機能が使えるようになる。",
+    "Translation": ""
+  },
+  {
+    "Text": "ＣＰＤカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\nクロスベル警察標準のパトカラー。",
+    "Translation": ""
+  },
+  {
+    "Text": "みっしぃカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\nマスコットキャラ『みっしぃ』を全面にプッシュ。",
+    "Translation": ""
+  },
+  {
+    "Text": "ペインカラーＥ",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n可愛らしいＳＤエリィで車体を華々しく飾る。",
+    "Translation": ""
+  },
+  {
+    "Text": "ペインカラーＴ",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n可愛らしいＳＤティオで車体を華々しく飾る。",
+    "Translation": ""
+  },
+  {
+    "Text": "スカイカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n青と白のツートンカラーで爽やかに纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "ノーブルカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n上品な赤と金文字でシックに纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "チャームカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\nパープルブルーと肉球マークでチャーミングに纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "ワイルドカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n鮮やかな黄色とオレンジで情熱的に纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "クールカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n紺を基調に蛍光色を使ってクールに纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "ガードカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n無光沢のアイビーグリーンで真面目に纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "ポップカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n柔らかい緑と白でシンプルかつポップに纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "シャインカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n眩しいシルバーと赤いライン線で軽快に纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "ディープカラー",
+    "Translation": ""
+  },
+  {
+    "Text": "支援課車両のペイントガイド。\\n重量感のあるワインレッドで大人っぽく纏める。",
+    "Translation": ""
+  },
+  {
+    "Text": "金属探知機",
+    "Translation": ""
+  },
+  {
+    "Text": "ギヨーム親方が作った金属探知機。\\n金属以外のものにも反応するかも？",
+    "Translation": ""
+  },
+  {
+    "Text": "銀耀石の鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "《戒の領域》で手に入れた銀色の鍵。\\n対応する扉を開くことが出来る。",
+    "Translation": ""
+  },
+  {
+    "Text": "金耀石の鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "《戒の領域》で手に入れた金色の鍵。\\n対応する扉を開くことが出来る。",
+    "Translation": ""
+  },
+  {
+    "Text": "黒耀石の鍵",
+    "Translation": ""
+  },
+  {
+    "Text": "《戒の領域》で手に入れた黒色の鍵。\\n対応する扉を開くことが出来る。",
+    "Translation": ""
+  },
+  {
+    "Text": "赤いカードキー",
+    "Translation": ""
+  },
+  {
+    "Text": "オルキスタワー内で発見したカードキー。\\nどこかの扉のセキュリティーを解除する。",
+    "Translation": ""
+  },
+  {
+    "Text": "Ｕマテリアル",
+    "Translation": ""
+  },
+  {
+    "Text": "解析不能の未知の物質。\\n工房に持っていくと改造素材として使える。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼムリアストーンの欠片",
+    "Translation": ""
+  },
+  {
+    "Text": "星のような煌めきを放つ鉱物の欠片。\\nいくつか集めることでゼムリアストーン１個分の価値を持つ。",
+    "Translation": ""
+  },
+  {
+    "Text": "デヴァインクロス",
+    "Translation": ""
+  },
+  {
+    "Text": "絶滅種となった蚕からしか紡げない幻の布。\\n工房に持っていくと改造素材として使える。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゼムリアストーン",
+    "Translation": ""
+  },
+  {
+    "Text": "無数の星のような煌めきを放つ鉱物の塊。\\nあまりに硬いため加工法が見つかっていない。",
+    "Translation": ""
+  },
+  {
+    "Text": "グリーンチャーム",
+    "Translation": ""
+  },
+  {
+    "Text": "【ADF+20 MOV+1 回避率+10％】\\n　エリィがロイドのために見立てて購入した、翠耀石の宝石飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ブルーチャーム",
+    "Translation": ""
+  },
+  {
+    "Text": "【ATS+10 SPD+2 回避率+10％】\\n　ティオがロイドのために見立てて購入した、蒼耀石の宝石飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "レッドチャーム",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+10 SPD+2 命中率+20％】\\n　ランディがロイドのために見立てて購入した、紅耀石の宝石飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "イエローチャーム",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+20 MOV+1 命中率+20％】\\n　ノエルがロイドのために見立てて購入した、琥耀石の宝石飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ゴールドチャーム",
+    "Translation": ""
+  },
+  {
+    "Text": "【ATS+5 SPD+5 MOV+1】\\n　ワジがロイドのために見立てて購入した、金耀石の宝石飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "シュリの帽子",
+    "Translation": ""
+  },
+  {
+    "Text": "【SPD+15 MOV+5 回避率+20％】\\n　シュリから預かった愛用の帽子。",
+    "Translation": ""
+  },
+  {
+    "Text": "フランのお守り",
+    "Translation": ""
+  },
+  {
+    "Text": "【DEF+200 ADF+200 回避率+10％】\\n　フランの真心がこもった、手作りのお守り。",
+    "Translation": ""
+  },
+  {
+    "Text": "舞姫の髪飾り",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR+50 ATS+50 SPD+10 命中率+50％】\\n　イリアが初主演時に付けていた髪飾り。",
+    "Translation": ""
+  },
+  {
+    "Text": "ヴァリアントハート",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR/DEF/ATS/ADF+100】\\n　セシルから預かった、ガイの想いがこもったアクセサリ。",
+    "Translation": ""
+  },
+  {
+    "Text": "零の神珠",
+    "Translation": ""
+  },
+  {
+    "Text": "【STR/DEF/ATS/ADF+50 「全状態異常」無効化】\\n　キーアの机の上で見つけた、神秘的な光を放つホワイトストーン。",
+    "Translation": ""
+  },
+  {
+    "Text": " ",
+    "Translation": ""
+  },
+  {
+    "Text": " ",
+    "Translation": ""
+  }
+]

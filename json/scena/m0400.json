@@ -1,0 +1,273 @@
+[
+  {
+    "Text": "rai00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "05_add",
+    "Translation": ""
+  },
+  {
+    "Text": "under_add",
+    "Translation": ""
+  },
+  {
+    "Text": "ugoku01",
+    "Translation": ""
+  },
+  {
+    "Text": "rai00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "05_add",
+    "Translation": ""
+  },
+  {
+    "Text": "under_add",
+    "Translation": ""
+  },
+  {
+    "Text": "ugoku01",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#12P",
+      "#01401F",
+      "#4052V",
+      "#30W",
+      "#15A",
+      "──時間が惜しい。\u0001",
+      "先行するぞ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00607F",
+      "#3458V",
+      "#30W",
+      "#15A",
+      "#11P",
+      "遅れずに付いてくるがいい！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00005F",
+      "#11P",
+      "#10A",
+      "あ……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00306F",
+      "#11P",
+      "やれやれ……\u0001",
+      "元気な兄さんたちだぜ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00101F",
+      "#11P",
+      "私たちも急ぎましょう。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#6P",
+      "#00007F",
+      "#5P",
+      "ああ……！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00011F",
+      "#11P",
+      "これは……凄い所に出たな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10111F",
+      "#11P",
+      "何だか圧倒されますね……\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#10305F",
+      "#11P",
+      "へえ……\u0001",
+      "どういう場所なんだい？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#11P",
+      "#00203F",
+      "オルキスタワーの\u0001",
+      "メインシャフトになりますね。\u0002",
+      "\u0003",
+      "#00200F",
+      "巨大なタワーの重量を\u0001",
+      "分散するための場所みたいです。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00106F",
+      "#11P",
+      "話は聞いていたけど……\u0001",
+      "こんなに大きな空間とは\u0001",
+      "知らなかったわ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00301F",
+      "#5P",
+      "ま、とにかく急ごうぜ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#5P",
+      "#00001F",
+      "ああ、南の方だ。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "rai00_add",
+    "Translation": ""
+  },
+  {
+    "Text": "01_add",
+    "Translation": ""
+  },
+  {
+    "Text": "02_add",
+    "Translation": ""
+  },
+  {
+    "Text": "03_add",
+    "Translation": ""
+  },
+  {
+    "Text": "04_add",
+    "Translation": ""
+  },
+  {
+    "Text": "05_add",
+    "Translation": ""
+  },
+  {
+    "Text": "under_add",
+    "Translation": ""
+  },
+  {
+    "Text": "ugoku01",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00001F",
+      "俺たちも先を急ごう！\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": "",
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "\u0007\u0005",
+      "※　この先、シャフト制御室　※\u0001",
+      "※　関係者以外立ち入り禁止　※",
+      "\u0007\u0000",
+      "\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00303F",
+      "まさか、こっちの方には\u0001",
+      "行ってねえよな？\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00200F",
+      "ええ、セキュリティが\u0001",
+      "解除された様子もないので\u0001",
+      "この先は大丈夫なはずです。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00001F",
+      "――ならダドリーさんたちを\u0001",
+      "追うだけだな。\u0002"
+    ],
+    "Translation": ""
+  },
+  {
+    "Text": [
+      "#00101F",
+      "ええ、南に向かいましょう。\u0002"
+    ],
+    "Translation": ""
+  }
+]
